@@ -86,14 +86,14 @@ SCENARIOS = {
         "completion_date_actual": datetime(2026, 6, 25),        
         "total_simulations": 10000,
     },
-    # "synthetic_nontc_base": {
-    #     "title": "Synthetic Non-TC - BASE - NO SLR",
-    #     "category": "Non-Tropical Cyclones",
-    #     "start_date": datetime(2026, 6, 15),
-    #     "completion_date_projected": datetime(2026, 6, 30),
-    #     "completion_date_actual": datetime(2026, 6, 30),
-    #     "total_simulations": 10000,
-    # },
+    "synthetic_nontc_base": {
+        "title": "Synthetic Non-TC - BASE - NO SLR",
+        "category": "Non-Tropical Cyclones",
+        "start_date": datetime(2026, 6, 15),
+        "completion_date_projected": datetime(2026, 6, 30),
+        "completion_date_actual": datetime(2026, 6, 30),
+        "total_simulations": 10000,
+    },
 
 }
 
@@ -108,7 +108,7 @@ GROUPED_SCENARIOS = group_scenarios(SCENARIOS)
 
 
 # Default scenario key (as requested)
-DEFAULT_SCENARIO_KEY = "synthetic_nontc_slr4"
+DEFAULT_SCENARIO_KEY = "optimal_sample_base"
 
 # Data root
 ROOT_DIR = r"https://raw.githubusercontent.com/akhalid-twi/LWI-production/refs/heads/main/assets"
