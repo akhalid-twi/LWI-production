@@ -70,7 +70,7 @@ def highlight_status(row):
 
 # Centralized scenario registry
 SCENARIOS = {
-    "erdc_baseline_reruns": {
+    "cpra_baseline": {
          "title": "CPRA BASELINE",
          "category": "Base",
          "start_date": datetime(2026, 5, 28),
@@ -86,14 +86,14 @@ SCENARIOS = {
         "completion_date_actual": datetime(2026, 6, 25),        
         "total_simulations": 10000,
     },
-    "synthetic_nontc_base": {
-        "title": "Synthetic Non-TC - BASE - NO SLR",
-        "category": "Non-Tropical Cyclones",
-        "start_date": datetime(2026, 6, 15),
-        "completion_date_projected": datetime(2026, 6, 30),
-        "completion_date_actual": datetime(2026, 6, 30),
-        "total_simulations": 10000,
-    },
+    # "synthetic_nontc_base": {
+    #     "title": "Synthetic Non-TC - BASE - NO SLR",
+    #     "category": "Non-Tropical Cyclones",
+    #     "start_date": datetime(2026, 6, 15),
+    #     "completion_date_projected": datetime(2026, 6, 30),
+    #     "completion_date_actual": datetime(2026, 6, 30),
+    #     "total_simulations": 10000,
+    # },
 
 }
 
