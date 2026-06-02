@@ -70,7 +70,7 @@ def highlight_status(row):
 
 # Centralized scenario registry
 SCENARIOS = {
-    "cpra_baseline": {
+    "cpra_base": {
          "title": "CPRA BASELINE",
          "category": "Base",
          "start_date": datetime(2026, 5, 28),
