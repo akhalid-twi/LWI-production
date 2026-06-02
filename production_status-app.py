@@ -71,62 +71,29 @@ def highlight_status(row):
 # Centralized scenario registry
 SCENARIOS = {
     "erdc_baseline_reruns": {
-         "title": "ERDC BASELINE",
+         "title": "CPRA BASELINE",
          "category": "Base",
-         "start_date": datetime(2026, 1, 1),
-         "completion_date_projected": datetime(2026, 1, 15),
-         "completion_date_actual": datetime(2026, 1, 15),       
-         "total_simulations": 505,
+         "start_date": datetime(2026, 5, 28),
+         "completion_date_projected": datetime(2026, 5, 31),
+         "completion_date_actual": datetime(2026, 5, 31),       
+         "total_simulations": 645,
      },
-    "a_optimal_sample_base": {
+    "optimal_sample_base": {
         "title": "Optimal Sample - BASE - NO SLR",
         "category": "Tropical Cyclones",
-        "start_date": datetime(2026, 1, 1),
-        "completion_date_projected": datetime(2026, 1, 15),
-        "completion_date_actual": datetime(2026, 1, 25),        
-        "total_simulations": 10000,
-    },
-    "optimal_sample_SLR4": {
-        "title": "Optimal Sample - SLR - IntHigh 2070",
-        "category": "Tropical Cyclones",
-        "start_date": datetime(2026, 2, 6),
-        "completion_date_projected": datetime(2026, 2, 24),
-        "completion_date_actual": datetime(2026, 3, 3),
-        "total_simulations": 10000,
-    },
-    "optimal_sample_SLR1": {
-        "title": "Optimal Sample - SLR - IntLow 2040",
-        "category": "Tropical Cyclones",
-        "start_date": datetime(2026, 3, 23),
-        "completion_date_projected": datetime(2026, 4, 10),
-        "completion_date_actual": datetime(2026, 4, 23),
+        "start_date": datetime(2026, 6, 1),
+        "completion_date_projected": datetime(2026, 6, 15),
+        "completion_date_actual": datetime(2026, 6, 25),        
         "total_simulations": 10000,
     },
     "synthetic_nontc_base": {
         "title": "Synthetic Non-TC - BASE - NO SLR",
         "category": "Non-Tropical Cyclones",
-        "start_date": datetime(2026, 5, 14),
-        "completion_date_projected": datetime(2026, 5, 20),
-        "completion_date_actual": datetime(2026, 5, 20),
-        "total_simulations": 3648,
+        "start_date": datetime(2026, 6, 15),
+        "completion_date_projected": datetime(2026, 6, 30),
+        "completion_date_actual": datetime(2026, 6, 30),
+        "total_simulations": 10000,
     },
-    "synthetic_nontc_slr1": {
-        "title": "Synthetic Non-TC - SLR - IntLow 2040",
-        "category": "Non-Tropical Cyclones",
-        "start_date": datetime(2026, 5, 23),
-        "completion_date_projected": datetime(2026, 5, 28),
-        "completion_date_actual": datetime(2026, 5, 26),
-        "total_simulations": 3648,
-    },
-    "synthetic_nontc_slr4": {
-        "title": "Synthetic Non-TC - SLR - IntHigh 2070",
-        "category": "Non-Tropical Cyclones",
-        "start_date": datetime(2026, 5, 27),
-        "completion_date_projected": datetime(2026, 5, 31),
-        "completion_date_actual": datetime(2026, 5, 31),
-        "total_simulations": 3648,
-    },
-
 
 }
 
@@ -144,11 +111,11 @@ GROUPED_SCENARIOS = group_scenarios(SCENARIOS)
 DEFAULT_SCENARIO_KEY = "synthetic_nontc_slr4"
 
 # Data root
-ROOT_DIR = r"https://raw.githubusercontent.com/akhalid-twi/COJ-production/refs/heads/main/assets"
+ROOT_DIR = r"https://raw.githubusercontent.com/akhalid-twi/LWI-production/refs/heads/main/assets"
 
 
 
-st.set_page_config(page_title="COJ Production Dashboard", layout="centered")
+st.set_page_config(page_title="LWI Production Dashboard", layout="centered")
 
 # =============================================================================
 # Data loading helpers (cached)
@@ -241,7 +208,7 @@ def get_last_updated_dt(scenario_key: str):
         # Path within repo
         modified_datetime = get_last_modified(
             owner="akhalid-twi",
-            repo="COJ-production",
+            repo="LWI-production",
             path=f"assets/{csv_basic}",
         )
     return modified_datetime
@@ -251,7 +218,7 @@ def get_last_updated_dt(scenario_key: str):
 # App UI
 # =============================================================================
 
-st.title("COJ Production Dashboard")
+st.title("LWI Production Dashboard")
 st.markdown("---")
 
 # 1. Initialize global states cleanly
@@ -752,17 +719,6 @@ styled_df = df.style.apply(highlight_status, axis=1)
 
 st.subheader("Status Table")
 st.dataframe(styled_df)
-
-#------------------------------
-# Available Plan to Review
-#------------------------------
-
-#st.subheader("Available QC files to Review")
-notebook_url = "https://github.com/akhalid-twi/COJ-production/blob/a6fc0713035084895f43efde2e3915ecd67960e5/example_qc/results_S0155_notebook.ipynb"
-download_url = "https://raw.githubusercontent.com/akhalid-twi/COJ-production/a6fc0713035084895f43efde2e3915ecd67960e5/example_qc/results_S0155_notebook.html"
-
-#st.markdown(f'<a href="{notebook_url}" target="_blank">🔗 View Notebook for S0155 (code blocks are not hidden)</a>', unsafe_allow_html=True)
-#st.markdown(f'<a href="{download_url}" download target="_blank">⬇️ Download HTML Report for S0155</a>', unsafe_allow_html=True)
 
 
 #------------------------------
