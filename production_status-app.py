@@ -82,8 +82,8 @@ SCENARIOS = {
         "title": "Optimal Sample - BASE - NO SLR",
         "category": "Tropical Cyclones",
         "start_date": datetime(2026, 6, 1),
-        "completion_date_projected": datetime(2026, 6, 15),
-        "completion_date_actual": datetime(2026, 6, 15),        
+        "completion_date_projected": datetime(2026, 6, 21),
+        "completion_date_actual": datetime(2026, 6, 24),        
         "total_simulations": 10000,
     },
     "synthetic_nontc_base": {
