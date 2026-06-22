@@ -325,7 +325,7 @@ with context_manager:
         st.stop()
 
     # --- Derived metrics (your processing) ---
-    df_completed = df[df.Status == 'Completed']
+    df_completed = df[df.Status == 'SUCCESS']
     df_not_running = df[df.Status!='Running']
     running_on_psc = int(len(df[df.Status=='Running']))
 
