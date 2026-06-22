@@ -325,13 +325,13 @@ with context_manager:
         st.stop()
 
     # --- Derived metrics (your processing) ---
-
+    df_completed = df[df.Status == 'Completed']
     df_not_running = df[df.Status!='Running']
     running_on_psc = int(len(df[df.Status=='Running']))
 
     total_simulations = int(scenario_cfg.get("total_simulations", 10_000))
 
-    completed_simulations = int(len(df_not_running) if df_not_running is not None else 0)
+    completed_simulations = int(len(df_completed)) #int(len(df_not_running) if df_not_running is not None else 0)
     progress_percent = min(int((completed_simulations / total_simulations) * 100), 100)
 
     # --- Plotting (keep your plotting inside spinner so it covers render time) ---
