@@ -109,6 +109,7 @@ GROUPED_SCENARIOS = group_scenarios(SCENARIOS)
 
 # Default scenario key (as requested)
 DEFAULT_SCENARIO_KEY = "optimal_sample_base"
+DEFAULT_SCENARIO_KEY = "nontc_synthetic_base"
 
 # Data root
 ROOT_DIR = r"https://raw.githubusercontent.com/akhalid-twi/LWI-production/refs/heads/main/assets"
