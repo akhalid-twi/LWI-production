@@ -86,12 +86,12 @@ SCENARIOS = {
         "completion_date_actual": datetime(2026, 6, 24),        
         "total_simulations": 10000,
     },
-    "synthetic_nontc_base": {
+    "nontc_synthetic_base": {
         "title": "Synthetic Non-TC - BASE - NO SLR",
         "category": "Non-Tropical Cyclones",
-        "start_date": datetime(2026, 6, 15),
-        "completion_date_projected": datetime(2026, 6, 30),
-        "completion_date_actual": datetime(2026, 6, 30),
+        "start_date": datetime(2026, 11, 15),
+        "completion_date_projected": datetime(2026, 12, 05),
+        "completion_date_actual": datetime(2026, 12, 05),
         "total_simulations": 10000,
     },
 
