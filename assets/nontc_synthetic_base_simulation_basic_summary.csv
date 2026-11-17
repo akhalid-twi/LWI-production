@@ -2076,5 +2076,3 @@ syn_event_West_L-L-H_c0500_SM3_BF1_Base,Incomplete Model run,N/A,0,,N/A,N/A,N/A,
 syn_event_West_L-L-H_c0501_SM3_BF1_Base,Incomplete Model run,N/A,0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_L-L-H_c0502_SM3_BF1_Base,Incomplete Model run,N/A,0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_L-L-H_c0503_SM3_BF1_Base,Incomplete Model run,N/A,0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_L-L-H_c0064_SM3_BF1_Base,Failed,N/A,0,run too short (< 2 h): storm forcing not applied?,3889.,0.01154,17.51,Mon Nov 16 12:08:33 PM CST 2026,Mon Nov 16 12:26:45 PM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_L-L-H_c0072_SM3_BF1_Base,Failed,N/A,0,run too short (< 2 h): storm forcing not applied?,3889.,0.01154,17.51,Mon Nov 16 12:07:29 PM CST 2026,Mon Nov 16 12:25:43 PM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
