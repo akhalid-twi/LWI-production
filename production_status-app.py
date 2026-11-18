@@ -92,7 +92,7 @@ SCENARIOS = {
         "start_date": datetime(2026, 11, 15),
         "completion_date_projected": datetime(2026, 12, 5),
         "completion_date_actual": datetime(2026, 12, 5),
-        "total_simulations": 2077,   # West non-TC storms (2,079 minus 2 dropped: no CORA for 2023)
+        "total_simulations": 10000,  # all non-TC regions; per-region targets in REGION_TOTALS
     },
 
 }
@@ -348,8 +348,25 @@ with context_manager:
     with col3:
         st.metric("Total", f"{total_simulations:,}")
 
-    progress_text = f"Processing simulations... {progress_percent}% complete"
+    # storms per region in the non-TC production (dropped storms excluded); None = not generated yet
+    REGION_TOTALS = {"West": 2077, "Northeast": 2014, "Central": None, "Southeast": None}
+    non_tc = scenario_cfg.get("category") == "Non-Tropical Cyclones" and "Directory" in df.columns
+    region_of = (df["Directory"].astype(str).str.extract(r"syn_event_([A-Za-z]+)_", expand=False).fillna("Other")
+                 if "Directory" in df.columns else None)
+
+    label = "All regions: " if non_tc else ""
+    progress_text = (f"{label}{completed_simulations:,} / {total_simulations:,} complete ({progress_percent}%)")
     st.progress(progress_percent, text=progress_text)
+    if non_tc:                                    # one bar per region that has started
+        for region, total in REGION_TOTALS.items():
+            in_region = region_of == region
+            done = int((in_region & (df.Status == "SUCCESS")).sum())
+            running = int((in_region & (df.Status == "Running")).sum())
+            if not total or done + running == 0:
+                continue
+            st.progress(min(done / total, 1.0),
+                        text=f"{region}: {done:,} / {total:,} complete ({100 * done / total:.0f}%)"
+                             + (f", {running:,} running" if running else ""))
 
     # --- compact cards: name, main number, small detail line (no arrows, fits narrow columns) ---
     def _cards(title, items):
@@ -365,11 +382,8 @@ with context_manager:
                     unsafe_allow_html=True)
 
     # --- By region (non-tropical only; from the storm name: syn_event_<Region>_...) ---
-    # storms per region in the production (dropped storms excluded); None = not generated yet
-    REGION_TOTALS = {"West": 2077, "Northeast": 2014, "Central": None, "Southeast": None}
-    if scenario_cfg.get("category") == "Non-Tropical Cyclones" and "Directory" in df.columns:
-        reg = df["Directory"].astype(str).str.extract(r"syn_event_([A-Za-z]+)_", expand=False).fillna("Other")
-        by_reg = df.assign(Region=reg).groupby(["Region", "Status"]).size().unstack(fill_value=0)
+    if non_tc:
+        by_reg = df.assign(Region=region_of).groupby(["Region", "Status"]).size().unstack(fill_value=0)
         items = []
         for region, total in REGION_TOTALS.items():
             r = by_reg.loc[region] if region in by_reg.index else {}
