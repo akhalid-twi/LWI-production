@@ -251,7 +251,7 @@ syn_event_West_H-L-H_c0046_SM3_BF1_Base,SUCCESS,6.567222222222222,1.75,,2229820.
 syn_event_West_H-L-H_c0047_SM3_BF1_Base,SUCCESS,7.279166666666667,2.0,,4050722.,2.779,17.51,Tue Nov 17 04:29:05 PM CST 2026,Tue Nov 17 11:45:50 PM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-H_c0048_SM3_BF1_Base,SUCCESS,6.903888888888889,1.75,,3043326.,2.313,17.51,Tue Nov 17 04:16:37 PM CST 2026,Tue Nov 17 11:10:51 PM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-H_c0049_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 17 16:09,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-H_c0050_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 17 16:09,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-H_c0050_SM3_BF1_Base,SUCCESS,8.120833333333334,2.25,,7253126.,4.966,23.60,Tue Nov 17 04:16:44 PM CST 2026,Wed Nov 18 12:23:59 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-H_c0051_SM3_BF1_Base,SUCCESS,6.3630555555555555,1.75,,1134611.,0.8125,17.51,Tue Nov 17 04:16:33 PM CST 2026,Tue Nov 17 10:38:20 PM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-H_c0052_SM3_BF1_Base,SUCCESS,6.7636111111111115,1.75,,4088342.,2.150,17.51,Tue Nov 17 04:17:16 PM CST 2026,Tue Nov 17 11:03:05 PM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-H_c0053_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 17 16:09,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
@@ -267,7 +267,7 @@ syn_event_West_H-L-H_c0063_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 17 16:0
 syn_event_West_H-L-H_c0064_SM3_BF1_Base,SUCCESS,7.458888888888889,2.0,,4780088.,3.385,17.51,Tue Nov 17 04:26:45 PM CST 2026,Tue Nov 17 11:54:17 PM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-H_c0065_SM3_BF1_Base,SUCCESS,7.023611111111111,2.0,,2275671.,1.612,17.51,Tue Nov 17 04:26:29 PM CST 2026,Tue Nov 17 11:27:54 PM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-H_c0066_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 17 16:13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-H_c0067_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 17 16:13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-H_c0067_SM3_BF1_Base,SUCCESS,8.026944444444446,2.25,,7432110.,5.419,18.70,Tue Nov 17 04:27:57 PM CST 2026,Wed Nov 18 12:29:34 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-H_c0069_SM3_BF1_Base,SUCCESS,6.844166666666666,1.75,,2895113.,1.895,17.51,Tue Nov 17 04:26:24 PM CST 2026,Tue Nov 17 11:17:03 PM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-H_c0070_SM3_BF1_Base,SUCCESS,6.230555555555556,1.75,,1015804.,0.7538,17.51,Tue Nov 17 04:35:11 PM CST 2026,Tue Nov 17 10:49:01 PM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-H_c0071_SM3_BF1_Base,SUCCESS,6.224166666666667,1.75,,1837613.,1.109,18.65,Tue Nov 17 04:34:29 PM CST 2026,Tue Nov 17 10:47:56 PM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
@@ -278,16 +278,16 @@ syn_event_West_H-L-H_c0076_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 17 16:1
 syn_event_West_H-L-H_c0077_SM3_BF1_Base,SUCCESS,6.3613888888888885,1.75,,1008899.,0.7344,17.51,Tue Nov 17 04:21:02 PM CST 2026,Tue Nov 17 10:42:43 PM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-H_c0078_SM3_BF1_Base,SUCCESS,6.6322222222222225,1.75,,2184039.,1.457,17.51,Tue Nov 17 04:21:24 PM CST 2026,Tue Nov 17 10:59:20 PM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-H_c0079_SM3_BF1_Base,SUCCESS,7.478055555555556,2.0,,3661164.,2.810,17.51,Tue Nov 17 04:21:02 PM CST 2026,Tue Nov 17 11:49:43 PM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-H_c0080_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 17 16:11,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-H_c0080_SM3_BF1_Base,SUCCESS,8.078888888888889,2.25,,4092380.,3.142,17.51,Tue Nov 17 04:21:22 PM CST 2026,Wed Nov 18 12:26:06 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-H_c0081_SM3_BF1_Base,SUCCESS,6.736944444444444,1.75,,2391240.,1.587,17.51,Tue Nov 17 04:31:48 PM CST 2026,Tue Nov 17 11:16:01 PM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-H_c0083_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 17 16:12,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-H_c0084_SM3_BF1_Base,SUCCESS,6.655,1.75,,1937472.,1.403,17.51,Tue Nov 17 04:32:03 PM CST 2026,Tue Nov 17 11:11:21 PM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-H_c0085_SM3_BF1_Base,SUCCESS,7.186388888888889,2.0,,3533037.,2.182,27.26,Tue Nov 17 04:30:20 PM CST 2026,Tue Nov 17 11:41:31 PM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-H_c0086_SM3_BF1_Base,SUCCESS,6.564444444444444,1.75,,1848935.,1.207,17.51,Tue Nov 17 04:30:45 PM CST 2026,Tue Nov 17 11:04:37 PM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-H_c0088_SM3_BF1_Base,SUCCESS,6.925277777777778,1.75,,2704153.,1.746,17.51,Tue Nov 17 04:24:06 PM CST 2026,Tue Nov 17 11:19:37 PM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-H_c0090_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 17 16:13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-H_c0090_SM3_BF1_Base,SUCCESS,8.04861111111111,2.25,,3633018.,2.893,17.51,Tue Nov 17 04:23:56 PM CST 2026,Wed Nov 18 12:26:51 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-H_c0091_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 17 16:13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-H_c0092_SM3_BF1_Base,SUCCESS,7.920833333333333,2.0,post-proc incomplete,6176980.,4.424,17.51,Tue Nov 17 04:24:25 PM CST 2026,Wed Nov 18 12:19:40 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-H_c0092_SM3_BF1_Base,SUCCESS,7.920833333333333,2.0,,6176980.,4.424,17.51,Tue Nov 17 04:24:25 PM CST 2026,Wed Nov 18 12:19:40 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-H_c0093_SM3_BF1_Base,SUCCESS,7.064444444444444,2.0,,4305574.,2.720,18.07,Tue Nov 17 04:23:45 PM CST 2026,Tue Nov 17 11:27:37 PM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-H_c0095_SM3_BF1_Base,SUCCESS,6.346388888888889,1.75,,916717.,0.6560,17.62,Tue Nov 17 04:28:37 PM CST 2026,Tue Nov 17 10:49:24 PM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-H_c0096_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 17 16:12,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
@@ -332,7 +332,7 @@ syn_event_West_H-L-L_c0035_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/
 syn_event_West_H-L-L_c0036_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0037_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0038_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-L_c0039_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 17 17:15,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-L_c0039_SM3_BF1_Base,SUCCESS,7.281944444444444,2.0,,4563611.,3.032,18.66,Tue Nov 17 05:24:46 PM CST 2026,Wed Nov 18 12:41:41 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0040_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0041_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0042_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
@@ -343,7 +343,7 @@ syn_event_West_H-L-L_c0046_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/
 syn_event_West_H-L-L_c0047_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0048_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0049_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-L_c0050_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 17 17:30,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-L_c0050_SM3_BF1_Base,SUCCESS,6.801388888888889,1.75,,3218532.,2.034,17.51,Tue Nov 17 05:36:12 PM CST 2026,Wed Nov 18 12:24:17 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0051_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 17 17:13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0052_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0053_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
@@ -360,7 +360,7 @@ syn_event_West_H-L-L_c0063_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/
 syn_event_West_H-L-L_c0064_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0065_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0066_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-L_c0067_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 17 17:30,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-L_c0067_SM3_BF1_Base,SUCCESS,6.815277777777777,1.75,,3563217.,2.228,17.51,Tue Nov 17 05:36:23 PM CST 2026,Wed Nov 18 12:25:18 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0068_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0069_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0070_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
@@ -394,11 +394,11 @@ syn_event_West_H-L-L_c0097_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/
 syn_event_West_H-L-L_c0098_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0099_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0100_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-L_c0101_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 17 17:28,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-L_c0101_SM3_BF1_Base,SUCCESS,7.104166666666666,2.0,,3524048.,2.405,17.51,Tue Nov 17 05:34:38 PM CST 2026,Wed Nov 18 12:40:53 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0102_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0103_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0104_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-L_c0105_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 17 17:28,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-L_c0105_SM3_BF1_Base,SUCCESS,7.438055555555556,2.0,,5908878.,4.011,17.51,Tue Nov 17 05:34:48 PM CST 2026,Wed Nov 18 01:01:05 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0106_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0107_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0108_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 17 17:15,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
@@ -408,7 +408,7 @@ syn_event_West_H-L-L_c0111_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/
 syn_event_West_H-L-L_c0112_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0113_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0114_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-L_c0115_SM3_BF1_Base,SUCCESS,6.765833333333333,1.75,post-proc incomplete,3234593.,2.188,17.51,Tue Nov 17 05:34:08 PM CST 2026,Wed Nov 18 12:20:05 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-L_c0115_SM3_BF1_Base,SUCCESS,6.765833333333333,1.75,,3234593.,2.188,17.51,Tue Nov 17 05:34:08 PM CST 2026,Wed Nov 18 12:20:05 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0116_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0117_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0118_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
@@ -488,7 +488,7 @@ syn_event_West_H-L-L_c0191_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/
 syn_event_West_H-L-L_c0192_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0193_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0194_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-L_c0195_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 17 17:14,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-L_c0195_SM3_BF1_Base,SUCCESS,6.963611111111112,1.75,,2903619.,1.820,17.51,Tue Nov 17 05:24:24 PM CST 2026,Wed Nov 18 12:22:13 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0196_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0197_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0198_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
@@ -512,7 +512,7 @@ syn_event_West_H-L-L_c0215_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/
 syn_event_West_H-L-L_c0216_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0217_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0218_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-L_c0219_SM3_BF1_Base,SUCCESS,6.691944444444444,1.75,post-proc incomplete,1972288.,1.335,17.51,Tue Nov 17 05:34:05 PM CST 2026,Wed Nov 18 12:15:36 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-L_c0219_SM3_BF1_Base,SUCCESS,6.691944444444444,1.75,,1972288.,1.335,17.51,Tue Nov 17 05:34:05 PM CST 2026,Wed Nov 18 12:15:36 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0220_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0221_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0222_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
@@ -535,10 +535,10 @@ syn_event_West_H-L-L_c0238_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/
 syn_event_West_H-L-L_c0239_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0240_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0241_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-L_c0242_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 17 17:25,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-L_c0242_SM3_BF1_Base,SUCCESS,7.189444444444445,2.0,,4126068.,2.817,22.46,Tue Nov 17 05:31:20 PM CST 2026,Wed Nov 18 12:42:42 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0243_SM3_BF1_Base,SUCCESS,6.454444444444444,1.75,,1381661.,0.9876,17.51,Tue Nov 17 05:24:15 PM CST 2026,Tue Nov 17 11:51:31 PM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0244_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-L_c0245_SM3_BF1_Base,SUCCESS,6.7491666666666665,1.75,post-proc incomplete,3143330.,2.283,17.51,Tue Nov 17 05:24:40 PM CST 2026,Wed Nov 18 12:09:37 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-L_c0245_SM3_BF1_Base,SUCCESS,6.7491666666666665,1.75,,3143330.,2.283,17.51,Tue Nov 17 05:24:40 PM CST 2026,Wed Nov 18 12:09:37 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0246_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0247_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0248_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
@@ -568,11 +568,11 @@ syn_event_West_H-L-L_c0271_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/
 syn_event_West_H-L-L_c0272_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0273_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0274_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-L_c0275_SM3_BF1_Base,SUCCESS,6.7011111111111115,1.75,post-proc incomplete,2254030.,1.825,17.51,Tue Nov 17 05:27:56 PM CST 2026,Wed Nov 18 12:10:00 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-L_c0275_SM3_BF1_Base,SUCCESS,6.7011111111111115,1.75,,2254030.,1.825,17.51,Tue Nov 17 05:27:56 PM CST 2026,Wed Nov 18 12:10:00 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0276_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0277_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-L_c0278_SM3_BF1_Base,SUCCESS,6.985277777777778,1.75,post-proc incomplete,4283826.,3.111,17.51,Tue Nov 17 05:21:37 PM CST 2026,Wed Nov 18 12:20:44 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-L_c0279_SM3_BF1_Base,SUCCESS,6.688055555555556,1.75,post-proc incomplete,2169627.,1.534,22.16,Tue Nov 17 05:24:50 PM CST 2026,Wed Nov 18 12:06:07 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-L_c0278_SM3_BF1_Base,SUCCESS,6.985277777777778,1.75,,4283826.,3.111,17.51,Tue Nov 17 05:21:37 PM CST 2026,Wed Nov 18 12:20:44 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-L_c0279_SM3_BF1_Base,SUCCESS,6.688055555555556,1.75,,2169627.,1.534,22.16,Tue Nov 17 05:24:50 PM CST 2026,Wed Nov 18 12:06:07 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0280_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0281_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0282_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
@@ -580,10 +580,10 @@ syn_event_West_H-L-L_c0283_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/
 syn_event_West_H-L-L_c0284_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0285_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0286_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-L_c0287_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 17 17:28,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-L_c0287_SM3_BF1_Base,SUCCESS,7.6066666666666665,2.0,,5996211.,3.912,22.92,Tue Nov 17 05:34:35 PM CST 2026,Wed Nov 18 01:10:59 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0288_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0289_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-L_c0290_SM3_BF1_Base,SUCCESS,6.946388888888889,1.75,post-proc incomplete,4019058.,2.709,17.51,Tue Nov 17 05:22:02 PM CST 2026,Wed Nov 18 12:18:49 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-L_c0290_SM3_BF1_Base,SUCCESS,6.946388888888889,1.75,,4019058.,2.709,17.51,Tue Nov 17 05:22:02 PM CST 2026,Wed Nov 18 12:18:49 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0291_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0292_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0293_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
@@ -627,7 +627,7 @@ syn_event_West_H-L-L_c0330_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/
 syn_event_West_H-L-L_c0331_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0332_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0333_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-L_c0334_SM3_BF1_Base,SUCCESS,6.713611111111112,1.75,post-proc incomplete,2883710.,2.088,17.53,Tue Nov 17 05:24:02 PM CST 2026,Wed Nov 18 12:06:51 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-L_c0334_SM3_BF1_Base,SUCCESS,6.713611111111112,1.75,,2883710.,2.088,17.53,Tue Nov 17 05:24:02 PM CST 2026,Wed Nov 18 12:06:51 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0335_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0336_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0337_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
@@ -656,7 +656,7 @@ syn_event_West_H-L-L_c0359_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/
 syn_event_West_H-L-L_c0360_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0361_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0362_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-L_c0363_SM3_BF1_Base,SUCCESS,6.716111111111111,1.75,post-proc incomplete,4549156.,3.250,21.79,Tue Nov 17 05:23:59 PM CST 2026,Wed Nov 18 12:06:57 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-L_c0363_SM3_BF1_Base,SUCCESS,6.716111111111111,1.75,,4549156.,3.250,21.79,Tue Nov 17 05:23:59 PM CST 2026,Wed Nov 18 12:06:57 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0364_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0365_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0366_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
@@ -666,13 +666,13 @@ syn_event_West_H-L-L_c0369_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/
 syn_event_West_H-L-L_c0370_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0371_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0372_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-L_c0373_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 17 17:13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-L_c0373_SM3_BF1_Base,SUCCESS,7.075,2.0,,4460371.,3.013,17.51,Tue Nov 17 05:22:54 PM CST 2026,Wed Nov 18 12:27:24 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0374_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 17 17:14,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0375_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0376_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0377_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0378_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-L_c0379_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 17 17:13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-L_c0379_SM3_BF1_Base,SUCCESS,7.138333333333334,2.0,,3847653.,2.487,17.51,Tue Nov 17 05:22:32 PM CST 2026,Wed Nov 18 12:30:49 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0380_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0381_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0382_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
@@ -685,7 +685,7 @@ syn_event_West_H-L-L_c0388_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/
 syn_event_West_H-L-L_c0389_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0390_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0391_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-L_c0392_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 17 17:21,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-L_c0392_SM3_BF1_Base,SUCCESS,7.801111111111111,2.0,,8682599.,6.311,17.51,Tue Nov 17 05:27:51 PM CST 2026,Wed Nov 18 01:15:55 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0393_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0394_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0395_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
@@ -715,7 +715,7 @@ syn_event_West_H-L-L_c0418_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/
 syn_event_West_H-L-L_c0419_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0420_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0421_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-L_c0422_SM3_BF1_Base,SUCCESS,6.812222222222222,1.75,post-proc incomplete,3570680.,2.417,18.40,Tue Nov 17 05:24:07 PM CST 2026,Wed Nov 18 12:12:51 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-L_c0422_SM3_BF1_Base,SUCCESS,6.812222222222222,1.75,,3570680.,2.417,18.40,Tue Nov 17 05:24:07 PM CST 2026,Wed Nov 18 12:12:51 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0423_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0424_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0425_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
@@ -734,7 +734,7 @@ syn_event_West_H-L-L_c0437_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/
 syn_event_West_H-L-L_c0438_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0439_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0440_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-L_c0441_SM3_BF1_Base,SUCCESS,6.751666666666667,1.75,post-proc incomplete,5188390.,3.491,17.51,Tue Nov 17 05:27:41 PM CST 2026,Wed Nov 18 12:12:47 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-L_c0441_SM3_BF1_Base,SUCCESS,6.751666666666667,1.75,,5188390.,3.491,17.51,Tue Nov 17 05:27:41 PM CST 2026,Wed Nov 18 12:12:47 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0442_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0443_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0444_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
@@ -750,7 +750,7 @@ syn_event_West_H-L-L_c0453_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 17 16:1
 syn_event_West_H-L-L_c0454_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0455_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0456_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-L_c0457_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 17 17:16,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-L_c0457_SM3_BF1_Base,SUCCESS,7.204722222222222,2.0,,4213253.,2.701,24.81,Tue Nov 17 05:24:26 PM CST 2026,Wed Nov 18 12:36:43 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0458_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0459_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0460_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
@@ -772,7 +772,7 @@ syn_event_West_H-L-L_c0475_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/
 syn_event_West_H-L-L_c0476_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0477_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0478_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-L_c0479_SM3_BF1_Base,SUCCESS,6.5986111111111105,1.75,post-proc incomplete,2293363.,1.470,17.51,Tue Nov 17 05:31:23 PM CST 2026,Wed Nov 18 12:07:18 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-L_c0479_SM3_BF1_Base,SUCCESS,6.5986111111111105,1.75,,2293363.,1.470,17.51,Tue Nov 17 05:31:23 PM CST 2026,Wed Nov 18 12:07:18 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0480_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0481_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0482_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
@@ -806,7 +806,7 @@ syn_event_West_H-L-L_c0509_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/
 syn_event_West_H-L-L_c0510_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0511_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0512_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-L_c0513_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 17 17:25,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-L_c0513_SM3_BF1_Base,SUCCESS,7.793888888888889,2.0,,6477447.,4.317,17.51,Tue Nov 17 05:31:01 PM CST 2026,Wed Nov 18 01:18:39 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0514_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0515_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0516_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
@@ -818,10 +818,10 @@ syn_event_West_H-L-L_c0521_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/
 syn_event_West_H-L-L_c0522_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0523_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0524_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-L_c0525_SM3_BF1_Base,SUCCESS,6.8133333333333335,1.75,post-proc incomplete,2554680.,2.079,17.51,Tue Nov 17 05:23:47 PM CST 2026,Wed Nov 18 12:12:35 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-L_c0526_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 17 17:16,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-L_c0525_SM3_BF1_Base,SUCCESS,6.8133333333333335,1.75,,2554680.,2.079,17.51,Tue Nov 17 05:23:47 PM CST 2026,Wed Nov 18 12:12:35 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-L_c0526_SM3_BF1_Base,SUCCESS,7.7075000000000005,2.0,,4730839.,3.617,17.51,Tue Nov 17 05:24:04 PM CST 2026,Wed Nov 18 01:06:31 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0527_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-L_c0528_SM3_BF1_Base,SUCCESS,6.652777777777779,1.75,post-proc incomplete,3300941.,2.302,19.33,Tue Nov 17 05:36:26 PM CST 2026,Wed Nov 18 12:15:36 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-L_c0528_SM3_BF1_Base,SUCCESS,6.652777777777779,1.75,,3300941.,2.302,19.33,Tue Nov 17 05:36:26 PM CST 2026,Wed Nov 18 12:15:36 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0529_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 17 17:21,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0530_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0531_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
@@ -829,9 +829,9 @@ syn_event_West_H-L-L_c0532_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/
 syn_event_West_H-L-L_c0533_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0534_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0535_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-L_c0536_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 17 17:13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-L_c0536_SM3_BF1_Base,SUCCESS,7.654722222222222,2.0,,4792482.,3.567,17.51,Tue Nov 17 05:21:58 PM CST 2026,Wed Nov 18 01:01:15 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0537_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-L_c0538_SM3_BF1_Base,SUCCESS,6.7375,1.75,post-proc incomplete,3153833.,2.067,17.51,Tue Nov 17 05:33:53 PM CST 2026,Wed Nov 18 12:18:08 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-L_c0538_SM3_BF1_Base,SUCCESS,6.7375,1.75,,3153833.,2.067,17.51,Tue Nov 17 05:33:53 PM CST 2026,Wed Nov 18 12:18:08 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0539_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0540_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0541_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
@@ -849,17 +849,17 @@ syn_event_West_H-L-L_c0552_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/
 syn_event_West_H-L-L_c0553_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0554_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0555_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-L_c0556_SM3_BF1_Base,SUCCESS,6.865277777777777,1.75,post-proc incomplete,2670454.,1.884,17.51,Tue Nov 17 05:21:54 PM CST 2026,Wed Nov 18 12:13:49 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-L_c0556_SM3_BF1_Base,SUCCESS,6.865277777777777,1.75,,2670454.,1.884,17.51,Tue Nov 17 05:21:54 PM CST 2026,Wed Nov 18 12:13:49 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0557_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0558_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-L_c0559_SM3_BF1_Base,SUCCESS,6.923055555555556,1.75,post-proc incomplete,2746745.,2.071,17.51,Tue Nov 17 05:24:53 PM CST 2026,Wed Nov 18 12:20:16 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-L_c0559_SM3_BF1_Base,SUCCESS,6.923055555555556,1.75,,2746745.,2.071,17.51,Tue Nov 17 05:24:53 PM CST 2026,Wed Nov 18 12:20:16 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0560_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0561_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0562_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0563_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0564_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-L_c0565_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 17 17:16,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-L_c0566_SM3_BF1_Base,SUCCESS,6.6722222222222225,1.75,post-proc incomplete,2747452.,1.955,17.51,Tue Nov 17 05:24:17 PM CST 2026,Wed Nov 18 12:04:37 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-L_c0565_SM3_BF1_Base,SUCCESS,7.253333333333333,2.0,,4931503.,3.090,17.51,Tue Nov 17 05:24:10 PM CST 2026,Wed Nov 18 12:39:22 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-L_c0566_SM3_BF1_Base,SUCCESS,6.6722222222222225,1.75,,2747452.,1.955,17.51,Tue Nov 17 05:24:17 PM CST 2026,Wed Nov 18 12:04:37 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0567_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0568_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0569_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 17 17:15,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
@@ -889,13 +889,13 @@ syn_event_West_H-L-L_c0592_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/
 syn_event_West_H-L-L_c0593_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0594_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0595_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-L_c0596_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 17 17:21,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-L_c0596_SM3_BF1_Base,SUCCESS,7.3741666666666665,2.0,,4176069.,2.977,17.51,Tue Nov 17 05:28:01 PM CST 2026,Wed Nov 18 12:50:28 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0597_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0598_SM3_BF1_Base,SUCCESS,6.586944444444444,1.75,,2243392.,1.704,17.51,Tue Nov 17 05:21:42 PM CST 2026,Tue Nov 17 11:56:55 PM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0599_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0600_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 17 17:14,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0601_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-L_c0602_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 17 17:16,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-L_c0602_SM3_BF1_Base,SUCCESS,7.851388888888889,2.0,,5899812.,4.291,22.25,Tue Nov 17 05:24:10 PM CST 2026,Wed Nov 18 01:15:15 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0603_SM3_BF1_Base,SUCCESS,6.587777777777777,1.75,,2282104.,1.719,17.51,Tue Nov 17 05:22:11 PM CST 2026,Tue Nov 17 11:57:27 PM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0604_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0605_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
@@ -909,14 +909,14 @@ syn_event_West_H-L-L_c0612_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/
 syn_event_West_H-L-L_c0613_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0614_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0615_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-L_c0616_SM3_BF1_Base,SUCCESS,6.933333333333334,1.75,post-proc incomplete,3174803.,2.223,28.88,Tue Nov 17 05:21:35 PM CST 2026,Wed Nov 18 12:17:35 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-L_c0616_SM3_BF1_Base,SUCCESS,6.933333333333334,1.75,,3174803.,2.223,28.88,Tue Nov 17 05:21:35 PM CST 2026,Wed Nov 18 12:17:35 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0617_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0618_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0619_SM3_BF1_Base,SUCCESS,6.54,1.75,,1214698.,0.8523,17.51,Tue Nov 17 05:21:58 PM CST 2026,Tue Nov 17 11:54:22 PM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0620_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0621_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0622_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
-syn_event_West_H-L-L_c0623_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 17 17:28,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
+syn_event_West_H-L-L_c0623_SM3_BF1_Base,SUCCESS,7.575,2.0,,5075562.,3.367,18.28,Tue Nov 17 05:33:59 PM CST 2026,Wed Nov 18 01:08:29 AM CST 2026,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0624_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0625_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
 syn_event_West_H-L-L_c0626_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A
