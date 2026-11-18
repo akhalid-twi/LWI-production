@@ -351,6 +351,25 @@ with context_manager:
     progress_text = f"Processing simulations... {progress_percent}% complete"
     st.progress(progress_percent, text=progress_text)
 
+    # --- By region (from the storm name: syn_event_<Region>_...) ---
+    # storms per region in the production (dropped storms excluded); None = not generated yet
+    REGION_TOTALS = {"West": 2077, "Northeast": 2014, "Central": None, "Southeast": None}
+    if "Directory" in df.columns:
+        reg = df["Directory"].astype(str).str.extract(r"syn_event_([A-Za-z]+)_", expand=False).fillna("Other")
+        by_reg = df.assign(Region=reg).groupby(["Region", "Status"]).size().unstack(fill_value=0)
+        st.subheader("By Region")
+        cols = st.columns(len(REGION_TOTALS), gap="medium")
+        for col, (region, total) in zip(cols, REGION_TOTALS.items()):
+            r = by_reg.loc[region] if region in by_reg.index else {}
+            done, running = int(r.get("SUCCESS", 0)), int(r.get("Running", 0))
+            with col:
+                if total is None and done + running == 0:
+                    st.metric(region, "not started", delta_color="off")
+                else:
+                    pct = f" ({100 * done / total:.0f}%)" if total else ""
+                    st.metric(region, f"{done:,} / {total:,}{pct}" if total else f"{done:,}",
+                              f"{running:,} running", delta_color="off")
+
     # --- Where the simulations run (Platform column: "Stampede3 (<user>)", "AWS") ---
     if "Platform" in df.columns:
         by_plat = (df[df.Status.isin(["SUCCESS", "Running"]) & (df.Platform.fillna("-") != "-")]
