@@ -92,7 +92,7 @@ SCENARIOS = {
         "start_date": datetime(2026, 11, 15),
         "completion_date_projected": datetime(2026, 12, 5),
         "completion_date_actual": datetime(2026, 12, 5),
-        "total_simulations": 10000,
+        "total_simulations": 2077,   # West non-TC storms (2,079 minus 2 dropped: no CORA for 2023)
     },
 
 }
@@ -350,6 +350,18 @@ with context_manager:
 
     progress_text = f"Processing simulations... {progress_percent}% complete"
     st.progress(progress_percent, text=progress_text)
+
+    # --- Where the simulations run (Platform column: "Stampede3 (<user>)", "AWS") ---
+    if "Platform" in df.columns:
+        by_plat = (df[df.Status.isin(["SUCCESS", "Running"]) & (df.Platform.fillna("-") != "-")]
+                   .groupby(["Platform", "Status"]).size().unstack(fill_value=0))
+        if len(by_plat):
+            st.subheader("By Platform")
+            cols = st.columns(len(by_plat), gap="medium")
+            for col, (platform, r) in zip(cols, by_plat.sort_index().iterrows()):
+                with col:
+                    st.metric(platform, f"{int(r.get('Running', 0)):,} running",
+                              f"{int(r.get('SUCCESS', 0)):,} completed", delta_color="off")
 
     # Example: If you have more heavy charts, render them here so spinner stays active.
     # chart = make_big_chart(df)  # your function
