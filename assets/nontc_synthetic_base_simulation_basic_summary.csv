@@ -358,7 +358,7 @@ syn_event_West_H-L-L_c0328_SM3_BF1_Base,SUCCESS,6.156666666666667,1.75,,745735.0
 syn_event_West_H-L-L_c0334_SM3_BF1_Base,SUCCESS,6.713611111111112,1.75,,2883710.0,2.088,17.53,Tue Nov 17 05:24:02 PM CST 2026,Wed Nov 18 12:06:51 AM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
 syn_event_West_H-L-L_c0335_SM3_BF1_Base,SUCCESS,6.693888888888889,1.75,,1772087.0,1.269,21.62,Wed Nov 18 03:09:15 AM CST 2026,Wed Nov 18 09:50:53 AM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
 syn_event_West_H-L-L_c0343_SM3_BF1_Base,SUCCESS,6.6875,1.75,,3054628.0,2.127,17.51,Wed Nov 18 04:42:26 AM CST 2026,Wed Nov 18 11:23:41 AM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
-syn_event_West_H-L-L_c0345_SM3_BF1_Base,SUCCESS,11.106666666666666,3.0,post-proc incomplete,10010119.0,6.863,17.51,Wed Nov 18 04:37:54 AM CST 2026,Wed Nov 18 03:44:18 PM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
+syn_event_West_H-L-L_c0345_SM3_BF1_Base,SUCCESS,11.106666666666666,3.0,,10010119.0,6.863,17.51,Wed Nov 18 04:37:54 AM CST 2026,Wed Nov 18 03:44:18 PM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
 syn_event_West_H-L-L_c0349_SM3_BF1_Base,SUCCESS,11.029444444444444,3.0,,3978187.0,2.588,17.51,Wed Nov 18 03:11:21 AM CST 2026,Wed Nov 18 02:13:07 PM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
 syn_event_West_H-L-L_c0351_SM3_BF1_Base,SUCCESS,7.002222222222223,2.0,,4410046.0,3.303,20.18,Wed Nov 18 02:57:36 AM CST 2026,Wed Nov 18 09:57:44 AM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
 syn_event_West_H-L-L_c0362_SM3_BF1_Base,SUCCESS,7.179722222222223,2.0,,3821266.0,2.443,22.81,Wed Nov 18 04:38:08 AM CST 2026,Wed Nov 18 11:48:55 AM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
@@ -396,7 +396,7 @@ syn_event_West_H-L-L_c0533_SM3_BF1_Base,SUCCESS,6.364166666666667,1.75,,662911.0
 syn_event_West_H-L-L_c0536_SM3_BF1_Base,SUCCESS,7.654722222222222,2.0,,4792482.0,3.567,17.51,Tue Nov 17 05:21:58 PM CST 2026,Wed Nov 18 01:01:15 AM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
 syn_event_West_H-L-L_c0538_SM3_BF1_Base,SUCCESS,6.7375,1.75,,3153833.0,2.067,17.51,Tue Nov 17 05:33:53 PM CST 2026,Wed Nov 18 12:18:08 AM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
 syn_event_West_H-L-L_c0546_SM3_BF1_Base,SUCCESS,6.702500000000001,1.75,,2686751.0,1.968,19.18,Wed Nov 18 02:57:53 AM CST 2026,Wed Nov 18 09:40:02 AM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
-syn_event_West_H-L-L_c0548_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 04:29,,,,,,,,,,,,Stampede3 (akhalid_twi)
+syn_event_West_H-L-L_c0548_SM3_BF1_Base,SUCCESS,11.370555555555557,3.0,,3463830.0,2.344,22.97,Wed Nov 18 04:36:18 AM CST 2026,Wed Nov 18 03:58:32 PM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
 syn_event_West_H-L-L_c0554_SM3_BF1_Base,SUCCESS,6.97,1.75,,2845990.0,2.46,19.81,Wed Nov 18 03:58:05 AM CST 2026,Wed Nov 18 10:56:17 AM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
 syn_event_West_H-L-L_c0556_SM3_BF1_Base,SUCCESS,6.865277777777777,1.75,,2670454.0,1.884,17.51,Tue Nov 17 05:21:54 PM CST 2026,Wed Nov 18 12:13:49 AM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
 syn_event_West_H-L-L_c0559_SM3_BF1_Base,SUCCESS,6.923055555555556,1.75,,2746745.0,2.071,17.51,Tue Nov 17 05:24:53 PM CST 2026,Wed Nov 18 12:20:16 AM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
@@ -414,7 +414,7 @@ syn_event_West_H-L-L_c0603_SM3_BF1_Base,SUCCESS,6.587777777777777,1.75,,2282104.
 syn_event_West_H-L-L_c0606_SM3_BF1_Base,SUCCESS,6.503333333333333,1.75,,1242487.0,0.8796,17.51,Tue Nov 17 05:21:44 PM CST 2026,Tue Nov 17 11:51:56 PM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
 syn_event_West_H-L-L_c0616_SM3_BF1_Base,SUCCESS,6.933333333333334,1.75,,3174803.0,2.223,28.88,Tue Nov 17 05:21:35 PM CST 2026,Wed Nov 18 12:17:35 AM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
 syn_event_West_H-L-L_c0619_SM3_BF1_Base,SUCCESS,6.54,1.75,,1214698.0,0.8523,17.51,Tue Nov 17 05:21:58 PM CST 2026,Tue Nov 17 11:54:22 PM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
-syn_event_West_H-L-L_c0620_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 04:19,,,,,,,,,,,,Stampede3 (akhalid_twi)
+syn_event_West_H-L-L_c0620_SM3_BF1_Base,SUCCESS,11.599166666666669,3.0,,3415216.0,2.265,23.19,Wed Nov 18 04:27:41 AM CST 2026,Wed Nov 18 04:03:38 PM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
 syn_event_West_H-L-L_c0623_SM3_BF1_Base,SUCCESS,7.575,2.0,,5075562.0,3.367,18.28,Tue Nov 17 05:33:59 PM CST 2026,Wed Nov 18 01:08:29 AM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
 syn_event_West_H-L-L_c0630_SM3_BF1_Base,SUCCESS,6.700833333333334,1.75,,3079232.0,2.291,17.51,Wed Nov 18 03:50:05 AM CST 2026,Wed Nov 18 10:32:08 AM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
 syn_event_West_H-L-L_c0635_SM3_BF1_Base,SUCCESS,7.151944444444445,2.0,,3272400.0,2.115,19.83,Tue Nov 17 04:28:46 PM CST 2026,Tue Nov 17 11:37:53 PM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
@@ -572,8 +572,11 @@ syn_event_West_L-H-L_c0102_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 13:07,,,,,,,,,,,
 syn_event_West_L-H-L_c0103_SM3_BF1_Base,SUCCESS,6.689444444444445,1.75,,2556704.0,1.848,17.51,Wed Nov 18 03:09:49 AM CST 2026,Wed Nov 18 09:51:11 AM CST 2026,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0104_SM3_BF1_Base,SUCCESS,6.596666666666667,1.75,,1994335.0,1.27,17.51,Wed Nov 18 03:57:41 AM CST 2026,Wed Nov 18 10:33:29 AM CST 2026,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0107_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 13:07,,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
+syn_event_West_L-H-L_c0108_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 16:25,,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0109_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 13:07,,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
+syn_event_West_L-H-L_c0110_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 16:23,,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0111_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 13:07,,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
+syn_event_West_L-H-L_c0112_SM3_BF1_Base,Incomplete Model run,,0.0,,,,,,,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0113_SM3_BF1_Base,Incomplete Model run,,0.0,,,,,,,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0114_SM3_BF1_Base,SUCCESS,7.6594444444444445,2.0,,5527478.0,3.151,19.64,Tue Nov 17 04:41:17 PM CST 2026,Wed Nov 18 12:20:51 AM CST 2026,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0115_SM3_BF1_Base,SUCCESS,6.3575,1.75,,1707528.0,1.275,17.62,Tue Nov 17 04:25:10 PM CST 2026,Tue Nov 17 10:46:37 PM CST 2026,,,,,,,,,,,Stampede3 (muthuns)
@@ -611,11 +614,13 @@ syn_event_West_L-H-L_c0156_SM3_BF1_Base,SUCCESS,7.293611111111111,2.0,,5769229.0
 syn_event_West_L-H-L_c0158_SM3_BF1_Base,SUCCESS,7.918611111111112,2.0,,5747914.0,3.651,18.16,Tue Nov 17 04:23:12 PM CST 2026,Wed Nov 18 12:18:19 AM CST 2026,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0162_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 13:07,,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0164_SM3_BF1_Base,SUCCESS,7.116944444444444,2.0,,4024790.0,2.614,17.51,Tue Nov 17 04:29:01 PM CST 2026,Tue Nov 17 11:36:02 PM CST 2026,,,,,,,,,,,Stampede3 (muthuns)
+syn_event_West_L-H-L_c0166_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 16:23,,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0167_SM3_BF1_Base,SUCCESS,6.4816666666666665,1.75,,1761336.0,1.193,17.51,Tue Nov 17 04:38:08 PM CST 2026,Tue Nov 17 11:07:02 PM CST 2026,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0169_SM3_BF1_Base,SUCCESS,6.8647222222222215,1.75,,3097091.0,2.087,17.51,Wed Nov 18 03:45:28 AM CST 2026,Wed Nov 18 10:37:21 AM CST 2026,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0171_SM3_BF1_Base,SUCCESS,6.885277777777778,1.75,,1708900.0,0.9525,17.51,Tue Nov 17 04:34:09 PM CST 2026,Tue Nov 17 11:27:16 PM CST 2026,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0172_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 13:07,,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0173_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 13:07,,,,,,,,,,,,Stampede3 (muthuns)
+syn_event_West_L-H-L_c0174_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 16:25,,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0175_SM3_BF1_Base,SUCCESS,6.579722222222222,1.75,,1548602.0,1.079,23.09,Wed Nov 18 03:10:52 AM CST 2026,Wed Nov 18 09:45:39 AM CST 2026,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0177_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 13:07,,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-H-L_c0178_SM3_BF1_Base,SUCCESS,11.453888888888889,3.0,,5025722.0,3.328,17.63,Tue Nov 17 04:35:10 PM CST 2026,Wed Nov 18 04:02:24 AM CST 2026,,,,,,,,,,,Stampede3 (muthuns)
@@ -641,14 +646,17 @@ syn_event_West_L-H-L_c0203_SM3_BF1_Base,SUCCESS,6.452777777777778,1.75,,1591761.
 syn_event_West_L-H-L_c0204_SM3_BF1_Base,SUCCESS,10.922777777777776,2.75,,3038143.0,2.164,17.51,Tue Nov 17 04:41:27 PM CST 2026,Wed Nov 18 03:36:49 AM CST 2026,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0205_SM3_BF1_Base,SUCCESS,6.668055555555556,1.75,,1801544.0,1.248,17.51,Tue Nov 17 04:31:18 PM CST 2026,Tue Nov 17 11:11:23 PM CST 2026,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0206_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 13:07,,,,,,,,,,,,Stampede3 (muthuns)
+syn_event_West_L-H-L_c0207_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 16:25,,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0208_SM3_BF1_Base,Incomplete Model run,,0.0,,,,,,,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0209_SM3_BF1_Base,SUCCESS,7.005277777777778,2.0,,2601155.0,1.764,19.38,Tue Nov 17 04:38:48 PM CST 2026,Tue Nov 17 11:39:07 PM CST 2026,,,,,,,,,,,Stampede3 (muthuns)
+syn_event_West_L-H-L_c0210_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 16:23,,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0211_SM3_BF1_Base,SUCCESS,6.613888888888889,1.75,,2347610.0,1.639,17.51,Tue Nov 17 04:27:58 PM CST 2026,Tue Nov 17 11:04:48 PM CST 2026,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0212_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 13:07,,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-H-L_c0214_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 13:07,,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0215_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 13:07,,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-H-L_c0217_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 13:07,,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-H-L_c0218_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 13:07,,,,,,,,,,,,Stampede3 (muthuns)
+syn_event_West_L-H-L_c0219_SM3_BF1_Base,Incomplete Model run,,0.0,,,,,,,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0220_SM3_BF1_Base,Incomplete Model run,,0.0,,,,,,,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0222_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 13:07,,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0223_SM3_BF1_Base,SUCCESS,6.824166666666667,1.75,,2166518.0,1.465,17.51,Tue Nov 17 04:29:00 PM CST 2026,Tue Nov 17 11:18:27 PM CST 2026,,,,,,,,,,,Stampede3 (muthuns)
@@ -668,6 +676,7 @@ syn_event_West_L-H-L_c0240_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 13:07,,,,,,,,,,,
 syn_event_West_L-H-L_c0241_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 13:07,,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0243_SM3_BF1_Base,SUCCESS,7.396944444444445,2.0,,4746448.0,3.048,17.51,Tue Nov 17 04:33:25 PM CST 2026,Tue Nov 17 11:57:14 PM CST 2026,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0244_SM3_BF1_Base,SUCCESS,10.895277777777777,2.75,,2000306.0,1.386,17.51,Tue Nov 17 04:38:58 PM CST 2026,Wed Nov 18 03:32:41 AM CST 2026,,,,,,,,,,,Stampede3 (muthuns)
+syn_event_West_L-H-L_c0245_SM3_BF1_Base,Incomplete Model run,,0.0,,,,,,,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0246_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 13:07,,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0248_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 13:07,,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0249_SM3_BF1_Base,SUCCESS,12.959444444444443,3.25,,5365105.0,3.327,20.11,Tue Nov 17 04:30:35 PM CST 2026,Wed Nov 18 05:28:09 AM CST 2026,,,,,,,,,,,Stampede3 (muthuns)
@@ -755,12 +764,14 @@ syn_event_West_L-H-L_c0371_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 13:07,,,,,,,,,,,
 syn_event_West_L-H-L_c0372_SM3_BF1_Base,SUCCESS,6.496111111111111,1.75,,1909583.0,1.507,19.37,Wed Nov 18 04:05:10 AM CST 2026,Wed Nov 18 10:34:56 AM CST 2026,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0374_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 13:07,,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0376_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 13:07,,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
+syn_event_West_L-H-L_c0377_SM3_BF1_Base,Incomplete Model run,,0.0,,,,,,,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0378_SM3_BF1_Base,SUCCESS,6.618055555555556,1.75,,3222436.0,1.946,17.51,Tue Nov 17 04:30:15 PM CST 2026,Tue Nov 17 11:07:20 PM CST 2026,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0380_SM3_BF1_Base,SUCCESS,7.011388888888889,2.0,,2894498.0,2.074,17.51,Tue Nov 17 04:29:29 PM CST 2026,Tue Nov 17 11:30:10 PM CST 2026,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0381_SM3_BF1_Base,SUCCESS,6.728611111111111,1.75,,3182674.0,2.107,17.51,Tue Nov 17 04:28:17 PM CST 2026,Tue Nov 17 11:12:00 PM CST 2026,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0382_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 13:07,,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-H-L_c0383_SM3_BF1_Base,SUCCESS,11.14472222222222,3.0,,2853025.0,2.097,17.51,Tue Nov 17 04:37:37 PM CST 2026,Wed Nov 18 03:46:18 AM CST 2026,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0384_SM3_BF1_Base,SUCCESS,11.778333333333334,3.0,,3270781.0,1.99,17.53,Tue Nov 17 04:38:48 PM CST 2026,Wed Nov 18 04:25:30 AM CST 2026,,,,,,,,,,,Stampede3 (muthuns)
+syn_event_West_L-H-L_c0385_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 16:25,,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0386_SM3_BF1_Base,Incomplete Model run,,0.0,,,,,,,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0388_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 13:07,,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-H-L_c0389_SM3_BF1_Base,SUCCESS,6.586944444444444,1.75,,2540231.0,1.751,17.51,Tue Nov 17 04:33:10 PM CST 2026,Tue Nov 17 11:08:23 PM CST 2026,,,,,,,,,,,Stampede3 (muthuns)
@@ -801,7 +812,9 @@ syn_event_West_L-H-L_c0437_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 13:07,,,,,,,,,,,
 syn_event_West_L-H-L_c0439_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 13:07,,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-H-L_c0440_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 13:07,,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-H-L_c0441_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 13:07,,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
+syn_event_West_L-H-L_c0442_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 16:23,,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0443_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 13:07,,,,,,,,,,,,Stampede3 (muthuns)
+syn_event_West_L-H-L_c0444_SM3_BF1_Base,Incomplete Model run,,0.0,,,,,,,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0445_SM3_BF1_Base,SUCCESS,10.703333333333331,2.75,,2461005.0,1.767,17.51,Tue Nov 17 04:26:33 PM CST 2026,Wed Nov 18 03:08:45 AM CST 2026,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0449_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 13:07,,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0450_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 13:07,,,,,,,,,,,,Stampede3 (muthuns)
@@ -838,6 +851,7 @@ syn_event_West_L-H-L_c0492_SM3_BF1_Base,SUCCESS,7.318888888888889,2.0,,5437360.0
 syn_event_West_L-H-L_c0495_SM3_BF1_Base,SUCCESS,7.125833333333333,2.0,,3886312.0,2.463,17.51,Wed Nov 18 03:09:55 AM CST 2026,Wed Nov 18 10:17:28 AM CST 2026,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0496_SM3_BF1_Base,SUCCESS,6.972777777777778,1.75,,2971966.0,2.064,17.51,Tue Nov 17 04:29:20 PM CST 2026,Tue Nov 17 11:27:42 PM CST 2026,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0498_SM3_BF1_Base,SUCCESS,6.717777777777778,1.75,,2688148.0,1.709,17.51,Tue Nov 17 04:39:01 PM CST 2026,Tue Nov 17 11:22:05 PM CST 2026,,,,,,,,,,,Stampede3 (muthuns)
+syn_event_West_L-H-L_c0499_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 16:25,,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0501_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 13:07,,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0502_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 13:07,,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-H-L_c0503_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 13:07,,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
@@ -866,6 +880,7 @@ syn_event_West_L-H-L_c0528_SM3_BF1_Base,SUCCESS,10.324722222222222,2.75,,1102620
 syn_event_West_L-H-L_c0529_SM3_BF1_Base,SUCCESS,6.715277777777778,1.75,,2572342.0,1.594,17.51,Wed Nov 18 03:45:42 AM CST 2026,Wed Nov 18 10:28:37 AM CST 2026,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0531_SM3_BF1_Base,SUCCESS,7.476111111111111,2.0,,4992446.0,2.882,17.51,Wed Nov 18 03:46:14 AM CST 2026,Wed Nov 18 11:14:48 AM CST 2026,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0532_SM3_BF1_Base,SUCCESS,6.828888888888889,1.75,,3314489.0,1.979,17.51,Tue Nov 17 04:34:41 PM CST 2026,Tue Nov 17 11:24:25 PM CST 2026,,,,,,,,,,,Stampede3 (muthuns)
+syn_event_West_L-H-L_c0534_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 16:23,,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0535_SM3_BF1_Base,SUCCESS,10.976944444444444,2.75,,3611241.0,2.26,17.51,Tue Nov 17 04:26:54 PM CST 2026,Wed Nov 18 03:25:31 AM CST 2026,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0536_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 13:07,,,,,,,,,,,,Stampede3 (muthuns)
 syn_event_West_L-H-L_c0537_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 13:07,,,,,,,,,,,,Stampede3 (muthuns)
@@ -1042,7 +1057,7 @@ syn_event_West_L-L-H_c0254_SM3_BF1_Base,Incomplete Model run,,0.0,,,,,,,,,,,,,,,
 syn_event_West_L-L-H_c0255_SM3_BF1_Base,SUCCESS,6.570833333333333,1.75,,1673251.0,1.263,17.51,Wed Nov 18 05:08:28 AM CST 2026,Wed Nov 18 11:42:43 AM CST 2026,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-L-H_c0256_SM3_BF1_Base,SUCCESS,6.517777777777778,1.75,,1177707.0,0.823,17.51,Wed Nov 18 05:08:42 AM CST 2026,Wed Nov 18 11:39:46 AM CST 2026,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-L-H_c0257_SM3_BF1_Base,SUCCESS,6.2975,1.75,,1028560.0,0.8167,17.51,Wed Nov 18 05:06:42 AM CST 2026,Wed Nov 18 11:24:33 AM CST 2026,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
-syn_event_West_L-L-H_c0258_SM3_BF1_Base,SUCCESS,10.597222222222223,2.75,post-proc incomplete,2973950.0,2.243,17.51,Wed Nov 18 05:07:31 AM CST 2026,Wed Nov 18 03:43:21 PM CST 2026,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
+syn_event_West_L-L-H_c0258_SM3_BF1_Base,Incomplete Model run,,0.0,,,,,,,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-L-H_c0259_SM3_BF1_Base,SUCCESS,6.660833333333334,1.75,,3407191.0,2.486,19.48,Wed Nov 18 05:06:27 AM CST 2026,Wed Nov 18 11:46:06 AM CST 2026,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-L-H_c0260_SM3_BF1_Base,SUCCESS,7.465277777777778,2.0,,5359221.0,3.865,18.73,Wed Nov 18 05:07:14 AM CST 2026,Wed Nov 18 12:35:09 PM CST 2026,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-L-H_c0261_SM3_BF1_Base,SUCCESS,6.833611111111111,1.75,,2371414.0,1.641,17.51,Wed Nov 18 05:07:17 AM CST 2026,Wed Nov 18 11:57:18 AM CST 2026,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
@@ -1052,23 +1067,23 @@ syn_event_West_L-L-H_c0264_SM3_BF1_Base,SUCCESS,7.295277777777778,2.0,,4411527.0
 syn_event_West_L-L-H_c0265_SM3_BF1_Base,SUCCESS,6.5975,1.75,,2121941.0,1.502,18.51,Wed Nov 18 05:10:49 AM CST 2026,Wed Nov 18 11:46:40 AM CST 2026,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-L-H_c0266_SM3_BF1_Base,SUCCESS,6.649166666666666,1.75,,2324382.0,1.698,17.51,Wed Nov 18 05:10:42 AM CST 2026,Wed Nov 18 11:49:39 AM CST 2026,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-L-H_c0267_SM3_BF1_Base,SUCCESS,6.212222222222223,1.75,,921332.0,0.7648,17.51,Wed Nov 18 05:19:35 AM CST 2026,Wed Nov 18 11:32:19 AM CST 2026,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
-syn_event_West_L-L-H_c0268_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 13:07,,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
+syn_event_West_L-L-H_c0268_SM3_BF1_Base,Incomplete Model run,,0.0,,,,,,,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-L-H_c0269_SM3_BF1_Base,SUCCESS,6.439166666666667,1.75,,1368554.0,1.073,17.51,Wed Nov 18 05:19:44 AM CST 2026,Wed Nov 18 11:46:05 AM CST 2026,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-L-H_c0270_SM3_BF1_Base,SUCCESS,7.105277777777777,2.0,,4264292.0,2.815,17.75,Wed Nov 18 05:19:37 AM CST 2026,Wed Nov 18 12:25:56 PM CST 2026,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-L-H_c0271_SM3_BF1_Base,SUCCESS,6.743611111111111,1.75,,2623454.0,1.893,17.51,Wed Nov 18 05:19:58 AM CST 2026,Wed Nov 18 12:04:35 PM CST 2026,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
-syn_event_West_L-L-H_c0272_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 13:07,,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
+syn_event_West_L-L-H_c0272_SM3_BF1_Base,SUCCESS,10.962222222222222,2.75,post-proc incomplete,2444785.0,1.709,17.51,Wed Nov 18 05:19:26 AM CST 2026,Wed Nov 18 04:17:10 PM CST 2026,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-L-H_c0273_SM3_BF1_Base,SUCCESS,6.7075000000000005,1.75,,2875046.0,2.133,17.51,Wed Nov 18 05:19:20 AM CST 2026,Wed Nov 18 12:01:47 PM CST 2026,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-L-H_c0274_SM3_BF1_Base,SUCCESS,6.858055555555556,1.75,,3994396.0,2.621,17.61,Wed Nov 18 05:19:26 AM CST 2026,Wed Nov 18 12:10:55 PM CST 2026,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-L-H_c0275_SM3_BF1_Base,SUCCESS,6.776944444444444,1.75,,2426244.0,1.6,17.51,Wed Nov 18 05:19:11 AM CST 2026,Wed Nov 18 12:05:48 PM CST 2026,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-L-H_c0276_SM3_BF1_Base,SUCCESS,6.544444444444444,1.75,,1320432.0,0.9011,17.51,Wed Nov 18 05:19:23 AM CST 2026,Wed Nov 18 11:52:03 AM CST 2026,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-L-H_c0277_SM3_BF1_Base,SUCCESS,6.344166666666666,1.75,,1092037.0,0.8392,17.51,Wed Nov 18 05:22:45 AM CST 2026,Wed Nov 18 11:43:24 AM CST 2026,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
-syn_event_West_L-L-H_c0278_SM3_BF1_Base,SUCCESS,10.400833333333331,2.75,post-proc incomplete,1175077.0,0.9351,17.51,Wed Nov 18 05:22:33 AM CST 2026,Wed Nov 18 03:46:36 PM CST 2026,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
+syn_event_West_L-L-H_c0278_SM3_BF1_Base,Incomplete Model run,,0.0,,,,,,,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-L-H_c0279_SM3_BF1_Base,SUCCESS,6.439166666666667,1.75,,1564587.0,1.101,20.54,Wed Nov 18 05:23:12 AM CST 2026,Wed Nov 18 11:49:33 AM CST 2026,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-L-H_c0280_SM3_BF1_Base,SUCCESS,6.947500000000001,1.75,,2298448.0,1.526,17.51,Wed Nov 18 05:23:07 AM CST 2026,Wed Nov 18 12:19:58 PM CST 2026,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-L-H_c0281_SM3_BF1_Base,SUCCESS,6.578888888888889,1.75,,2657325.0,2.041,17.51,Wed Nov 18 05:22:32 AM CST 2026,Wed Nov 18 11:57:16 AM CST 2026,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-L-H_c0282_SM3_BF1_Base,SUCCESS,7.006944444444445,2.0,,3708485.0,2.713,17.79,Wed Nov 18 05:24:52 AM CST 2026,Wed Nov 18 12:25:17 PM CST 2026,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-L-H_c0283_SM3_BF1_Base,SUCCESS,6.451388888888889,1.75,,3087133.0,2.282,17.63,Wed Nov 18 05:24:56 AM CST 2026,Wed Nov 18 11:52:01 AM CST 2026,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
-syn_event_West_L-L-H_c0284_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 13:07,,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
+syn_event_West_L-L-H_c0284_SM3_BF1_Base,SUCCESS,10.778333333333334,2.75,post-proc incomplete,853973.0,0.5966,17.51,Wed Nov 18 05:25:27 AM CST 2026,Wed Nov 18 04:12:09 PM CST 2026,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-L-H_c0285_SM3_BF1_Base,SUCCESS,6.606388888888889,1.75,,2171345.0,1.474,18.43,Wed Nov 18 05:25:13 AM CST 2026,Wed Nov 18 12:01:36 PM CST 2026,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-L-H_c0286_SM3_BF1_Base,SUCCESS,6.203333333333333,1.75,,621340.0,0.4966,17.51,Wed Nov 18 05:25:03 AM CST 2026,Wed Nov 18 11:37:15 AM CST 2026,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_H-L-L_c0000_SM3_BF1_Base,Running,,0.0,,,,,Nov 18 16:49,,,,,,,,,,,,AWS
@@ -1621,22 +1636,13 @@ syn_event_West_L-H-L_c0081_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_L-H-L_c0090_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_L-H-L_c0092_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_L-H-L_c0106_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_L-H-L_c0108_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_L-H-L_c0110_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_L-H-L_c0112_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_L-H-L_c0129_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_L-H-L_c0165_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_L-H-L_c0166_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_L-H-L_c0168_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_L-H-L_c0174_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_L-H-L_c0176_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_L-H-L_c0188_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_L-H-L_c0194_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_L-H-L_c0207_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_L-H-L_c0210_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_L-H-L_c0213_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_L-H-L_c0219_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_L-H-L_c0245_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_L-H-L_c0250_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_L-H-L_c0279_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_L-H-L_c0281_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
@@ -1651,8 +1657,6 @@ syn_event_West_L-H-L_c0329_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_L-H-L_c0356_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_L-H-L_c0360_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_L-H-L_c0375_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_L-H-L_c0377_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_L-H-L_c0385_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_L-H-L_c0387_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_L-H-L_c0411_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_L-H-L_c0419_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
@@ -1660,17 +1664,13 @@ syn_event_West_L-H-L_c0421_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_L-H-L_c0423_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_L-H-L_c0431_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_L-H-L_c0435_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_L-H-L_c0442_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_L-H-L_c0444_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_L-H-L_c0446_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_L-H-L_c0458_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_L-H-L_c0479_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_L-H-L_c0483_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_L-H-L_c0484_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_L-H-L_c0490_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_L-H-L_c0499_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_L-H-L_c0523_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_L-H-L_c0534_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_L-L-H_c0287_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_L-L-H_c0288_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_L-L-H_c0289_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
