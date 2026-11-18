@@ -351,36 +351,45 @@ with context_manager:
     progress_text = f"Processing simulations... {progress_percent}% complete"
     st.progress(progress_percent, text=progress_text)
 
-    # --- By region (from the storm name: syn_event_<Region>_...) ---
+    # --- compact cards: name, main number, small detail line (no arrows, fits narrow columns) ---
+    def _cards(title, items):
+        """items: list of (name, main, detail) -> one row of small cards."""
+        cards = "".join(
+            f'<div style="flex:1;min-width:140px;padding:8px 12px;border:1px solid rgba(128,128,128,.35);'
+            f'border-radius:8px"><div style="font-size:.8rem;opacity:.75">{n}</div>'
+            f'<div style="font-size:1.25rem;font-weight:600;white-space:nowrap">{m}</div>'
+            f'<div style="font-size:.75rem;opacity:.7">{d}</div></div>'
+            for n, m, d in items)
+        st.markdown(f"**{title}**", unsafe_allow_html=True)
+        st.markdown(f'<div style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:12px">{cards}</div>',
+                    unsafe_allow_html=True)
+
+    # --- By region (non-tropical only; from the storm name: syn_event_<Region>_...) ---
     # storms per region in the production (dropped storms excluded); None = not generated yet
     REGION_TOTALS = {"West": 2077, "Northeast": 2014, "Central": None, "Southeast": None}
-    if "Directory" in df.columns:
+    if scenario_cfg.get("category") == "Non-Tropical Cyclones" and "Directory" in df.columns:
         reg = df["Directory"].astype(str).str.extract(r"syn_event_([A-Za-z]+)_", expand=False).fillna("Other")
         by_reg = df.assign(Region=reg).groupby(["Region", "Status"]).size().unstack(fill_value=0)
-        st.subheader("By Region")
-        cols = st.columns(len(REGION_TOTALS), gap="medium")
-        for col, (region, total) in zip(cols, REGION_TOTALS.items()):
+        items = []
+        for region, total in REGION_TOTALS.items():
             r = by_reg.loc[region] if region in by_reg.index else {}
             done, running = int(r.get("SUCCESS", 0)), int(r.get("Running", 0))
-            with col:
-                if total is None and done + running == 0:
-                    st.metric(region, "not started", delta_color="off")
-                else:
-                    pct = f" ({100 * done / total:.0f}%)" if total else ""
-                    st.metric(region, f"{done:,} / {total:,}{pct}" if total else f"{done:,}",
-                              f"{running:,} running", delta_color="off")
+            if done + running == 0:
+                items.append((region, "not started", f"{total:,} storms" if total else ""))
+            else:
+                pct = f" ({100 * done / total:.0f}%)" if total else ""
+                items.append((region, f"{done:,} / {total:,}{pct}" if total else f"{done:,}",
+                              f"{running:,} running" if running else ""))
+        _cards("By Region", items)
 
     # --- Where the simulations run (Platform column: "Stampede3 (<user>)", "AWS") ---
     if "Platform" in df.columns:
         by_plat = (df[df.Status.isin(["SUCCESS", "Running"]) & (df.Platform.fillna("-") != "-")]
                    .groupby(["Platform", "Status"]).size().unstack(fill_value=0))
         if len(by_plat):
-            st.subheader("By Platform")
-            cols = st.columns(len(by_plat), gap="medium")
-            for col, (platform, r) in zip(cols, by_plat.sort_index().iterrows()):
-                with col:
-                    st.metric(platform, f"{int(r.get('Running', 0)):,} running",
-                              f"{int(r.get('SUCCESS', 0)):,} completed", delta_color="off")
+            _cards("By Platform", [(pl, f"{int(r.get('Running', 0)):,} running",
+                                    f"{int(r.get('SUCCESS', 0)):,} completed")
+                                   for pl, r in by_plat.sort_index().iterrows()])
 
     # Example: If you have more heavy charts, render them here so spinner stays active.
     # chart = make_big_chart(df)  # your function
