@@ -349,7 +349,7 @@ with context_manager:
         st.metric("Total", f"{total_simulations:,}")
 
     # storms per region in the non-TC production (dropped storms excluded); None = not generated yet
-    REGION_TOTALS = {"West": 2077, "Northeast": 2014, "Central": None, "Southeast": None}
+    REGION_TOTALS = {"West": 2077, "Northeast": 2014, "Central": 3000, "Southeast": 3000}   # Central, Southeast: approximate until generated
     non_tc = scenario_cfg.get("category") == "Non-Tropical Cyclones" and "Directory" in df.columns
     region_of = (df["Directory"].astype(str).str.extract(r"syn_event_([A-Za-z]+)_", expand=False).fillna("Other")
                  if "Directory" in df.columns else None)
