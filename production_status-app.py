@@ -405,37 +405,8 @@ with context_manager:
                                     f"{int(r.get('SUCCESS', 0)):,} completed")
                                    for pl, r in by_plat.sort_index().iterrows()])
 
-    # --- Storms in progress (per-storm table from lwicheck on every platform) ---
-    try:
-        prog = load_csv(f"{ROOT_DIR}/{scenario_key}_simulation_progress.csv")
-    except Exception:
-        prog = None
-    if prog is not None and len(prog):
-        st.subheader("Storms in progress")
-        active = prog[prog.Status.isin(["PRE-PROC", "RUNNING", "POST-PROC", "STOPPED", "FAILED"])].copy()
-        upd = prog["Updated"].dropna().max() if "Updated" in prog else ""
-        c1, c2, c3, c4 = st.columns(4)
-        c1.metric("Running", int((prog.Status == "RUNNING").sum()))
-        c2.metric("Pre/Post-processing", int(prog.Status.isin(["PRE-PROC", "POST-PROC"]).sum()))
-        c3.metric("Stopped / failed", int(prog.Status.isin(["STOPPED", "FAILED"]).sum()))
-        eta = prog.loc[prog.Status.isin(["RUNNING", "POST-PROC"]), "Done in (h)"].max()
-        c4.metric("Last running storm done in", f"~{eta:.1f} h" if eta == eta and eta is not None else "-")
-        status_pick = st.multiselect("Show", ["RUNNING", "PRE-PROC", "POST-PROC", "STOPPED", "FAILED"],
-                                     default=["RUNNING", "PRE-PROC", "POST-PROC", "STOPPED", "FAILED"])
-        plat_pick = st.multiselect("Platform", sorted(active.Platform.dropna().unique()),
-                                   default=sorted(active.Platform.dropna().unique()))
-        view = active[active.Status.isin(status_pick) & active.Platform.isin(plat_pick)].sort_values(["Platform", "Row"])
-        view["Progress"] = view["Progress"] * 100            # 0-1 -> percent
-        view["Storm"] = view["Directory"].str.replace("syn_event_", "", regex=False).str.replace("_SM3_BF1_Base", "", regex=False)
-        st.dataframe(
-            view[["Platform", "Row", "Storm", "Status", "Progress", "Done in (h)", "Note"]],
-            hide_index=True, use_container_width=True,
-            column_config={
-                "Progress": st.column_config.ProgressColumn("HEC-RAS progress", min_value=0, max_value=100, format="%.0f%%"),
-                "Done in (h)": st.column_config.NumberColumn("Done in (h)", format="%.1f"),
-                "Row": st.column_config.NumberColumn("CSV row", format="%d"),
-            })
-        st.caption(f"Storm table updated {upd} (each platform pushes its table with update_dash)")
+    # per-storm live view lives on its own page (pages/1_Live_progress.py)
+    st.page_link("pages/1_Live_progress.py", label="Live progress: every storm, by platform", icon="📡")
 
     # Example: If you have more heavy charts, render them here so spinner stays active.
     # chart = make_big_chart(df)  # your function
