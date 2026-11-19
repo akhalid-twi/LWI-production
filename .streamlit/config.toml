@@ -1,0 +1,3 @@
+[theme]
+# accent color for progress bars, selected filters and buttons (Streamlit's default is red)
+primaryColor = "#1f77d0"
