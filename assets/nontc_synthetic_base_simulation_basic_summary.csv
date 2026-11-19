@@ -1225,7 +1225,7 @@ syn_event_West_L-L-H_c0073_SM3_BF1_Base,SUCCESS,10.780277777777778,2.75,,3806766
 syn_event_West_L-L-H_c0074_SM3_BF1_Base,SUCCESS,10.152222222222225,2.75,,535218.0,0.3926,17.51,Thu Nov 19 12:26:52 AM CST 2026,Thu Nov 19 10:36:00 AM CST 2026,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-L-H_c0075_SM3_BF1_Base,Failed,,0.0,Disk quota / HDF write error,,,,Thu Nov 19 12:32:38 AM CST 2026,Thu Nov 19 12:32:38 AM CST 2026,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-L-H_c0076_SM3_BF1_Base,Incomplete Model run,,0.0,,,,,Thu Nov 19 12:32:37 AM CST 2026,Thu Nov 19 12:32:37 AM CST 2026,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
-syn_event_West_L-L-H_c0077_SM3_BF1_Base,Running,,0.0,,,,,Nov 19 11:49,,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
+syn_event_West_L-L-H_c0077_SM3_BF1_Base,SUCCESS,12.215833333333332,3.25,post-proc incomplete,5156541.0,3.521,21.89,Thu Nov 19 12:30:35 AM CST 2026,Thu Nov 19 12:43:32 PM CST 2026,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-L-H_c0078_SM3_BF1_Base,Incomplete Model run,,0.0,,,,,Thu Nov 19 12:32:37 AM CST 2026,Thu Nov 19 12:32:37 AM CST 2026,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-L-H_c0079_SM3_BF1_Base,SUCCESS,10.0825,2.75,,1275392.0,0.9337,17.51,Thu Nov 19 12:27:13 AM CST 2026,Thu Nov 19 10:32:10 AM CST 2026,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-L-H_c0080_SM3_BF1_Base,SUCCESS,10.96888888888889,2.75,,3238355.0,2.283,17.51,Thu Nov 19 12:27:24 AM CST 2026,Thu Nov 19 11:25:32 AM CST 2026,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
