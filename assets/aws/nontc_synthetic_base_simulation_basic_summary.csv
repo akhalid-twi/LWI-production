@@ -1,4 +1,5 @@
 Directory,Status,Duration,SUs,Failure Reason,Vol Error (AF),Vol Error (%),Max WSEL Err,Start Time,End Time,Failure Info,Max WSE (ft),Max Depth (ft),Max Velocity (ft/s),Max Volume (ft^3),Max Flow Balance (ft^3/s),Max Stage BC (ft),Max Inflow BC (cfs),Max Cum PRCP (inc),Max Cum PRCP (in),Platform
+syn_event_West_H-L-H_c0053_SM3_BF1_Base,Not started,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,-
 syn_event_West_H-L-L_c0000_SM3_BF1_Base,SUCCESS,8.865833333333333,0.0,,4150415.,2.714,19.39,Nov 19 00:33,Nov 19 09:25,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_West_H-L-L_c0005_SM3_BF1_Base,SUCCESS,9.459999999999999,0.0,,4586797.,3.075,26.52,Nov 18 23:34,Nov 19 09:01,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_West_H-L-L_c0008_SM3_BF1_Base,SUCCESS,8.96111111111111,0.0,,4420444.,3.224,17.51,Nov 18 10:52,Nov 18 19:50,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
@@ -233,7 +234,7 @@ syn_event_West_H-L-L_c0626_SM3_BF1_Base,SUCCESS,9.360833333333334,0.0,,1734305.,
 syn_event_West_H-L-L_c0627_SM3_BF1_Base,SUCCESS,9.669444444444444,0.0,,2520456.,1.702,20.83,Nov 18 19:41,Nov 19 05:21,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_West_H-L-L_c0628_SM3_BF1_Base,SUCCESS,8.023888888888889,0.0,,2188934.,1.711,19.39,Nov 19 00:33,Nov 19 08:34,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_West_H-L-L_c0633_SM3_BF1_Base,SUCCESS,8.283333333333333,0.0,,2430564.,1.770,25.35,Nov 19 02:01,Nov 19 10:18,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
-syn_event_West_H-L-L_c0636_SM3_BF1_Base,Not started,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,-
+syn_event_West_H-L-L_c0636_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 19 23:02,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_West_L-H-H_c0000_SM3_BF1_Base,SUCCESS,8.680555555555555,0.0,,2166281.,1.614,21.20,Nov 18 17:44,Nov 19 02:25,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_West_L-H-H_c0001_SM3_BF1_Base,SUCCESS,8.584444444444445,0.0,,1672797.,1.134,17.51,Nov 18 17:44,Nov 19 02:19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_West_L-H-H_c0002_SM3_BF1_Base,SUCCESS,9.168055555555554,0.0,,4983146.,3.128,17.51,Nov 19 01:11,Nov 19 10:21,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
