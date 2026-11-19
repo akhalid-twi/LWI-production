@@ -326,9 +326,19 @@ with context_manager:
         st.stop()
 
     # --- Derived metrics (your processing) ---
-    df_completed = df[df.Status == 'SUCCESS']
+    # --- counts from the live storm table (lwicheck on every platform), so this page, the Live
+    # progress page and lwicheck agree; the older run summary (df) stays the source for the charts
+    try:
+        _p = load_csv(f"{ROOT_DIR}/{scenario_key}_simulation_progress.csv")
+        _status = {"COMPLETE": "SUCCESS", "RUNNING": "Running", "PRE-PROC": "Running", "POST-PROC": "Running",
+                   "FAILED": "Failed", "STOPPED": "Stopped"}
+        dfc = _p.assign(Status=_p.Status.map(_status))
+    except Exception:
+        dfc = df
+
+    df_completed = dfc[dfc.Status == 'SUCCESS']
     df_not_running = df[df.Status!='Running']
-    running_on_psc = int(len(df[df.Status=='Running']))
+    running_on_psc = int(len(dfc[dfc.Status=='Running']))
 
     total_simulations = int(scenario_cfg.get("total_simulations", 10_000))
 
@@ -350,9 +360,9 @@ with context_manager:
 
     # storms per region in the non-TC production (dropped storms excluded); None = not generated yet
     REGION_TOTALS = {"West": 2077, "Northeast": 2014, "Central": 3000, "Southeast": 3000}   # Central, Southeast: approximate until generated
-    non_tc = scenario_cfg.get("category") == "Non-Tropical Cyclones" and "Directory" in df.columns
-    region_of = (df["Directory"].astype(str).str.extract(r"syn_event_([A-Za-z]+)_", expand=False).fillna("Other")
-                 if "Directory" in df.columns else None)
+    non_tc = scenario_cfg.get("category") == "Non-Tropical Cyclones" and "Directory" in dfc.columns
+    region_of = (dfc["Directory"].astype(str).str.extract(r"syn_event_([A-Za-z]+)_", expand=False).fillna("Other")
+                 if "Directory" in dfc.columns else None)
 
     label = "All regions: " if non_tc else ""
     progress_text = (f"{label}{completed_simulations:,} / {total_simulations:,} complete ({progress_percent}%)")
@@ -360,8 +370,8 @@ with context_manager:
     if non_tc:                                    # one bar per region that has started
         for region, total in REGION_TOTALS.items():
             in_region = region_of == region
-            done = int((in_region & (df.Status == "SUCCESS")).sum())
-            running = int((in_region & (df.Status == "Running")).sum())
+            done = int((in_region & (dfc.Status == "SUCCESS")).sum())
+            running = int((in_region & (dfc.Status == "Running")).sum())
             if not total or done + running == 0:
                 continue
             st.progress(min(done / total, 1.0),
@@ -383,7 +393,7 @@ with context_manager:
 
     # --- By region (non-tropical only; from the storm name: syn_event_<Region>_...) ---
     if non_tc:
-        by_reg = df.assign(Region=region_of).groupby(["Region", "Status"]).size().unstack(fill_value=0)
+        by_reg = dfc.assign(Region=region_of).groupby(["Region", "Status"]).size().unstack(fill_value=0)
         items = []
         for region, total in REGION_TOTALS.items():
             r = by_reg.loc[region] if region in by_reg.index else {}
@@ -398,7 +408,7 @@ with context_manager:
 
     # --- Where the simulations run (Platform column: "Stampede3 (<user>)", "AWS") ---
     if "Platform" in df.columns:
-        by_plat = (df[df.Status.isin(["SUCCESS", "Running"]) & (df.Platform.fillna("-") != "-")]
+        by_plat = (dfc[dfc.Status.isin(["SUCCESS", "Running"]) & (dfc.Platform.fillna("-") != "-")]
                    .groupby(["Platform", "Status"]).size().unstack(fill_value=0))
         if len(by_plat):
             _cards("By Platform", [(pl, f"{int(r.get('Running', 0)):,} running",
