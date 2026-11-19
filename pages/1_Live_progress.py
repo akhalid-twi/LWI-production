@@ -48,11 +48,14 @@ if len(by_plat):
 
 # --- every active storm ---
 st.subheader("Storms")
-f1, f2 = st.columns(2)
+f1, f2, f3 = st.columns(3)
 status_pick = f1.multiselect("Status", ACTIVE, default=ACTIVE)
 plats = sorted(prog.Platform.dropna().unique())
 plat_pick = f2.multiselect("Platform", plats, default=plats)
-view = prog[prog.Status.isin(status_pick) & prog.Platform.isin(plat_pick)].copy()
+region = prog["Directory"].astype(str).str.extract(r"syn_event_([A-Za-z]+)_", expand=False).fillna("Other")
+regs = sorted(region.unique())
+reg_pick = f3.multiselect("Region", regs, default=regs)
+view = prog[prog.Status.isin(status_pick) & prog.Platform.isin(plat_pick) & region.isin(reg_pick)].copy()
 view["Progress"] = view["Progress"] * 100                                  # 0-1 -> percent
 view["Storm"] = (view["Directory"].str.replace("syn_event_", "", regex=False)
                  .str.replace("_SM3_BF1_Base", "", regex=False))

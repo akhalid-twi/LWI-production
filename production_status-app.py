@@ -465,6 +465,18 @@ with context_manager:
 # For debugging/visibility
 #st.subheader(f"Selected scenario key: **{scenario_key}**")
 
+# =============================================================================
+# Region filter (non-tropical only): the overview above always shows every region;
+# the charts and tables below follow this pick
+# =============================================================================
+if non_tc:
+    st.markdown("---")
+    regions = [r for r in REGION_TOTALS if (region_of == r).any()]
+    region_pick = st.selectbox("Region (charts below)", ["All regions"] + regions)
+    if region_pick != "All regions":
+        df = df[(region_of == region_pick).to_numpy()].copy()
+        total_simulations = REGION_TOTALS[region_pick] or len(df)
+
 
 # =============================================================================
 # Status Count
