@@ -1212,7 +1212,7 @@ syn_event_West_L-L-H_c0057_SM3_BF1_Base,Running,,0.0,,,,,Nov 19 07:30,,,,,,,,,,,
 syn_event_West_L-L-H_c0058_SM3_BF1_Base,Running,,0.0,,,,,Nov 19 07:30,,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-L-H_c0059_SM3_BF1_Base,Running,,0.0,,,,,Nov 19 07:30,,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-L-H_c0060_SM3_BF1_Base,Running,,0.0,,,,,Nov 19 07:30,,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
-syn_event_West_L-L-H_c0061_SM3_BF1_Base,Running,,0.0,,,,,Nov 19 07:30,,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
+syn_event_West_L-L-H_c0061_SM3_BF1_Base,SUCCESS,9.21361111111111,2.5,post-proc incomplete,960909.0,0.6911,17.51,Thu Nov 19 12:24:46 AM CST 2026,Thu Nov 19 09:37:35 AM CST 2026,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-L-H_c0062_SM3_BF1_Base,Running,,0.0,,,,,Nov 19 07:30,,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-L-H_c0063_SM3_BF1_Base,Running,,0.0,,,,,Nov 19 07:30,,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
 syn_event_West_L-L-H_c0065_SM3_BF1_Base,Running,,0.0,,,,,Nov 19 07:30,,,,,,,,,,,,Stampede3 (pranavesh_panakkal)
