@@ -76,18 +76,21 @@ def _stage(status, note):
 
 
 view["Stage"] = [_stage(st_, n) for st_, n in zip(view["Status"], view["Note"])]
-cols = ["Platform", "Row", "Storm", "Status", "Progress", "Done in (h)", "Stage"]
+cols = ["Platform", "Row", "Storm", "Status", "Progress", "Run (h)", "Done in (h)", "Stage"]
 try:
     st.dataframe(
         view[cols], hide_index=True, use_container_width=True, height=600,
         column_config={
             "Progress": st.column_config.ProgressColumn("HEC-RAS progress", min_value=0, max_value=100, format="%.0f%%"),
             "Done in (h)": st.column_config.NumberColumn("Done in (h)", format="%.1f"),
+            "Run (h)": st.column_config.NumberColumn("HEC-RAS time (h)", format="%.1f",
+                                                     help="running: HEC-RAS hours so far; finished: total"),
             "Row": st.column_config.NumberColumn("CSV row", format="%d"),
         })
 except Exception:                                   # older Streamlit: plain table, progress as text
     plain = view[cols].copy()
     plain["Progress"] = plain["Progress"].map(lambda v: f"{v:.0f}%" if pd.notna(v) else "")
+    plain["Run (h)"] = plain["Run (h)"].map(lambda v: f"{v:.1f}" if pd.notna(v) else "")
     plain["Done in (h)"] = plain["Done in (h)"].map(lambda v: f"{v:.1f}" if pd.notna(v) else "")
     st.dataframe(plain, use_container_width=True, height=600)
 st.caption(f"{len(view)} storms shown. STOPPED = log idle > 2 h (killed / interrupted, needs a rerun); "
