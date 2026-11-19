@@ -12,7 +12,7 @@ ACTIVE = ["RUNNING", "PRE-PROC", "POST-PROC", "STOPPED", "FAILED"]
 
 st.set_page_config(page_title="LWI Live Progress", layout="wide")
 st.title("Live progress")
-st.page_link("production_status-app.py", label="Back to the production summary", icon="⬅️")
+st.markdown("⬅️ [Back to the production summary](./)")
 
 
 @st.cache_data(ttl=60)  # re-read from GitHub at most every 60 s

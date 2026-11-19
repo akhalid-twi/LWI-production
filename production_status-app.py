@@ -406,7 +406,7 @@ with context_manager:
                                    for pl, r in by_plat.sort_index().iterrows()])
 
     # per-storm live view lives on its own page (pages/1_Live_progress.py)
-    st.page_link("pages/1_Live_progress.py", label="Live progress: every storm, by platform", icon="📡")
+    st.markdown("📡 [**Live progress**: every storm, by platform](./Live_progress)")
 
     # Example: If you have more heavy charts, render them here so spinner stays active.
     # chart = make_big_chart(df)  # your function
