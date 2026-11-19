@@ -57,13 +57,19 @@ view["Progress"] = view["Progress"] * 100                                  # 0-1
 view["Storm"] = (view["Directory"].str.replace("syn_event_", "", regex=False)
                  .str.replace("_SM3_BF1_Base", "", regex=False))
 view = view.sort_values(["Status", "Done in (h)"], na_position="last")
-st.dataframe(
-    view[["Platform", "Row", "Storm", "Status", "Progress", "Done in (h)", "Note"]],
-    hide_index=True, use_container_width=True, height=600,
-    column_config={
-        "Progress": st.column_config.ProgressColumn("HEC-RAS progress", min_value=0, max_value=100, format="%.0f%%"),
-        "Done in (h)": st.column_config.NumberColumn("Done in (h)", format="%.1f"),
-        "Row": st.column_config.NumberColumn("CSV row", format="%d"),
-    })
+cols = ["Platform", "Row", "Storm", "Status", "Progress", "Done in (h)", "Note"]
+try:
+    st.dataframe(
+        view[cols], hide_index=True, use_container_width=True, height=600,
+        column_config={
+            "Progress": st.column_config.ProgressColumn("HEC-RAS progress", min_value=0, max_value=100, format="%.0f%%"),
+            "Done in (h)": st.column_config.NumberColumn("Done in (h)", format="%.1f"),
+            "Row": st.column_config.NumberColumn("CSV row", format="%d"),
+        })
+except Exception:                                   # older Streamlit: plain table, progress as text
+    plain = view[cols].copy()
+    plain["Progress"] = plain["Progress"].map(lambda v: f"{v:.0f}%" if pd.notna(v) else "")
+    plain["Done in (h)"] = plain["Done in (h)"].map(lambda v: f"{v:.1f}" if pd.notna(v) else "")
+    st.dataframe(plain, use_container_width=True, height=600)
 st.caption(f"{len(view)} storms shown. STOPPED = log idle > 2 h (killed / interrupted, needs a rerun); "
            f"FAILED = finished with missing outputs.")
