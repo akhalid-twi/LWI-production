@@ -56,8 +56,27 @@ view = prog[prog.Status.isin(status_pick) & prog.Platform.isin(plat_pick)].copy(
 view["Progress"] = view["Progress"] * 100                                  # 0-1 -> percent
 view["Storm"] = (view["Directory"].str.replace("syn_event_", "", regex=False)
                  .str.replace("_SM3_BF1_Base", "", regex=False))
-view = view.sort_values(["Status", "Done in (h)"], na_position="last")
-cols = ["Platform", "Row", "Storm", "Status", "Progress", "Done in (h)", "Note"]
+order = {"RUNNING": 0, "POST-PROC": 1, "PRE-PROC": 2, "STOPPED": 3, "FAILED": 4}
+view = view.assign(_o=view.Status.map(order)).sort_values(["_o", "Done in (h)"], na_position="last").drop(columns="_o")
+
+def _stage(status, note):
+    """Readable stage of a storm: 1 setup -> 2 HEC-RAS -> 3 post-processing."""
+    note = str(note) if pd.notna(note) else ""
+    if status == "PRE-PROC":
+        return "1 Setup: " + note.split(" (HEC-RAS")[0]          # e.g. "Applying CRS & Sorting Forcing Files"
+    if status == "RUNNING":
+        return "2 HEC-RAS: " + (note.replace("at ", "simulated to ") if note.startswith("at ") else note)
+    if status == "POST-PROC":
+        return "3 Post-processing: extraction, QA/QC, compression"
+    if status == "STOPPED":
+        return "Stopped: " + note
+    if status == "FAILED":
+        return "Failed: " + note
+    return note
+
+
+view["Stage"] = [_stage(st_, n) for st_, n in zip(view["Status"], view["Note"])]
+cols = ["Platform", "Row", "Storm", "Status", "Progress", "Done in (h)", "Stage"]
 try:
     st.dataframe(
         view[cols], hide_index=True, use_container_width=True, height=600,
