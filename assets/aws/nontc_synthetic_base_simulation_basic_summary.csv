@@ -128,7 +128,7 @@ syn_event_West_H-L-L_c0490_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 20 22:0
 syn_event_West_H-L-L_c0492_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 20 22:02,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_West_H-L-L_c0497_SM3_BF1_Base,SUCCESS,7.697777777777778,0.0,,138326.,0.1052,17.51,Nov 20 07:00,Nov 20 14:42,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_West_H-L-L_c0499_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 20 21:57,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
-syn_event_West_H-L-L_c0503_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 20 14:45,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
+syn_event_West_H-L-L_c0503_SM3_BF1_Base,SUCCESS,7.748333333333333,0.0,post-proc incomplete,141047.,0.1164,22.34,Nov 20 14:51,Nov 20 22:36,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_West_H-L-L_c0508_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 20 21:55,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_West_H-L-L_c0512_SM3_BF1_Base,SUCCESS,7.4752777777777775,0.0,,176000.,0.1517,17.51,Nov 20 07:00,Nov 20 14:29,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_West_H-L-L_c0516_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 20 21:58,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
