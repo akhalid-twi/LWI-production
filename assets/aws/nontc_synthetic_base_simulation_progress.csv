@@ -1,182 +1,182 @@
 Directory,User,Platform,Row,Status,Run (h),Vol Error (%),Max WSE Err (ft),Progress,Done in (h),Note,Updated
-syn_event_West_H-L-L_c0047_SM3_BF1_Base,akhalid_twi,AWS,707,COMPLETE,7.8,0.1122,17.51,,,,2026-11-20 22:17
-syn_event_West_H-L-L_c0090_SM3_BF1_Base,akhalid_twi,AWS,711,COMPLETE,7.6,0.1285,22.2,,,,2026-11-20 22:17
-syn_event_West_H-L-L_c0091_SM3_BF1_Base,akhalid_twi,AWS,717,COMPLETE,7.7,0.1276,21.55,,,,2026-11-20 22:17
-syn_event_West_H-L-L_c0157_SM3_BF1_Base,akhalid_twi,AWS,715,COMPLETE,7.5,0.1353,22.57,,,,2026-11-20 22:17
-syn_event_West_H-L-L_c0167_SM3_BF1_Base,akhalid_twi,AWS,718,COMPLETE,7.7,0.1282,17.51,,,,2026-11-20 22:17
-syn_event_West_H-L-L_c0184_SM3_BF1_Base,akhalid_twi,AWS,700,COMPLETE,7.5,0.1204,17.51,,,,2026-11-20 22:17
-syn_event_West_H-L-L_c0252_SM3_BF1_Base,akhalid_twi,AWS,702,COMPLETE,7.3,0.1183,17.51,,,,2026-11-20 22:17
-syn_event_West_H-L-L_c0263_SM3_BF1_Base,akhalid_twi,AWS,712,COMPLETE,7.5,0.1081,17.51,,,,2026-11-20 22:17
-syn_event_West_H-L-L_c0272_SM3_BF1_Base,akhalid_twi,AWS,699,COMPLETE,7.9,0.1192,17.51,,,,2026-11-20 22:17
-syn_event_West_H-L-L_c0316_SM3_BF1_Base,akhalid_twi,AWS,719,COMPLETE,7.9,0.118,17.51,,,,2026-11-20 22:17
-syn_event_West_H-L-L_c0330_SM3_BF1_Base,akhalid_twi,AWS,708,COMPLETE,7.4,0.1156,17.51,,,,2026-11-20 22:17
-syn_event_West_H-L-L_c0350_SM3_BF1_Base,akhalid_twi,AWS,704,COMPLETE,7.6,0.1388,17.51,,,,2026-11-20 22:17
-syn_event_West_H-L-L_c0393_SM3_BF1_Base,akhalid_twi,AWS,714,COMPLETE,7.7,0.2051,17.51,,,,2026-11-20 22:17
-syn_event_West_H-L-L_c0439_SM3_BF1_Base,akhalid_twi,AWS,701,COMPLETE,7.6,0.1112,17.51,,,,2026-11-20 22:17
-syn_event_West_H-L-L_c0476_SM3_BF1_Base,akhalid_twi,AWS,705,COMPLETE,7.6,0.1039,17.51,,,,2026-11-20 22:17
-syn_event_West_H-L-L_c0484_SM3_BF1_Base,akhalid_twi,AWS,697,COMPLETE,7.6,0.1109,22.19,,,,2026-11-20 22:17
-syn_event_West_H-L-L_c0497_SM3_BF1_Base,akhalid_twi,AWS,713,COMPLETE,7.7,0.1052,17.51,,,,2026-11-20 22:17
-syn_event_West_H-L-L_c0512_SM3_BF1_Base,akhalid_twi,AWS,703,COMPLETE,7.5,0.1517,17.51,,,,2026-11-20 22:17
-syn_event_West_H-L-L_c0530_SM3_BF1_Base,akhalid_twi,AWS,716,COMPLETE,7.8,0.1112,17.51,,,,2026-11-20 22:17
-syn_event_West_H-L-L_c0542_SM3_BF1_Base,akhalid_twi,AWS,710,COMPLETE,7.3,0.1424,17.51,,,,2026-11-20 22:17
-syn_event_West_H-L-L_c0555_SM3_BF1_Base,akhalid_twi,AWS,696,COMPLETE,7.7,0.1168,17.51,,,,2026-11-20 22:17
-syn_event_West_H-L-L_c0611_SM3_BF1_Base,akhalid_twi,AWS,709,COMPLETE,7.4,0.1393,17.51,,,,2026-11-20 22:17
-syn_event_West_H-L-L_c0614_SM3_BF1_Base,akhalid_twi,AWS,698,COMPLETE,7.8,0.1114,18.06,,,,2026-11-20 22:17
-syn_event_West_H-L-L_c0621_SM3_BF1_Base,akhalid_twi,AWS,706,COMPLETE,7.6,0.1456,22.26,,,,2026-11-20 22:17
-syn_event_West_H-L-L_c0636_SM3_BF1_Base,akhalid_twi,AWS,397,COMPLETE,5.4,0.1229,17.51,,,,2026-11-20 22:17
-syn_event_West_H-L-L_c0005_SM3_BF1_Base,akhalid_twi,AWS,769,RUNNING,0.05,,,0.004064039408866995,7.7,at 27Oct2019 12:49,2026-11-20 22:17
-syn_event_West_H-L-L_c0008_SM3_BF1_Base,akhalid_twi,AWS,894,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0017_SM3_BF1_Base,akhalid_twi,AWS,910,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0021_SM3_BF1_Base,akhalid_twi,AWS,911,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0023_SM3_BF1_Base,akhalid_twi,AWS,740,RUNNING,7.1,,,0.9041871921182266,0.95,at 18Nov2022 19:33,2026-11-20 22:17
-syn_event_West_H-L-L_c0026_SM3_BF1_Base,akhalid_twi,AWS,726,RUNNING,7.3,,,0.8723727422003285,1.3,at 23Dec2022 08:05,2026-11-20 22:17
-syn_event_West_H-L-L_c0042_SM3_BF1_Base,akhalid_twi,AWS,777,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0044_SM3_BF1_Base,akhalid_twi,AWS,720,RUNNING,7.4,,,0.9499178981937603,0.6,at 09Feb1988 18:50,2026-11-20 22:17
-syn_event_West_H-L-L_c0053_SM3_BF1_Base,akhalid_twi,AWS,903,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0054_SM3_BF1_Base,akhalid_twi,AWS,904,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0069_SM3_BF1_Base,akhalid_twi,AWS,759,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0079_SM3_BF1_Base,akhalid_twi,AWS,748,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0080_SM3_BF1_Base,akhalid_twi,AWS,757,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0083_SM3_BF1_Base,akhalid_twi,AWS,772,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0086_SM3_BF1_Base,akhalid_twi,AWS,880,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0087_SM3_BF1_Base,akhalid_twi,AWS,907,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0092_SM3_BF1_Base,akhalid_twi,AWS,729,RUNNING,7.2,,,0.921592775041051,0.8166666666666667,at 06Dec2020 22:05,2026-11-20 22:17
-syn_event_West_H-L-L_c0106_SM3_BF1_Base,akhalid_twi,AWS,924,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0113_SM3_BF1_Base,akhalid_twi,AWS,909,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0114_SM3_BF1_Base,akhalid_twi,AWS,728,RUNNING,7.2,,,0.9421182266009852,0.65,at 08Jul1995 18:15,2026-11-20 22:17
-syn_event_West_H-L-L_c0120_SM3_BF1_Base,akhalid_twi,AWS,797,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0124_SM3_BF1_Base,akhalid_twi,AWS,737,RUNNING,7.1,,,0.9090311986863711,0.9166666666666666,at 01Nov2022 20:32,2026-11-20 22:17
-syn_event_West_H-L-L_c0131_SM3_BF1_Base,akhalid_twi,AWS,885,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0139_SM3_BF1_Base,akhalid_twi,AWS,800,RUNNING,0.0,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0142_SM3_BF1_Base,akhalid_twi,AWS,888,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0146_SM3_BF1_Base,akhalid_twi,AWS,882,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0153_SM3_BF1_Base,akhalid_twi,AWS,884,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0154_SM3_BF1_Base,akhalid_twi,AWS,791,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0165_SM3_BF1_Base,akhalid_twi,AWS,883,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0170_SM3_BF1_Base,akhalid_twi,AWS,915,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0173_SM3_BF1_Base,akhalid_twi,AWS,799,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0174_SM3_BF1_Base,akhalid_twi,AWS,786,RUNNING,0.1,,,0.011576354679802956,7.7,at 10Dec2020 06:21,2026-11-20 22:17
-syn_event_West_H-L-L_c0177_SM3_BF1_Base,akhalid_twi,AWS,922,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0178_SM3_BF1_Base,akhalid_twi,AWS,898,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0180_SM3_BF1_Base,akhalid_twi,AWS,917,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0187_SM3_BF1_Base,akhalid_twi,AWS,743,RUNNING,7.1,,,0.9043103448275861,0.95,at 01Nov2022 19:34,2026-11-20 22:17
-syn_event_West_H-L-L_c0190_SM3_BF1_Base,akhalid_twi,AWS,755,RUNNING,0.0,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0191_SM3_BF1_Base,akhalid_twi,AWS,902,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0192_SM3_BF1_Base,akhalid_twi,AWS,770,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0193_SM3_BF1_Base,akhalid_twi,AWS,919,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0198_SM3_BF1_Base,akhalid_twi,AWS,900,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0201_SM3_BF1_Base,akhalid_twi,AWS,730,RUNNING,7.2,,,0.9330459770114943,0.7166666666666667,at 03Dec2020 21:24,2026-11-20 22:17
-syn_event_West_H-L-L_c0202_SM3_BF1_Base,akhalid_twi,AWS,754,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0203_SM3_BF1_Base,akhalid_twi,AWS,923,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0205_SM3_BF1_Base,akhalid_twi,AWS,901,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0206_SM3_BF1_Base,akhalid_twi,AWS,779,RUNNING,0.08333333333333333,,,0.008990147783251232,7.7,at 01Dec1984 02:49,2026-11-20 22:17
-syn_event_West_H-L-L_c0210_SM3_BF1_Base,akhalid_twi,AWS,760,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0218_SM3_BF1_Base,akhalid_twi,AWS,747,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0221_SM3_BF1_Base,akhalid_twi,AWS,785,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0223_SM3_BF1_Base,akhalid_twi,AWS,881,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0224_SM3_BF1_Base,akhalid_twi,AWS,920,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0226_SM3_BF1_Base,akhalid_twi,AWS,916,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0227_SM3_BF1_Base,akhalid_twi,AWS,731,RUNNING,7.2,,,0.922167487684729,0.8166666666666667,at 29Dec2012 14:12,2026-11-20 22:17
-syn_event_West_H-L-L_c0230_SM3_BF1_Base,akhalid_twi,AWS,893,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0238_SM3_BF1_Base,akhalid_twi,AWS,897,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0244_SM3_BF1_Base,akhalid_twi,AWS,889,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0249_SM3_BF1_Base,akhalid_twi,AWS,798,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0267_SM3_BF1_Base,akhalid_twi,AWS,762,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0274_SM3_BF1_Base,akhalid_twi,AWS,795,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0276_SM3_BF1_Base,akhalid_twi,AWS,789,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0277_SM3_BF1_Base,akhalid_twi,AWS,778,RUNNING,0.03333333333333333,,,0.004720853858784894,7.7,at 15Dec2022 23:57,2026-11-20 22:17
-syn_event_West_H-L-L_c0285_SM3_BF1_Base,akhalid_twi,AWS,928,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0292_SM3_BF1_Base,akhalid_twi,AWS,784,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0295_SM3_BF1_Base,akhalid_twi,AWS,793,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0296_SM3_BF1_Base,akhalid_twi,AWS,921,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0298_SM3_BF1_Base,akhalid_twi,AWS,803,RUNNING,0.016666666666666666,,,0.0013957307060755335,7.8,at 20Dec2020 10:17,2026-11-20 22:17
-syn_event_West_H-L-L_c0299_SM3_BF1_Base,akhalid_twi,AWS,721,RUNNING,7.4,,,0.9548440065681445,0.55,at 29May2022 02:50,2026-11-20 22:17
-syn_event_West_H-L-L_c0322_SM3_BF1_Base,akhalid_twi,AWS,780,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0323_SM3_BF1_Base,akhalid_twi,AWS,733,RUNNING,7.2,,,0.929351395730706,0.75,at 06Dec2020 23:39,2026-11-20 22:17
-syn_event_West_H-L-L_c0324_SM3_BF1_Base,akhalid_twi,AWS,927,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0327_SM3_BF1_Base,akhalid_twi,AWS,929,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0337_SM3_BF1_Base,akhalid_twi,AWS,734,RUNNING,7.2,,,0.9236863711001642,0.8,at 06May2021 11:30,2026-11-20 22:17
-syn_event_West_H-L-L_c0341_SM3_BF1_Base,akhalid_twi,AWS,926,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0353_SM3_BF1_Base,akhalid_twi,AWS,801,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0355_SM3_BF1_Base,akhalid_twi,AWS,746,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0358_SM3_BF1_Base,akhalid_twi,AWS,787,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0359_SM3_BF1_Base,akhalid_twi,AWS,751,RUNNING,0.016666666666666666,,,0.0012725779967159279,7.8,at 28Dec1982 01:15,2026-11-20 22:17
-syn_event_West_H-L-L_c0360_SM3_BF1_Base,akhalid_twi,AWS,756,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0364_SM3_BF1_Base,akhalid_twi,AWS,724,RUNNING,7.3,,,0.908415435139573,0.9333333333333333,at 16Apr2022 18:24,2026-11-20 22:17
-syn_event_West_H-L-L_c0366_SM3_BF1_Base,akhalid_twi,AWS,912,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0368_SM3_BF1_Base,akhalid_twi,AWS,899,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0370_SM3_BF1_Base,akhalid_twi,AWS,771,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0371_SM3_BF1_Base,akhalid_twi,AWS,758,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0385_SM3_BF1_Base,akhalid_twi,AWS,895,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0388_SM3_BF1_Base,akhalid_twi,AWS,773,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0394_SM3_BF1_Base,akhalid_twi,AWS,776,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0402_SM3_BF1_Base,akhalid_twi,AWS,741,RUNNING,7.1,,,0.8996305418719212,0.9833333333333333,at 09Feb1988 08:37,2026-11-20 22:17
-syn_event_West_H-L-L_c0409_SM3_BF1_Base,akhalid_twi,AWS,736,RUNNING,7.1,,,0.8809934318555008,1.2,at 03Apr2022 05:50,2026-11-20 22:17
-syn_event_West_H-L-L_c0410_SM3_BF1_Base,akhalid_twi,AWS,744,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0413_SM3_BF1_Base,akhalid_twi,AWS,727,RUNNING,7.3,,,0.9261904761904762,0.7833333333333333,at 17Jan1992 17:01,2026-11-20 22:17
-syn_event_West_H-L-L_c0419_SM3_BF1_Base,akhalid_twi,AWS,794,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0420_SM3_BF1_Base,akhalid_twi,AWS,742,RUNNING,7.1,,,0.9271346469622332,0.75,at 17Jan1992 17:12,2026-11-20 22:17
-syn_event_West_H-L-L_c0421_SM3_BF1_Base,akhalid_twi,AWS,739,RUNNING,7.1,,,0.8981937602627258,1.0,at 06Dec2020 17:20,2026-11-20 22:17
-syn_event_West_H-L-L_c0426_SM3_BF1_Base,akhalid_twi,AWS,767,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0434_SM3_BF1_Base,akhalid_twi,AWS,763,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0437_SM3_BF1_Base,akhalid_twi,AWS,722,RUNNING,7.4,,,0.9410098522167488,0.6666666666666666,at 23Dec2022 22:01,2026-11-20 22:17
-syn_event_West_H-L-L_c0445_SM3_BF1_Base,akhalid_twi,AWS,725,RUNNING,7.3,,,0.8983169129720853,1.0,at 13Dec1992 03:21,2026-11-20 22:17
-syn_event_West_H-L-L_c0447_SM3_BF1_Base,akhalid_twi,AWS,925,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0456_SM3_BF1_Base,akhalid_twi,AWS,732,RUNNING,7.2,,,0.9112068965517242,0.9,at 13Oct1990 20:58,2026-11-20 22:17
-syn_event_West_H-L-L_c0465_SM3_BF1_Base,akhalid_twi,AWS,914,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0466_SM3_BF1_Base,akhalid_twi,AWS,891,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0467_SM3_BF1_Base,akhalid_twi,AWS,774,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0470_SM3_BF1_Base,akhalid_twi,AWS,783,RUNNING,0.03333333333333333,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0472_SM3_BF1_Base,akhalid_twi,AWS,796,RUNNING,0.016666666666666666,,,0.0027504105090311987,7.8,at 15Jan2019 16:33,2026-11-20 22:17
-syn_event_West_H-L-L_c0474_SM3_BF1_Base,akhalid_twi,AWS,752,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0477_SM3_BF1_Base,akhalid_twi,AWS,735,RUNNING,7.2,,,0.9132594417077177,0.8833333333333333,at 23Jan2019 09:23,2026-11-20 22:17
-syn_event_West_H-L-L_c0481_SM3_BF1_Base,akhalid_twi,AWS,908,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0482_SM3_BF1_Base,akhalid_twi,AWS,886,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0490_SM3_BF1_Base,akhalid_twi,AWS,930,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0492_SM3_BF1_Base,akhalid_twi,AWS,905,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0499_SM3_BF1_Base,akhalid_twi,AWS,775,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0503_SM3_BF1_Base,akhalid_twi,AWS,723,RUNNING,7.4,,,0.9649014778325123,0.4666666666666667,at 28Jun2019 22:52,2026-11-20 22:17
-syn_event_West_H-L-L_c0508_SM3_BF1_Base,akhalid_twi,AWS,750,RUNNING,0.0,,,0.002257799671592775,7.8,at 07Dec2019 00:27,2026-11-20 22:17
-syn_event_West_H-L-L_c0516_SM3_BF1_Base,akhalid_twi,AWS,765,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0518_SM3_BF1_Base,akhalid_twi,AWS,781,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0523_SM3_BF1_Base,akhalid_twi,AWS,918,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0531_SM3_BF1_Base,akhalid_twi,AWS,782,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0543_SM3_BF1_Base,akhalid_twi,AWS,887,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0544_SM3_BF1_Base,akhalid_twi,AWS,749,RUNNING,0.03333333333333333,,,0.00574712643678161,7.7,at 16Jan2022 15:10,2026-11-20 22:17
-syn_event_West_H-L-L_c0547_SM3_BF1_Base,akhalid_twi,AWS,890,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0551_SM3_BF1_Base,akhalid_twi,AWS,764,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0553_SM3_BF1_Base,akhalid_twi,AWS,761,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0572_SM3_BF1_Base,akhalid_twi,AWS,792,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0573_SM3_BF1_Base,akhalid_twi,AWS,892,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0576_SM3_BF1_Base,akhalid_twi,AWS,766,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0582_SM3_BF1_Base,akhalid_twi,AWS,753,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0584_SM3_BF1_Base,akhalid_twi,AWS,788,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0588_SM3_BF1_Base,akhalid_twi,AWS,790,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0594_SM3_BF1_Base,akhalid_twi,AWS,896,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0601_SM3_BF1_Base,akhalid_twi,AWS,913,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_H-L-L_c0618_SM3_BF1_Base,akhalid_twi,AWS,906,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0622_SM3_BF1_Base,akhalid_twi,AWS,745,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0624_SM3_BF1_Base,akhalid_twi,AWS,802,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0625_SM3_BF1_Base,akhalid_twi,AWS,768,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_H-L-L_c0627_SM3_BF1_Base,akhalid_twi,AWS,738,RUNNING,7.1,,,0.8940065681444991,1.0,at 29May2020 01:29,2026-11-20 22:17
-syn_event_West_L-H-H_c0000_SM3_BF1_Base,akhalid_twi,AWS,931,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_L-H-H_c0001_SM3_BF1_Base,akhalid_twi,AWS,932,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_L-H-H_c0002_SM3_BF1_Base,akhalid_twi,AWS,933,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_L-H-H_c0003_SM3_BF1_Base,akhalid_twi,AWS,934,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_L-H-H_c0004_SM3_BF1_Base,akhalid_twi,AWS,935,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_L-H-H_c0005_SM3_BF1_Base,akhalid_twi,AWS,936,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_L-H-H_c0006_SM3_BF1_Base,akhalid_twi,AWS,937,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_L-H-H_c0007_SM3_BF1_Base,akhalid_twi,AWS,938,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_L-H-H_c0008_SM3_BF1_Base,akhalid_twi,AWS,939,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_L-H-H_c0009_SM3_BF1_Base,akhalid_twi,AWS,940,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_L-H-H_c0010_SM3_BF1_Base,akhalid_twi,AWS,941,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-20 22:17
-syn_event_West_L-H-H_c0011_SM3_BF1_Base,akhalid_twi,AWS,942,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_L-H-H_c0012_SM3_BF1_Base,akhalid_twi,AWS,943,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_L-H-H_c0013_SM3_BF1_Base,akhalid_twi,AWS,944,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_L-H-H_c0014_SM3_BF1_Base,akhalid_twi,AWS,945,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_L-H-H_c0015_SM3_BF1_Base,akhalid_twi,AWS,946,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_L-H-H_c0016_SM3_BF1_Base,akhalid_twi,AWS,947,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_L-H-H_c0017_SM3_BF1_Base,akhalid_twi,AWS,948,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_L-H-H_c0018_SM3_BF1_Base,akhalid_twi,AWS,949,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_L-H-H_c0019_SM3_BF1_Base,akhalid_twi,AWS,950,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
-syn_event_West_L-H-H_c0020_SM3_BF1_Base,akhalid_twi,AWS,951,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:17
+syn_event_West_H-L-L_c0047_SM3_BF1_Base,akhalid_twi,AWS,707,COMPLETE,7.8,0.1122,17.51,,,,2026-11-20 22:27
+syn_event_West_H-L-L_c0090_SM3_BF1_Base,akhalid_twi,AWS,711,COMPLETE,7.6,0.1285,22.2,,,,2026-11-20 22:27
+syn_event_West_H-L-L_c0091_SM3_BF1_Base,akhalid_twi,AWS,717,COMPLETE,7.7,0.1276,21.55,,,,2026-11-20 22:27
+syn_event_West_H-L-L_c0157_SM3_BF1_Base,akhalid_twi,AWS,715,COMPLETE,7.5,0.1353,22.57,,,,2026-11-20 22:27
+syn_event_West_H-L-L_c0167_SM3_BF1_Base,akhalid_twi,AWS,718,COMPLETE,7.7,0.1282,17.51,,,,2026-11-20 22:27
+syn_event_West_H-L-L_c0184_SM3_BF1_Base,akhalid_twi,AWS,700,COMPLETE,7.5,0.1204,17.51,,,,2026-11-20 22:27
+syn_event_West_H-L-L_c0252_SM3_BF1_Base,akhalid_twi,AWS,702,COMPLETE,7.3,0.1183,17.51,,,,2026-11-20 22:27
+syn_event_West_H-L-L_c0263_SM3_BF1_Base,akhalid_twi,AWS,712,COMPLETE,7.5,0.1081,17.51,,,,2026-11-20 22:27
+syn_event_West_H-L-L_c0272_SM3_BF1_Base,akhalid_twi,AWS,699,COMPLETE,7.9,0.1192,17.51,,,,2026-11-20 22:27
+syn_event_West_H-L-L_c0316_SM3_BF1_Base,akhalid_twi,AWS,719,COMPLETE,7.9,0.118,17.51,,,,2026-11-20 22:27
+syn_event_West_H-L-L_c0330_SM3_BF1_Base,akhalid_twi,AWS,708,COMPLETE,7.4,0.1156,17.51,,,,2026-11-20 22:27
+syn_event_West_H-L-L_c0350_SM3_BF1_Base,akhalid_twi,AWS,704,COMPLETE,7.6,0.1388,17.51,,,,2026-11-20 22:27
+syn_event_West_H-L-L_c0393_SM3_BF1_Base,akhalid_twi,AWS,714,COMPLETE,7.7,0.2051,17.51,,,,2026-11-20 22:27
+syn_event_West_H-L-L_c0439_SM3_BF1_Base,akhalid_twi,AWS,701,COMPLETE,7.6,0.1112,17.51,,,,2026-11-20 22:27
+syn_event_West_H-L-L_c0476_SM3_BF1_Base,akhalid_twi,AWS,705,COMPLETE,7.6,0.1039,17.51,,,,2026-11-20 22:27
+syn_event_West_H-L-L_c0484_SM3_BF1_Base,akhalid_twi,AWS,697,COMPLETE,7.6,0.1109,22.19,,,,2026-11-20 22:27
+syn_event_West_H-L-L_c0497_SM3_BF1_Base,akhalid_twi,AWS,713,COMPLETE,7.7,0.1052,17.51,,,,2026-11-20 22:27
+syn_event_West_H-L-L_c0512_SM3_BF1_Base,akhalid_twi,AWS,703,COMPLETE,7.5,0.1517,17.51,,,,2026-11-20 22:27
+syn_event_West_H-L-L_c0530_SM3_BF1_Base,akhalid_twi,AWS,716,COMPLETE,7.8,0.1112,17.51,,,,2026-11-20 22:27
+syn_event_West_H-L-L_c0542_SM3_BF1_Base,akhalid_twi,AWS,710,COMPLETE,7.3,0.1424,17.51,,,,2026-11-20 22:27
+syn_event_West_H-L-L_c0555_SM3_BF1_Base,akhalid_twi,AWS,696,COMPLETE,7.7,0.1168,17.51,,,,2026-11-20 22:27
+syn_event_West_H-L-L_c0611_SM3_BF1_Base,akhalid_twi,AWS,709,COMPLETE,7.4,0.1393,17.51,,,,2026-11-20 22:27
+syn_event_West_H-L-L_c0614_SM3_BF1_Base,akhalid_twi,AWS,698,COMPLETE,7.8,0.1114,18.06,,,,2026-11-20 22:27
+syn_event_West_H-L-L_c0621_SM3_BF1_Base,akhalid_twi,AWS,706,COMPLETE,7.6,0.1456,22.26,,,,2026-11-20 22:27
+syn_event_West_H-L-L_c0636_SM3_BF1_Base,akhalid_twi,AWS,397,COMPLETE,5.4,0.1229,17.51,,,,2026-11-20 22:27
+syn_event_West_H-L-L_c0005_SM3_BF1_Base,akhalid_twi,AWS,769,RUNNING,0.21666666666666667,,,0.02795566502463054,7.6,at 27Oct2019 17:40,2026-11-20 22:27
+syn_event_West_H-L-L_c0008_SM3_BF1_Base,akhalid_twi,AWS,894,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:27
+syn_event_West_H-L-L_c0017_SM3_BF1_Base,akhalid_twi,AWS,910,RUNNING,0.0,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:27
+syn_event_West_H-L-L_c0021_SM3_BF1_Base,akhalid_twi,AWS,911,RUNNING,0.016666666666666666,,,0.0007799671592775041,7.8,at 09Jan1992 21:09,2026-11-20 22:27
+syn_event_West_H-L-L_c0023_SM3_BF1_Base,akhalid_twi,AWS,740,RUNNING,7.2,,,0.9242200328407225,0.8,at 18Nov2022 23:37,2026-11-20 22:27
+syn_event_West_H-L-L_c0026_SM3_BF1_Base,akhalid_twi,AWS,726,RUNNING,7.5,,,0.8918719211822661,1.1,at 23Dec2022 12:03,2026-11-20 22:27
+syn_event_West_H-L-L_c0042_SM3_BF1_Base,akhalid_twi,AWS,777,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:27
+syn_event_West_H-L-L_c0044_SM3_BF1_Base,akhalid_twi,AWS,720,RUNNING,7.6,,,0.9704022988505747,0.43333333333333335,at 09Feb1988 22:59,2026-11-20 22:27
+syn_event_West_H-L-L_c0053_SM3_BF1_Base,akhalid_twi,AWS,903,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:27
+syn_event_West_H-L-L_c0054_SM3_BF1_Base,akhalid_twi,AWS,904,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:27
+syn_event_West_H-L-L_c0069_SM3_BF1_Base,akhalid_twi,AWS,759,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:27
+syn_event_West_H-L-L_c0079_SM3_BF1_Base,akhalid_twi,AWS,748,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:27
+syn_event_West_H-L-L_c0080_SM3_BF1_Base,akhalid_twi,AWS,757,RUNNING,0.016666666666666666,,,0.0004926108374384237,7.8,at 28Apr2021 16:06,2026-11-20 22:27
+syn_event_West_H-L-L_c0083_SM3_BF1_Base,akhalid_twi,AWS,772,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:27
+syn_event_West_H-L-L_c0086_SM3_BF1_Base,akhalid_twi,AWS,880,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:27
+syn_event_West_H-L-L_c0087_SM3_BF1_Base,akhalid_twi,AWS,907,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:27
+syn_event_West_H-L-L_c0092_SM3_BF1_Base,akhalid_twi,AWS,729,RUNNING,7.4,,,0.9421592775041051,0.65,at 07Dec2020 02:15,2026-11-20 22:27
+syn_event_West_H-L-L_c0106_SM3_BF1_Base,akhalid_twi,AWS,924,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:27
+syn_event_West_H-L-L_c0113_SM3_BF1_Base,akhalid_twi,AWS,909,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-20 22:27
+syn_event_West_H-L-L_c0114_SM3_BF1_Base,akhalid_twi,AWS,728,RUNNING,7.4,,,0.9623973727422004,0.48333333333333334,at 08Jul1995 22:22,2026-11-20 22:27
+syn_event_West_H-L-L_c0120_SM3_BF1_Base,akhalid_twi,AWS,797,RUNNING,0.06666666666666667,,,0.006321839080459771,7.7,at 31Mar2018 13:17,2026-11-20 22:27
+syn_event_West_H-L-L_c0124_SM3_BF1_Base,akhalid_twi,AWS,737,RUNNING,7.2,,,0.9288177339901479,0.75,at 02Nov2022 00:33,2026-11-20 22:27
+syn_event_West_H-L-L_c0131_SM3_BF1_Base,akhalid_twi,AWS,885,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-20 22:27
+syn_event_West_H-L-L_c0139_SM3_BF1_Base,akhalid_twi,AWS,800,RUNNING,0.16666666666666666,,,0.021305418719211825,7.6,at 10Dec2020 08:19,2026-11-20 22:27
+syn_event_West_H-L-L_c0142_SM3_BF1_Base,akhalid_twi,AWS,888,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:27
+syn_event_West_H-L-L_c0146_SM3_BF1_Base,akhalid_twi,AWS,882,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:27
+syn_event_West_H-L-L_c0153_SM3_BF1_Base,akhalid_twi,AWS,884,PRE-PROC,,,,,, User requested to save 'Cell Cumulative Precipitation Depth' 'Cell Flow Balance' 'Cell Infiltration Rate' 'Cell Percolation Rate' 'Cell Precipitation Rate' 'Cell Soil Moisture Deficit' 'Cell Velocity' 'Cell Volume' 'Face Flow' 'Face Cumulative Volume' 'Face Water Surface' (HEC-RAS not started),2026-11-20 22:27
+syn_event_West_H-L-L_c0154_SM3_BF1_Base,akhalid_twi,AWS,791,RUNNING,0.0,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:27
+syn_event_West_H-L-L_c0165_SM3_BF1_Base,akhalid_twi,AWS,883,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:27
+syn_event_West_H-L-L_c0170_SM3_BF1_Base,akhalid_twi,AWS,915,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:27
+syn_event_West_H-L-L_c0173_SM3_BF1_Base,akhalid_twi,AWS,799,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:27
+syn_event_West_H-L-L_c0174_SM3_BF1_Base,akhalid_twi,AWS,786,RUNNING,0.26666666666666666,,,0.03518062397372742,7.5,at 10Dec2020 11:08,2026-11-20 22:27
+syn_event_West_H-L-L_c0177_SM3_BF1_Base,akhalid_twi,AWS,922,RUNNING,0.05,,,0.004433497536945813,7.7,at 21Dec2012 19:54,2026-11-20 22:27
+syn_event_West_H-L-L_c0178_SM3_BF1_Base,akhalid_twi,AWS,898,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:27
+syn_event_West_H-L-L_c0180_SM3_BF1_Base,akhalid_twi,AWS,917,RUNNING,0.016666666666666666,,,0.0005336617405582923,7.8,at 08Feb2021 11:06,2026-11-20 22:27
+syn_event_West_H-L-L_c0187_SM3_BF1_Base,akhalid_twi,AWS,743,RUNNING,7.2,,,0.9245484400656815,0.8,at 01Nov2022 23:41,2026-11-20 22:27
+syn_event_West_H-L-L_c0190_SM3_BF1_Base,akhalid_twi,AWS,755,RUNNING,0.16666666666666666,,,0.02196223316912972,7.6,at 29Dec1984 17:27,2026-11-20 22:27
+syn_event_West_H-L-L_c0191_SM3_BF1_Base,akhalid_twi,AWS,902,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:27
+syn_event_West_H-L-L_c0192_SM3_BF1_Base,akhalid_twi,AWS,770,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:27
+syn_event_West_H-L-L_c0193_SM3_BF1_Base,akhalid_twi,AWS,919,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:27
+syn_event_West_H-L-L_c0198_SM3_BF1_Base,akhalid_twi,AWS,900,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:27
+syn_event_West_H-L-L_c0201_SM3_BF1_Base,akhalid_twi,AWS,730,RUNNING,7.4,,,0.9544334975369458,0.55,at 04Dec2020 01:45,2026-11-20 22:27
+syn_event_West_H-L-L_c0202_SM3_BF1_Base,akhalid_twi,AWS,754,RUNNING,0.15,,,0.020073891625615764,7.6,at 01Feb1992 20:04,2026-11-20 22:27
+syn_event_West_H-L-L_c0203_SM3_BF1_Base,akhalid_twi,AWS,923,RUNNING,0.016666666666666666,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:27
+syn_event_West_H-L-L_c0205_SM3_BF1_Base,akhalid_twi,AWS,901,RUNNING,0.05,,,0.005049261083743842,7.7,at 31Mar2018 13:01,2026-11-20 22:27
+syn_event_West_H-L-L_c0206_SM3_BF1_Base,akhalid_twi,AWS,779,RUNNING,0.25,,,0.03103448275862069,7.5,at 01Dec1984 07:18,2026-11-20 22:27
+syn_event_West_H-L-L_c0210_SM3_BF1_Base,akhalid_twi,AWS,760,RUNNING,0.06666666666666667,,,0.007922824302134647,7.7,at 09Jan1992 22:36,2026-11-20 22:27
+syn_event_West_H-L-L_c0218_SM3_BF1_Base,akhalid_twi,AWS,747,RUNNING,0.06666666666666667,,,0.007019704433497537,7.7,at 29Nov2020 04:25,2026-11-20 22:27
+syn_event_West_H-L-L_c0221_SM3_BF1_Base,akhalid_twi,AWS,785,RUNNING,0.15,,,0.017857142857142856,7.6,at 21May2020 15:37,2026-11-20 22:27
+syn_event_West_H-L-L_c0223_SM3_BF1_Base,akhalid_twi,AWS,881,RUNNING,0.05,,,0.006855500821018062,7.7,at 04Mar1995 12:23,2026-11-20 22:27
+syn_event_West_H-L-L_c0224_SM3_BF1_Base,akhalid_twi,AWS,920,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:27
+syn_event_West_H-L-L_c0226_SM3_BF1_Base,akhalid_twi,AWS,916,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:27
+syn_event_West_H-L-L_c0227_SM3_BF1_Base,akhalid_twi,AWS,731,RUNNING,7.4,,,0.9439655172413793,0.6333333333333333,at 29Dec2012 18:37,2026-11-20 22:27
+syn_event_West_H-L-L_c0230_SM3_BF1_Base,akhalid_twi,AWS,893,RUNNING,0.0,,,0.0006978653530377668,7.8,at 22Nov1980 07:08,2026-11-20 22:27
+syn_event_West_H-L-L_c0238_SM3_BF1_Base,akhalid_twi,AWS,897,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-20 22:27
+syn_event_West_H-L-L_c0244_SM3_BF1_Base,akhalid_twi,AWS,889,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:27
+syn_event_West_H-L-L_c0249_SM3_BF1_Base,akhalid_twi,AWS,798,RUNNING,0.06666666666666667,,,0.00935960591133005,7.7,at 08Nov2022 17:54,2026-11-20 22:27
+syn_event_West_H-L-L_c0267_SM3_BF1_Base,akhalid_twi,AWS,762,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:27
+syn_event_West_H-L-L_c0274_SM3_BF1_Base,akhalid_twi,AWS,795,RUNNING,0.05,,,0.007183908045977011,7.7,at 01Feb1988 19:27,2026-11-20 22:27
+syn_event_West_H-L-L_c0276_SM3_BF1_Base,akhalid_twi,AWS,789,RUNNING,0.06666666666666667,,,0.009770114942528735,7.7,at 10Apr1983 14:59,2026-11-20 22:27
+syn_event_West_H-L-L_c0277_SM3_BF1_Base,akhalid_twi,AWS,778,RUNNING,0.21666666666666667,,,0.02992610837438424,7.6,at 16Dec2022 05:04,2026-11-20 22:27
+syn_event_West_H-L-L_c0285_SM3_BF1_Base,akhalid_twi,AWS,928,RUNNING,0.0,,,0.0005336617405582923,7.8,at 06Apr1982 01:06,2026-11-20 22:27
+syn_event_West_H-L-L_c0292_SM3_BF1_Base,akhalid_twi,AWS,784,RUNNING,0.016666666666666666,,,4.105090311986864e-05,7.8,at 21May2022 01:00,2026-11-20 22:27
+syn_event_West_H-L-L_c0295_SM3_BF1_Base,akhalid_twi,AWS,793,RUNNING,0.016666666666666666,,,0.0029967159277504104,7.8,at 09Jan2006 17:36,2026-11-20 22:27
+syn_event_West_H-L-L_c0296_SM3_BF1_Base,akhalid_twi,AWS,921,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-20 22:27
+syn_event_West_H-L-L_c0298_SM3_BF1_Base,akhalid_twi,AWS,803,RUNNING,0.18333333333333332,,,0.025944170771756977,7.6,at 20Dec2020 15:16,2026-11-20 22:27
+syn_event_West_H-L-L_c0299_SM3_BF1_Base,akhalid_twi,AWS,721,RUNNING,7.6,,,0.9774220032840722,0.38333333333333336,at 29May2022 07:25,2026-11-20 22:27
+syn_event_West_H-L-L_c0322_SM3_BF1_Base,akhalid_twi,AWS,780,RUNNING,0.11666666666666667,,,0.017898193760262724,7.6,at 14Jun2018 01:38,2026-11-20 22:27
+syn_event_West_H-L-L_c0323_SM3_BF1_Base,akhalid_twi,AWS,733,RUNNING,7.4,,,0.9520935960591134,0.5666666666666667,at 07Dec2020 04:16,2026-11-20 22:27
+syn_event_West_H-L-L_c0324_SM3_BF1_Base,akhalid_twi,AWS,927,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:27
+syn_event_West_H-L-L_c0327_SM3_BF1_Base,akhalid_twi,AWS,929,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-20 22:27
+syn_event_West_H-L-L_c0337_SM3_BF1_Base,akhalid_twi,AWS,734,RUNNING,7.4,,,0.945935960591133,0.6166666666666667,at 06May2021 16:01,2026-11-20 22:27
+syn_event_West_H-L-L_c0341_SM3_BF1_Base,akhalid_twi,AWS,926,RUNNING,0.016666666666666666,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:27
+syn_event_West_H-L-L_c0353_SM3_BF1_Base,akhalid_twi,AWS,801,RUNNING,0.016666666666666666,,,0.002175697865353038,7.8,at 08Mar1993 17:26,2026-11-20 22:27
+syn_event_West_H-L-L_c0355_SM3_BF1_Base,akhalid_twi,AWS,746,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-20 22:27
+syn_event_West_H-L-L_c0358_SM3_BF1_Base,akhalid_twi,AWS,787,RUNNING,0.016666666666666666,,,0.0006568144499178982,7.8,at 15Jan2019 16:08,2026-11-20 22:27
+syn_event_West_H-L-L_c0359_SM3_BF1_Base,akhalid_twi,AWS,751,RUNNING,0.18333333333333332,,,0.025533661740558294,7.6,at 28Dec1982 06:11,2026-11-20 22:27
+syn_event_West_H-L-L_c0360_SM3_BF1_Base,akhalid_twi,AWS,756,RUNNING,0.03333333333333333,,,0.005665024630541872,7.7,at 16Feb2020 21:09,2026-11-20 22:27
+syn_event_West_H-L-L_c0364_SM3_BF1_Base,akhalid_twi,AWS,724,RUNNING,7.5,,,0.9298029556650246,0.7666666666666667,at 16Apr2022 22:45,2026-11-20 22:27
+syn_event_West_H-L-L_c0366_SM3_BF1_Base,akhalid_twi,AWS,912,RUNNING,0.0,,,0.002134646962233169,7.8,at 28Apr2021 16:26,2026-11-20 22:27
+syn_event_West_H-L-L_c0368_SM3_BF1_Base,akhalid_twi,AWS,899,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:27
+syn_event_West_H-L-L_c0370_SM3_BF1_Base,akhalid_twi,AWS,771,RUNNING,0.13333333333333333,,,0.019170771756978653,7.6,at 25Oct2022 07:53,2026-11-20 22:27
+syn_event_West_H-L-L_c0371_SM3_BF1_Base,akhalid_twi,AWS,758,RUNNING,0.1,,,0.01535303776683087,7.7,at 08Dec2000 17:07,2026-11-20 22:27
+syn_event_West_H-L-L_c0385_SM3_BF1_Base,akhalid_twi,AWS,895,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:27
+syn_event_West_H-L-L_c0388_SM3_BF1_Base,akhalid_twi,AWS,773,RUNNING,0.06666666666666667,,,0.010919540229885057,7.7,at 28Oct1991 06:13,2026-11-20 22:27
+syn_event_West_H-L-L_c0394_SM3_BF1_Base,akhalid_twi,AWS,776,RUNNING,0.03333333333333333,,,0.004885057471264368,7.7,at 26Oct1993 07:59,2026-11-20 22:27
+syn_event_West_H-L-L_c0402_SM3_BF1_Base,akhalid_twi,AWS,741,RUNNING,7.2,,,0.9212233169129721,0.8166666666666667,at 09Feb1988 13:00,2026-11-20 22:27
+syn_event_West_H-L-L_c0409_SM3_BF1_Base,akhalid_twi,AWS,736,RUNNING,7.2,,,0.9023809523809524,0.9833333333333333,at 03Apr2022 10:11,2026-11-20 22:27
+syn_event_West_H-L-L_c0410_SM3_BF1_Base,akhalid_twi,AWS,744,RUNNING,0.016666666666666666,,,0.005213464696223317,7.7,at 21May2020 13:03,2026-11-20 22:27
+syn_event_West_H-L-L_c0413_SM3_BF1_Base,akhalid_twi,AWS,727,RUNNING,7.5,,,0.9476190476190477,0.6166666666666667,at 17Jan1992 21:22,2026-11-20 22:27
+syn_event_West_H-L-L_c0419_SM3_BF1_Base,akhalid_twi,AWS,794,RUNNING,0.016666666666666666,,,0.005049261083743842,7.7,at 26Mar2022 20:01,2026-11-20 22:27
+syn_event_West_H-L-L_c0420_SM3_BF1_Base,akhalid_twi,AWS,742,RUNNING,7.2,,,0.9499589490968802,0.5833333333333334,at 17Jan1992 21:50,2026-11-20 22:27
+syn_event_West_H-L-L_c0421_SM3_BF1_Base,akhalid_twi,AWS,739,RUNNING,7.2,,,0.9195812807881774,0.8333333333333334,at 06Dec2020 21:40,2026-11-20 22:27
+syn_event_West_H-L-L_c0426_SM3_BF1_Base,akhalid_twi,AWS,767,RUNNING,0.016666666666666666,,,0.0009031198686371099,7.8,at 01Dec1984 01:11,2026-11-20 22:27
+syn_event_West_H-L-L_c0434_SM3_BF1_Base,akhalid_twi,AWS,763,RUNNING,0.08333333333333333,,,0.01293103448275862,7.7,at 12Oct2021 09:37,2026-11-20 22:27
+syn_event_West_H-L-L_c0437_SM3_BF1_Base,akhalid_twi,AWS,722,RUNNING,7.6,,,0.9623973727422004,0.5,at 24Dec2022 02:22,2026-11-20 22:27
+syn_event_West_H-L-L_c0445_SM3_BF1_Base,akhalid_twi,AWS,725,RUNNING,7.5,,,0.9205665024630542,0.85,at 13Dec1992 07:52,2026-11-20 22:27
+syn_event_West_H-L-L_c0447_SM3_BF1_Base,akhalid_twi,AWS,925,RUNNING,0.016666666666666666,,,0.0008620689655172414,7.8,at 11Apr2014 01:10,2026-11-20 22:27
+syn_event_West_H-L-L_c0456_SM3_BF1_Base,akhalid_twi,AWS,732,RUNNING,7.4,,,0.9345648604269294,0.7166666666666667,at 14Oct1990 01:43,2026-11-20 22:27
+syn_event_West_H-L-L_c0465_SM3_BF1_Base,akhalid_twi,AWS,914,RUNNING,0.0,,,0.0034893267651888342,7.8,at 07Dec2021 18:42,2026-11-20 22:27
+syn_event_West_H-L-L_c0466_SM3_BF1_Base,akhalid_twi,AWS,891,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:27
+syn_event_West_H-L-L_c0467_SM3_BF1_Base,akhalid_twi,AWS,774,RUNNING,0.06666666666666667,,,0.012151067323481117,7.7,at 21Dec2012 21:28,2026-11-20 22:27
+syn_event_West_H-L-L_c0470_SM3_BF1_Base,akhalid_twi,AWS,783,RUNNING,0.15,,,0.022824302134646965,7.6,at 14Jun2018 02:38,2026-11-20 22:27
+syn_event_West_H-L-L_c0472_SM3_BF1_Base,akhalid_twi,AWS,796,RUNNING,0.18333333333333332,,,0.027545155993431856,7.6,at 15Jan2019 21:35,2026-11-20 22:27
+syn_event_West_H-L-L_c0474_SM3_BF1_Base,akhalid_twi,AWS,752,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-20 22:27
+syn_event_West_H-L-L_c0477_SM3_BF1_Base,akhalid_twi,AWS,735,RUNNING,7.4,,,0.9362479474548441,0.7,at 23Jan2019 14:03,2026-11-20 22:27
+syn_event_West_H-L-L_c0481_SM3_BF1_Base,akhalid_twi,AWS,908,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-20 22:27
+syn_event_West_H-L-L_c0482_SM3_BF1_Base,akhalid_twi,AWS,886,RUNNING,0.016666666666666666,,,0.0013136288998357964,7.8,at 08Nov2022 16:16,2026-11-20 22:27
+syn_event_West_H-L-L_c0490_SM3_BF1_Base,akhalid_twi,AWS,930,RUNNING,0.03333333333333333,,,0.0003284072249589491,7.8,at 08Mar2022 07:04,2026-11-20 22:27
+syn_event_West_H-L-L_c0492_SM3_BF1_Base,akhalid_twi,AWS,905,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:27
+syn_event_West_H-L-L_c0499_SM3_BF1_Base,akhalid_twi,AWS,775,RUNNING,0.016666666666666666,,,0.00045155993431855496,7.8,at 05Dec1992 13:05,2026-11-20 22:27
+syn_event_West_H-L-L_c0503_SM3_BF1_Base,akhalid_twi,AWS,723,RUNNING,7.6,,,0.9877257799671593,0.3,at 29Jun2019 03:30,2026-11-20 22:27
+syn_event_West_H-L-L_c0508_SM3_BF1_Base,akhalid_twi,AWS,750,RUNNING,0.16666666666666666,,,0.027504105090311984,7.6,at 07Dec2019 05:35,2026-11-20 22:27
+syn_event_West_H-L-L_c0516_SM3_BF1_Base,akhalid_twi,AWS,765,RUNNING,0.0,,,0.0031198686371100163,7.8,at 26Feb1980 16:38,2026-11-20 22:27
+syn_event_West_H-L-L_c0518_SM3_BF1_Base,akhalid_twi,AWS,781,RUNNING,0.016666666666666666,,,0.0011904761904761906,7.8,at 29Dec1984 13:14,2026-11-20 22:27
+syn_event_West_H-L-L_c0523_SM3_BF1_Base,akhalid_twi,AWS,918,RUNNING,0.05,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:27
+syn_event_West_H-L-L_c0531_SM3_BF1_Base,akhalid_twi,AWS,782,RUNNING,0.1,,,0.01683087027914614,7.7,at 11Nov2022 07:25,2026-11-20 22:27
+syn_event_West_H-L-L_c0543_SM3_BF1_Base,akhalid_twi,AWS,887,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:27
+syn_event_West_H-L-L_c0544_SM3_BF1_Base,akhalid_twi,AWS,749,RUNNING,0.2,,,0.02992610837438424,7.6,at 16Jan2022 20:04,2026-11-20 22:27
+syn_event_West_H-L-L_c0547_SM3_BF1_Base,akhalid_twi,AWS,890,RUNNING,0.016666666666666666,,,0.0023399014778325124,7.8,at 05Dec1995 19:28,2026-11-20 22:27
+syn_event_West_H-L-L_c0551_SM3_BF1_Base,akhalid_twi,AWS,764,RUNNING,0.016666666666666666,,,0.004761904761904762,7.7,at 21May2020 12:58,2026-11-20 22:27
+syn_event_West_H-L-L_c0553_SM3_BF1_Base,akhalid_twi,AWS,761,RUNNING,0.05,,,0.010837438423645322,7.7,at 28Jan1985 15:12,2026-11-20 22:27
+syn_event_West_H-L-L_c0572_SM3_BF1_Base,akhalid_twi,AWS,792,RUNNING,0.0,,,0.0035714285714285713,7.8,at 01Feb1992 16:43,2026-11-20 22:27
+syn_event_West_H-L-L_c0573_SM3_BF1_Base,akhalid_twi,AWS,892,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-20 22:27
+syn_event_West_H-L-L_c0576_SM3_BF1_Base,akhalid_twi,AWS,766,RUNNING,0.11666666666666667,,,0.01863711001642036,7.6,at 10Dec2020 07:47,2026-11-20 22:27
+syn_event_West_H-L-L_c0582_SM3_BF1_Base,akhalid_twi,AWS,753,RUNNING,0.03333333333333333,,,0.008784893267651889,7.7,at 10Apr1983 14:47,2026-11-20 22:27
+syn_event_West_H-L-L_c0584_SM3_BF1_Base,akhalid_twi,AWS,788,RUNNING,0.05,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:27
+syn_event_West_H-L-L_c0588_SM3_BF1_Base,akhalid_twi,AWS,790,RUNNING,0.06666666666666667,,,0.011945812807881772,7.7,at 09Feb2022 05:25,2026-11-20 22:27
+syn_event_West_H-L-L_c0594_SM3_BF1_Base,akhalid_twi,AWS,896,RUNNING,0.0,,,0.0041871921182266006,7.7,at 13Dec2005 16:51,2026-11-20 22:27
+syn_event_West_H-L-L_c0601_SM3_BF1_Base,akhalid_twi,AWS,913,RUNNING,0.016666666666666666,,,0.002873563218390805,7.8,at 04Mar1995 11:35,2026-11-20 22:27
+syn_event_West_H-L-L_c0618_SM3_BF1_Base,akhalid_twi,AWS,906,RUNNING,0.05,,,0.011042692939244663,7.7,at 21May2020 14:14,2026-11-20 22:27
+syn_event_West_H-L-L_c0622_SM3_BF1_Base,akhalid_twi,AWS,745,RUNNING,0.05,,,0.010714285714285713,7.7,at 15Jan2019 18:10,2026-11-20 22:27
+syn_event_West_H-L-L_c0624_SM3_BF1_Base,akhalid_twi,AWS,802,RUNNING,0.0,,,0.004679802955665025,7.7,at 30Jun1995 19:57,2026-11-20 22:27
+syn_event_West_H-L-L_c0625_SM3_BF1_Base,akhalid_twi,AWS,768,RUNNING,0.016666666666666666,,,0.0036124794745484396,7.8,at 15Jan2019 16:44,2026-11-20 22:27
+syn_event_West_H-L-L_c0627_SM3_BF1_Base,akhalid_twi,AWS,738,RUNNING,7.3,,,0.916543513957307,0.8666666666666667,at 29May2020 06:03,2026-11-20 22:27
+syn_event_West_L-H-H_c0000_SM3_BF1_Base,akhalid_twi,AWS,931,RUNNING,0.03333333333333333,,,0.0011904761904761906,7.8,at 24Jan1994 00:14,2026-11-20 22:27
+syn_event_West_L-H-H_c0001_SM3_BF1_Base,akhalid_twi,AWS,932,RUNNING,0.05,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:27
+syn_event_West_L-H-H_c0002_SM3_BF1_Base,akhalid_twi,AWS,933,RUNNING,0.05,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:27
+syn_event_West_L-H-H_c0003_SM3_BF1_Base,akhalid_twi,AWS,934,RUNNING,0.05,,,0.00020525451559934318,7.8,at 30Mar2017 08:02,2026-11-20 22:27
+syn_event_West_L-H-H_c0004_SM3_BF1_Base,akhalid_twi,AWS,935,RUNNING,0.05,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:27
+syn_event_West_L-H-H_c0005_SM3_BF1_Base,akhalid_twi,AWS,936,RUNNING,0.0,,,0.004638752052545156,7.7,at 17Mar2012 15:56,2026-11-20 22:27
+syn_event_West_L-H-H_c0006_SM3_BF1_Base,akhalid_twi,AWS,937,RUNNING,0.0,,,0.00574712643678161,7.7,at 16May2021 07:10,2026-11-20 22:27
+syn_event_West_L-H-H_c0007_SM3_BF1_Base,akhalid_twi,AWS,938,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-20 22:27
+syn_event_West_L-H-H_c0008_SM3_BF1_Base,akhalid_twi,AWS,939,RUNNING,0.05,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:27
+syn_event_West_L-H-H_c0009_SM3_BF1_Base,akhalid_twi,AWS,940,RUNNING,0.016666666666666666,,,0.0029556650246305416,7.8,at 31Oct2002 05:36,2026-11-20 22:27
+syn_event_West_L-H-H_c0010_SM3_BF1_Base,akhalid_twi,AWS,941,RUNNING,0.03333333333333333,,,0.010673234811165845,7.7,at 05Apr2002 04:10,2026-11-20 22:27
+syn_event_West_L-H-H_c0011_SM3_BF1_Base,akhalid_twi,AWS,942,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:27
+syn_event_West_L-H-H_c0012_SM3_BF1_Base,akhalid_twi,AWS,943,RUNNING,0.05,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:27
+syn_event_West_L-H-H_c0013_SM3_BF1_Base,akhalid_twi,AWS,944,RUNNING,0.06666666666666667,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:27
+syn_event_West_L-H-H_c0014_SM3_BF1_Base,akhalid_twi,AWS,945,RUNNING,0.06666666666666667,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:27
+syn_event_West_L-H-H_c0015_SM3_BF1_Base,akhalid_twi,AWS,946,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:27
+syn_event_West_L-H-H_c0016_SM3_BF1_Base,akhalid_twi,AWS,947,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-20 22:27
+syn_event_West_L-H-H_c0017_SM3_BF1_Base,akhalid_twi,AWS,948,PRE-PROC,,,,,,Delete results group in HDF (HEC-RAS not started),2026-11-20 22:27
+syn_event_West_L-H-H_c0018_SM3_BF1_Base,akhalid_twi,AWS,949,RUNNING,0.05,,,0.00041050903119868636,7.8,at 14Apr2016 03:05,2026-11-20 22:27
+syn_event_West_L-H-H_c0019_SM3_BF1_Base,akhalid_twi,AWS,950,RUNNING,0.05,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-20 22:27
+syn_event_West_L-H-H_c0020_SM3_BF1_Base,akhalid_twi,AWS,951,RUNNING,0.03333333333333333,,,0.0010673234811165845,7.8,at 14Jan2004 01:13,2026-11-20 22:27
