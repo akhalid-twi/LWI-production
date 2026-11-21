@@ -1,184 +1,185 @@
 Directory,User,Platform,Row,Status,Run (h),Vol Error (%),Max WSE Err (ft),Progress,Done in (h),Note,Updated
-syn_event_West_H-L-H_c0038_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),240,COMPLETE,6.1,0.1047,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0039_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),241,COMPLETE,6.1,0.1166,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0040_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),242,COMPLETE,6.2,0.1044,22.26,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0041_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),243,COMPLETE,6.0,0.115,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0042_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),244,COMPLETE,9.9,0.1378,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0043_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),245,COMPLETE,5.9,0.1398,21.34,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0044_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),246,COMPLETE,6.3,0.1043,22.21,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0045_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),247,COMPLETE,6.2,0.1119,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0046_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),248,COMPLETE,9.9,0.1047,22.53,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0047_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),249,COMPLETE,6.0,0.1133,21.51,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0048_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),250,COMPLETE,6.0,0.1152,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0049_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),251,COMPLETE,10.4,0.1019,22.46,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0050_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),252,COMPLETE,6.1,0.1501,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0051_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),253,COMPLETE,6.3,0.1032,19.08,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0052_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),254,COMPLETE,6.3,0.09975,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0053_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),255,COMPLETE,9.9,0.1043,22.03,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0055_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),256,COMPLETE,6.3,0.1041,22.48,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0056_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),257,COMPLETE,6.1,0.0998,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0057_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),258,COMPLETE,6.1,0.1126,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0058_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),259,COMPLETE,6.2,0.1014,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0059_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),260,COMPLETE,6.2,0.09208,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0060_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),261,COMPLETE,6.1,0.1067,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0061_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),262,COMPLETE,10.3,0.1025,22.37,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0062_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),263,COMPLETE,6.2,0.1096,18.73,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0063_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),264,COMPLETE,6.1,0.09826,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0064_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),265,COMPLETE,6.0,0.1185,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0065_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),266,COMPLETE,6.2,0.1156,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0066_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),267,COMPLETE,6.1,0.1492,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0067_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),268,COMPLETE,9.9,0.1281,22.08,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0069_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),269,COMPLETE,6.3,0.1083,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0070_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),270,COMPLETE,6.1,0.1033,22.16,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0071_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),271,COMPLETE,10.2,0.09441,22.21,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0072_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),272,COMPLETE,6.2,0.102,22.33,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0074_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),273,COMPLETE,6.3,0.09767,22.57,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0075_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),274,COMPLETE,6.2,0.1051,22.35,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0076_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),275,COMPLETE,9.8,0.144,19.04,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0077_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),276,COMPLETE,6.2,0.1023,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0078_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),277,COMPLETE,6.2,0.1047,22.39,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0079_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),278,COMPLETE,6.0,0.1378,21.43,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0080_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),279,COMPLETE,6.0,0.1558,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0081_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),280,COMPLETE,6.2,0.1046,22.36,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0083_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),281,COMPLETE,6.0,0.136,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0084_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),282,COMPLETE,6.1,0.1135,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0085_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),283,COMPLETE,6.2,0.1098,22.73,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0086_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),284,COMPLETE,10.0,0.099,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0088_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),285,COMPLETE,6.3,0.1011,22.54,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0090_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),286,COMPLETE,6.1,0.1542,18.03,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0091_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),287,COMPLETE,6.0,0.1142,22.29,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0092_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),288,COMPLETE,6.1,0.155,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0093_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),289,COMPLETE,10.4,0.1059,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0095_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),290,COMPLETE,6.1,0.09861,22.66,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0096_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),291,COMPLETE,9.7,0.116,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0097_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),292,COMPLETE,6.3,0.09654,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-H_c0099_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),293,COMPLETE,6.4,0.09948,22.23,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0006_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),358,COMPLETE,6.1,0.1138,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0039_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),309,COMPLETE,6.0,0.1211,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0050_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),357,COMPLETE,6.1,0.1029,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0051_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),316,COMPLETE,6.4,0.1026,22.42,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0058_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),368,FAILED,0.0,,,,,no-max_wse_vel no-ts no-html ras-not-finished ran<2h,2026-11-20 20:56
-syn_event_West_H-L-L_c0067_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),356,COMPLETE,6.2,0.1036,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0095_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),354,COMPLETE,9.9,0.1069,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0101_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),353,COMPLETE,6.1,0.1154,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0105_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),351,COMPLETE,6.1,0.1273,22.31,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0108_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),307,COMPLETE,10.0,0.1179,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0115_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),348,COMPLETE,6.2,0.118,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0164_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),296,COMPLETE,6.1,0.1127,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0172_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),335,COMPLETE,5.7,0.124,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0182_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),298,COMPLETE,6.1,0.1024,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0183_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),359,COMPLETE,6.2,0.1077,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0195_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),334,COMPLETE,6.1,0.1057,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0199_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),349,COMPLETE,9.9,0.1186,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0208_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),299,COMPLETE,9.9,0.1216,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0219_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),345,COMPLETE,6.1,0.1078,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0236_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),295,COMPLETE,6.1,0.1188,21.77,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0242_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),338,COMPLETE,6.0,0.117,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0243_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),330,COMPLETE,10.3,0.1007,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0245_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),308,COMPLETE,6.0,0.1158,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0261_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),352,COMPLETE,6.1,0.1318,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0275_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),343,COMPLETE,6.1,0.128,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0278_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),302,COMPLETE,6.0,0.1242,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0279_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),306,COMPLETE,6.1,0.1085,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0287_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),350,COMPLETE,6.1,0.137,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0290_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),304,COMPLETE,6.1,0.1133,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0326_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),312,COMPLETE,6.1,0.1191,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0334_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),333,COMPLETE,6.0,0.1145,22.11,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0363_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),322,COMPLETE,9.9,0.1282,18.07,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0373_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),314,COMPLETE,6.1,0.1137,18.06,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0374_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),331,COMPLETE,6.2,0.13,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0379_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),310,COMPLETE,6.3,0.1118,19.05,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0392_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),340,COMPLETE,9.9,0.1534,19.05,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0422_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),324,COMPLETE,6.1,0.1179,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0431_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),323,COMPLETE,6.2,0.1102,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0435_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),311,COMPLETE,6.1,0.1082,22.29,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0441_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),342,COMPLETE,5.9,0.1252,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0453_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),297,COMPLETE,6.1,0.2024,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0457_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),320,COMPLETE,6.2,0.1175,22.24,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0461_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),366,FAILED,0.0,,,,,no-max_wse_vel no-ts no-html ras-not-finished ran<2h,2026-11-20 20:56
-syn_event_West_H-L-L_c0479_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),337,COMPLETE,6.1,0.1024,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0485_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),339,COMPLETE,6.1,0.2204,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0507_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),326,COMPLETE,9.9,0.1124,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0513_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),336,COMPLETE,9.7,0.1375,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0525_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),327,COMPLETE,6.0,0.1279,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0526_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),329,COMPLETE,6.1,0.1473,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0528_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),355,COMPLETE,9.7,0.1153,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0529_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),341,COMPLETE,6.0,0.1174,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0536_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),319,COMPLETE,6.1,0.1439,19.05,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0538_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),347,COMPLETE,6.2,0.1168,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0556_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),315,COMPLETE,6.1,0.1091,22.22,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0559_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),305,COMPLETE,5.9,0.1281,21.48,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0565_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),328,COMPLETE,6.2,0.1201,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0566_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),325,COMPLETE,6.1,0.1239,22.3,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0569_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),301,COMPLETE,10.0,0.1131,22.19,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0596_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),344,COMPLETE,6.2,0.1182,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0598_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),317,COMPLETE,9.5,0.1164,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0600_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),332,COMPLETE,6.1,0.1733,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0602_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),321,COMPLETE,6.0,0.1398,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0603_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),300,COMPLETE,6.2,0.1206,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0606_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),313,COMPLETE,10.3,0.1039,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0616_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),303,COMPLETE,6.0,0.1244,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0619_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),318,COMPLETE,6.4,0.1032,19.05,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0623_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),346,COMPLETE,6.2,0.1297,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0635_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),294,COMPLETE,6.0,0.1117,17.51,,,,2026-11-20 20:56
-syn_event_West_H-L-L_c0011_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),418,RUNNING,4.5,,,0.7539819376026273,2.2,at 11Dec1992 22:03,2026-11-20 20:56
-syn_event_West_H-L-L_c0040_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),371,RUNNING,4.5,,,0.4427750410509031,6.3,at 02May2021 09:53,2026-11-20 20:56
-syn_event_West_H-L-L_c0046_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),365,RUNNING,4.5,,,0.4702791461412151,5.8,at 24Jun2019 18:28,2026-11-20 20:56
-syn_event_West_H-L-L_c0055_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),394,RUNNING,4.3,,,0.6973316912972085,2.6,at 07Feb1988 15:33,2026-11-20 20:56
-syn_event_West_H-L-L_c0074_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),392,RUNNING,4.3,,,0.6960180623973727,2.6,at 06Dec1984 22:17,2026-11-20 20:56
-syn_event_West_H-L-L_c0075_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),415,RUNNING,4.5,,,0.4451149425287356,6.3,at 20Jan1983 07:21,2026-11-20 20:56
-syn_event_West_H-L-L_c0081_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),403,RUNNING,4.4,,,0.7121921182266009,2.5,at 22Feb2020 20:34,2026-11-20 20:56
-syn_event_West_H-L-L_c0084_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),374,RUNNING,4.5,,,0.752791461412151,2.2,at 15Apr2022 10:49,2026-11-20 20:56
-syn_event_West_H-L-L_c0096_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),406,RUNNING,4.5,,,0.7341133004926109,2.3,at 31Oct2022 09:01,2026-11-20 20:56
-syn_event_West_H-L-L_c0097_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),387,RUNNING,4.4,,,0.4452791461412151,6.2,at 31Dec1982 19:23,2026-11-20 20:56
-syn_event_West_H-L-L_c0100_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),383,RUNNING,4.5,,,0.7491379310344827,2.2,at 15Mar1993 01:04,2026-11-20 20:56
-syn_event_West_H-L-L_c0102_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),395,RUNNING,4.4,,,0.7341543513957307,2.3,at 13Dec2019 05:02,2026-11-20 20:56
-syn_event_West_H-L-L_c0111_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),408,RUNNING,4.5,,,0.7329638752052545,2.3,at 26Jun2019 23:47,2026-11-20 20:56
-syn_event_West_H-L-L_c0112_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),407,RUNNING,4.5,,,0.7488095238095238,2.2,at 16Jan1992 05:00,2026-11-20 20:56
-syn_event_West_H-L-L_c0147_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),377,RUNNING,4.5,,,0.7402709359605911,2.3,at 02Dec2022 22:16,2026-11-20 20:56
-syn_event_West_H-L-L_c0152_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),382,RUNNING,4.5,,,0.4368226600985221,6.5,at 28Oct2022 20:40,2026-11-20 20:56
-syn_event_West_H-L-L_c0171_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),409,RUNNING,4.5,,,0.7216338259441708,2.4,at 22Dec2022 01:29,2026-11-20 20:56
-syn_event_West_H-L-L_c0176_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),386,RUNNING,4.4,,,0.7149425287356321,2.5,at 03Jan1983 02:08,2026-11-20 20:56
-syn_event_West_H-L-L_c0181_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),378,RUNNING,4.5,,,0.7177339901477832,2.5,at 22Jan1983 14:42,2026-11-20 20:56
-syn_event_West_H-L-L_c0211_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),390,RUNNING,4.3,,,0.6901888341543513,2.6,at 01Apr2022 15:06,2026-11-20 20:56
-syn_event_West_H-L-L_c0213_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),379,RUNNING,4.5,,,0.7521346469622332,2.2,at 28Dec2012 03:41,2026-11-20 20:56
-syn_event_West_H-L-L_c0237_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),362,RUNNING,4.4,,,0.4378489326765189,6.3,at 25May2020 04:53,2026-11-20 20:56
-syn_event_West_H-L-L_c0254_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),416,RUNNING,4.5,,,0.7502052545155993,2.2,at 20Dec2005 00:17,2026-11-20 20:56
-syn_event_West_H-L-L_c0255_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),404,RUNNING,4.4,,,0.7094006568144499,2.5,at 11Dec1992 13:00,2026-11-20 20:56
-syn_event_West_H-L-L_c0257_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),419,RUNNING,4.5,,,0.7514367816091954,2.2,at 16Dec2020 12:32,2026-11-20 20:56
-syn_event_West_H-L-L_c0260_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),396,RUNNING,4.4,,,0.7343185550082102,2.3,at 26Oct1997 06:04,2026-11-20 20:56
-syn_event_West_H-L-L_c0300_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),393,RUNNING,4.3,,,0.7075944170771757,2.5,at 26Feb2016 04:38,2026-11-20 20:56
-syn_event_West_H-L-L_c0302_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),411,RUNNING,4.5,,,0.4560755336617405,6.0,at 31Dec1982 21:35,2026-11-20 20:56
-syn_event_West_H-L-L_c0307_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),402,RUNNING,4.4,,,0.7108784893267652,2.5,at 02Nov2019 12:18,2026-11-20 20:56
-syn_event_West_H-L-L_c0309_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),367,RUNNING,4.5,,,0.7538998357963874,2.2,at 20Feb2022 14:02,2026-11-20 20:56
-syn_event_West_H-L-L_c0310_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),384,RUNNING,4.5,,,0.7430623973727422,2.3,at 23Feb2020 02:50,2026-11-20 20:56
-syn_event_West_H-L-L_c0328_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),391,RUNNING,4.3,,,0.4230295566502463,6.5,at 28Oct2022 17:52,2026-11-20 20:56
-syn_event_West_H-L-L_c0335_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),369,RUNNING,4.5,,,0.750615763546798,2.2,at 22Dec2022 07:22,2026-11-20 20:56
-syn_event_West_H-L-L_c0343_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),417,RUNNING,4.5,,,0.7486042692939244,2.2,at 20Feb2019 19:58,2026-11-20 20:56
-syn_event_West_H-L-L_c0345_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),410,RUNNING,4.5,,,0.7382594417077176,2.3,at 14Mar1993 22:52,2026-11-20 20:56
-syn_event_West_H-L-L_c0349_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),373,RUNNING,4.5,,,0.7380541871921181,2.3,at 21Jan2019 21:49,2026-11-20 20:56
-syn_event_West_H-L-L_c0351_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),360,RUNNING,4.4,,,0.7301313628899836,2.3,at 19Dec2005 20:13,2026-11-20 20:56
-syn_event_West_H-L-L_c0362_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),413,RUNNING,4.5,,,0.7137931034482758,2.5,at 27May2020 12:54,2026-11-20 20:56
-syn_event_West_H-L-L_c0378_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),375,RUNNING,4.5,,,0.4420771756978653,6.4,at 17Jun2018 15:44,2026-11-20 20:56
-syn_event_West_H-L-L_c0390_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),401,RUNNING,4.4,,,0.439367816091954,6.3,at 31Dec1982 18:11,2026-11-20 20:56
-syn_event_West_H-L-L_c0408_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),376,RUNNING,4.5,,,0.7384236453201971,2.3,at 06Apr2018 17:54,2026-11-20 20:56
-syn_event_West_H-L-L_c0418_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),389,RUNNING,4.4,,,0.7192118226600985,2.4,at 16Dec2020 06:00,2026-11-20 20:56
-syn_event_West_H-L-L_c0424_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),380,RUNNING,4.5,,,0.7482758620689656,2.2,at 28Dec2012 02:54,2026-11-20 20:56
-syn_event_West_H-L-L_c0436_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),363,RUNNING,4.4,,,0.7226190476190476,2.4,at 13Nov1995 15:41,2026-11-20 20:56
-syn_event_West_H-L-L_c0489_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),364,RUNNING,4.4,,,0.7247536945812808,2.4,at 22Dec2022 02:07,2026-11-20 20:56
-syn_event_West_H-L-L_c0491_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),385,RUNNING,4.4,,,0.7310344827586207,2.3,at 12Jan2022 12:24,2026-11-20 20:56
-syn_event_West_H-L-L_c0501_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),414,RUNNING,4.5,,,0.7461822660098522,2.2,at 28Dec2012 02:28,2026-11-20 20:56
-syn_event_West_H-L-L_c0502_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),399,RUNNING,4.4,,,0.4425697865353037,6.3,at 01Mar1980 09:50,2026-11-20 20:56
-syn_event_West_H-L-L_c0533_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),398,RUNNING,4.4,,,0.7128489326765189,2.5,at 26Oct2021 10:42,2026-11-20 20:56
-syn_event_West_H-L-L_c0546_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),361,RUNNING,4.4,,,0.7323070607553366,2.3,at 17Dec1987 08:39,2026-11-20 20:56
-syn_event_West_H-L-L_c0548_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),405,RUNNING,4.5,,,0.4433908045977012,6.3,at 02Dec2020 21:00,2026-11-20 20:56
-syn_event_West_H-L-L_c0554_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),388,RUNNING,4.4,,,0.7350574712643678,2.3,at 08Mar2015 00:13,2026-11-20 20:56
-syn_event_West_H-L-L_c0561_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),412,RUNNING,4.5,,,0.7506978653530378,2.2,at 15Jan1997 09:23,2026-11-20 20:56
-syn_event_West_H-L-L_c0589_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),372,RUNNING,4.5,,,0.7483579638752053,2.2,at 25Dec2007 11:55,2026-11-20 20:56
-syn_event_West_H-L-L_c0597_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),370,RUNNING,4.5,,,0.7451970443349754,2.2,at 19Dec2005 23:16,2026-11-20 20:56
-syn_event_West_H-L-L_c0620_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),400,RUNNING,4.4,,,0.7145730706075534,2.4,at 22Jan1983 14:03,2026-11-20 20:56
-syn_event_West_H-L-L_c0630_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),381,RUNNING,4.5,,,0.7495894909688012,2.2,at 15Feb2022 11:10,2026-11-20 20:56
-syn_event_West_H-L-L_c0636_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),397,RUNNING,4.4,,,0.7279146141215107,2.3,at 16Dec2020 07:46,2026-11-20 20:56
+syn_event_West_H-L-H_c0038_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),240,COMPLETE,6.1,0.1047,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0039_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),241,COMPLETE,6.1,0.1166,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0040_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),242,COMPLETE,6.2,0.1044,22.26,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0041_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),243,COMPLETE,6.0,0.115,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0042_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),244,COMPLETE,9.9,0.1378,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0043_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),245,COMPLETE,5.9,0.1398,21.34,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0044_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),246,COMPLETE,6.3,0.1043,22.21,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0045_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),247,COMPLETE,6.2,0.1119,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0046_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),248,COMPLETE,9.9,0.1047,22.53,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0047_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),249,COMPLETE,6.0,0.1133,21.51,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0048_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),250,COMPLETE,6.0,0.1152,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0049_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),251,COMPLETE,10.4,0.1019,22.46,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0050_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),252,COMPLETE,6.1,0.1501,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0051_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),253,COMPLETE,6.3,0.1032,19.08,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0052_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),254,COMPLETE,6.3,0.09975,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0053_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),255,COMPLETE,9.9,0.1043,22.03,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0055_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),256,COMPLETE,6.3,0.1041,22.48,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0056_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),257,COMPLETE,6.1,0.0998,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0057_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),258,COMPLETE,6.1,0.1126,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0058_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),259,COMPLETE,6.2,0.1014,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0059_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),260,COMPLETE,6.2,0.09208,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0060_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),261,COMPLETE,6.1,0.1067,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0061_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),262,COMPLETE,10.3,0.1025,22.37,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0062_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),263,COMPLETE,6.2,0.1096,18.73,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0063_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),264,COMPLETE,6.1,0.09826,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0064_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),265,COMPLETE,6.0,0.1185,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0065_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),266,COMPLETE,6.2,0.1156,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0066_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),267,COMPLETE,6.1,0.1492,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0067_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),268,COMPLETE,9.9,0.1281,22.08,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0069_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),269,COMPLETE,6.3,0.1083,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0070_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),270,COMPLETE,6.1,0.1033,22.16,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0071_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),271,COMPLETE,10.2,0.09441,22.21,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0072_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),272,COMPLETE,6.2,0.102,22.33,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0074_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),273,COMPLETE,6.3,0.09767,22.57,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0075_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),274,COMPLETE,6.2,0.1051,22.35,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0076_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),275,COMPLETE,9.8,0.144,19.04,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0077_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),276,COMPLETE,6.2,0.1023,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0078_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),277,COMPLETE,6.2,0.1047,22.39,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0079_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),278,COMPLETE,6.0,0.1378,21.43,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0080_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),279,COMPLETE,6.0,0.1558,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0081_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),280,COMPLETE,6.2,0.1046,22.36,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0083_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),281,COMPLETE,6.0,0.136,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0084_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),282,COMPLETE,6.1,0.1135,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0085_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),283,COMPLETE,6.2,0.1098,22.73,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0086_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),284,COMPLETE,10.0,0.099,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0088_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),285,COMPLETE,6.3,0.1011,22.54,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0090_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),286,COMPLETE,6.1,0.1542,18.03,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0091_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),287,COMPLETE,6.0,0.1142,22.29,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0092_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),288,COMPLETE,6.1,0.155,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0093_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),289,COMPLETE,10.4,0.1059,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0095_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),290,COMPLETE,6.1,0.09861,22.66,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0096_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),291,COMPLETE,9.7,0.116,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0097_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),292,COMPLETE,6.3,0.09654,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-H_c0099_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),293,COMPLETE,6.4,0.09948,22.23,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0006_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),358,COMPLETE,6.1,0.1138,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0039_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),309,COMPLETE,6.0,0.1211,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0050_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),357,COMPLETE,6.1,0.1029,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0051_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),316,COMPLETE,6.4,0.1026,22.42,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0058_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),368,FAILED,0.0,,,,,no-max_wse_vel no-ts no-html ras-not-finished ran<2h,2026-11-20 21:12
+syn_event_West_H-L-L_c0067_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),356,COMPLETE,6.2,0.1036,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0095_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),354,COMPLETE,9.9,0.1069,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0101_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),353,COMPLETE,6.1,0.1154,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0105_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),351,COMPLETE,6.1,0.1273,22.31,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0108_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),307,COMPLETE,10.0,0.1179,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0115_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),348,COMPLETE,6.2,0.118,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0164_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),296,COMPLETE,6.1,0.1127,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0172_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),335,COMPLETE,5.7,0.124,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0182_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),298,COMPLETE,6.1,0.1024,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0183_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),359,COMPLETE,6.2,0.1077,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0195_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),334,COMPLETE,6.1,0.1057,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0199_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),349,COMPLETE,9.9,0.1186,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0208_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),299,COMPLETE,9.9,0.1216,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0219_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),345,COMPLETE,6.1,0.1078,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0236_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),295,COMPLETE,6.1,0.1188,21.77,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0242_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),338,COMPLETE,6.0,0.117,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0243_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),330,COMPLETE,10.3,0.1007,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0245_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),308,COMPLETE,6.0,0.1158,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0261_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),352,COMPLETE,6.1,0.1318,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0275_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),343,COMPLETE,6.1,0.128,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0278_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),302,COMPLETE,6.0,0.1242,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0279_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),306,COMPLETE,6.1,0.1085,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0287_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),350,COMPLETE,6.1,0.137,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0290_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),304,COMPLETE,6.1,0.1133,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0326_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),312,COMPLETE,6.1,0.1191,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0334_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),333,COMPLETE,6.0,0.1145,22.11,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0363_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),322,COMPLETE,9.9,0.1282,18.07,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0373_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),314,COMPLETE,6.1,0.1137,18.06,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0374_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),331,COMPLETE,6.2,0.13,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0379_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),310,COMPLETE,6.3,0.1118,19.05,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0392_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),340,COMPLETE,9.9,0.1534,19.05,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0422_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),324,COMPLETE,6.1,0.1179,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0431_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),323,COMPLETE,6.2,0.1102,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0435_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),311,COMPLETE,6.1,0.1082,22.29,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0441_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),342,COMPLETE,5.9,0.1252,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0453_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),297,COMPLETE,6.1,0.2024,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0457_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),320,COMPLETE,6.2,0.1175,22.24,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0461_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),366,FAILED,0.0,,,,,no-max_wse_vel no-ts no-html ras-not-finished ran<2h,2026-11-20 21:12
+syn_event_West_H-L-L_c0479_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),337,COMPLETE,6.1,0.1024,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0485_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),339,COMPLETE,6.1,0.2204,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0507_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),326,COMPLETE,9.9,0.1124,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0513_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),336,COMPLETE,9.7,0.1375,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0525_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),327,COMPLETE,6.0,0.1279,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0526_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),329,COMPLETE,6.1,0.1473,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0528_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),355,COMPLETE,9.7,0.1153,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0529_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),341,COMPLETE,6.0,0.1174,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0536_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),319,COMPLETE,6.1,0.1439,19.05,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0538_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),347,COMPLETE,6.2,0.1168,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0556_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),315,COMPLETE,6.1,0.1091,22.22,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0559_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),305,COMPLETE,5.9,0.1281,21.48,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0565_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),328,COMPLETE,6.2,0.1201,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0566_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),325,COMPLETE,6.1,0.1239,22.3,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0569_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),301,COMPLETE,10.0,0.1131,22.19,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0596_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),344,COMPLETE,6.2,0.1182,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0598_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),317,COMPLETE,9.5,0.1164,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0600_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),332,COMPLETE,6.1,0.1733,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0602_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),321,COMPLETE,6.0,0.1398,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0603_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),300,COMPLETE,6.2,0.1206,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0606_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),313,COMPLETE,10.3,0.1039,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0616_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),303,COMPLETE,6.0,0.1244,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0619_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),318,COMPLETE,6.4,0.1032,19.05,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0623_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),346,COMPLETE,6.2,0.1297,17.51,,,,2026-11-20 21:12
+syn_event_West_H-L-L_c0635_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),294,COMPLETE,6.0,0.1117,17.51,,,,2026-11-20 21:12
+syn_event_West_H-H-H_c0006_SM3_BF1_Base,msaberian,Stampede3 (msaberian),5,FAILED,0.0,,,,,no-max_wse_vel no-ts no-html ras-not-finished ran<2h,2026-11-20 21:12
+syn_event_West_H-L-L_c0011_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),418,RUNNING,4.8,,,0.798440065681445,1.9,at 12Dec1992 07:05,2026-11-20 21:12
+syn_event_West_H-L-L_c0040_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),371,RUNNING,4.8,,,0.468431855500821,6.1,at 02May2021 15:05,2026-11-20 21:12
+syn_event_West_H-L-L_c0046_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),365,RUNNING,4.8,,,0.4972085385878489,5.5,at 24Jun2019 23:56,2026-11-20 21:12
+syn_event_West_H-L-L_c0055_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),394,RUNNING,4.6,,,0.7420361247947455,2.3,at 08Feb1988 00:38,2026-11-20 21:12
+syn_event_West_H-L-L_c0074_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),392,RUNNING,4.6,,,0.7389573070607554,2.3,at 07Dec1984 07:00,2026-11-20 21:12
+syn_event_West_H-L-L_c0075_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),415,RUNNING,4.8,,,0.4710591133004926,6.1,at 20Jan1983 12:37,2026-11-20 21:12
+syn_event_West_H-L-L_c0081_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),403,RUNNING,4.6,,,0.7559934318555008,2.2,at 23Feb2020 05:28,2026-11-20 21:12
+syn_event_West_H-L-L_c0084_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),374,RUNNING,4.8,,,0.7955254515599344,1.9,at 15Apr2022 19:29,2026-11-20 21:12
+syn_event_West_H-L-L_c0096_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),406,RUNNING,4.8,,,0.775944170771757,2.1,at 31Oct2022 17:31,2026-11-20 21:12
+syn_event_West_H-L-L_c0097_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),387,RUNNING,4.7,,,0.4729064039408867,6.0,at 01Jan1983 01:00,2026-11-20 21:12
+syn_event_West_H-L-L_c0100_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),383,RUNNING,4.8,,,0.7925697865353039,2.0,at 15Mar1993 09:53,2026-11-20 21:12
+syn_event_West_H-L-L_c0102_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),395,RUNNING,4.7,,,0.7782019704433497,2.0,at 13Dec2019 13:58,2026-11-20 21:12
+syn_event_West_H-L-L_c0111_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),408,RUNNING,4.8,,,0.7743842364532019,2.1,at 27Jun2019 08:12,2026-11-20 21:12
+syn_event_West_H-L-L_c0112_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),407,RUNNING,4.8,,,0.7935139573070608,1.9,at 16Jan1992 14:05,2026-11-20 21:12
+syn_event_West_H-L-L_c0147_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),377,RUNNING,4.8,,,0.7832512315270936,2.0,at 03Dec2022 07:00,2026-11-20 21:12
+syn_event_West_H-L-L_c0152_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),382,RUNNING,4.8,,,0.4619868637110016,6.3,at 29Oct2022 01:47,2026-11-20 21:12
+syn_event_West_H-L-L_c0171_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),409,RUNNING,4.8,,,0.7634646962233168,2.2,at 22Dec2022 09:59,2026-11-20 21:12
+syn_event_West_H-L-L_c0176_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),386,RUNNING,4.7,,,0.7566912972085386,2.2,at 03Jan1983 10:36,2026-11-20 21:12
+syn_event_West_H-L-L_c0181_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),378,RUNNING,4.8,,,0.7577586206896552,2.2,at 22Jan1983 22:49,2026-11-20 21:12
+syn_event_West_H-L-L_c0211_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),390,RUNNING,4.5,,,0.7325944170771757,2.4,at 01Apr2022 23:43,2026-11-20 21:12
+syn_event_West_H-L-L_c0213_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),379,RUNNING,4.8,,,0.7980295566502463,1.9,at 28Dec2012 13:00,2026-11-20 21:12
+syn_event_West_H-L-L_c0237_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),362,RUNNING,4.7,,,0.4635878489326765,6.1,at 25May2020 10:06,2026-11-20 21:12
+syn_event_West_H-L-L_c0254_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),416,RUNNING,4.8,,,0.794376026272578,1.9,at 20Dec2005 09:15,2026-11-20 21:12
+syn_event_West_H-L-L_c0255_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),404,RUNNING,4.7,,,0.7528325123152709,2.2,at 11Dec1992 21:49,2026-11-20 21:12
+syn_event_West_H-L-L_c0257_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),419,RUNNING,4.8,,,0.7963464696223317,1.9,at 16Dec2020 21:39,2026-11-20 21:12
+syn_event_West_H-L-L_c0260_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),396,RUNNING,4.7,,,0.7783661740558292,2.0,at 26Oct1997 15:00,2026-11-20 21:12
+syn_event_West_H-L-L_c0300_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),393,RUNNING,4.6,,,0.7515188834154352,2.2,at 26Feb2016 13:33,2026-11-20 21:12
+syn_event_West_H-L-L_c0302_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),411,RUNNING,4.8,,,0.481855500821018,5.8,at 01Jan1983 02:49,2026-11-20 21:12
+syn_event_West_H-L-L_c0307_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),402,RUNNING,4.7,,,0.753735632183908,2.2,at 02Nov2019 21:00,2026-11-20 21:12
+syn_event_West_H-L-L_c0309_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),367,RUNNING,4.8,,,0.7986863711001642,1.9,at 20Feb2022 23:08,2026-11-20 21:12
+syn_event_West_H-L-L_c0310_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),384,RUNNING,4.8,,,0.7864942528735632,2.0,at 23Feb2020 11:39,2026-11-20 21:12
+syn_event_West_H-L-L_c0328_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),391,RUNNING,4.6,,,0.4501642036124795,6.3,at 28Oct2022 23:23,2026-11-20 21:12
+syn_event_West_H-L-L_c0335_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),369,RUNNING,4.8,,,0.797783251231527,1.9,at 22Dec2022 16:57,2026-11-20 21:12
+syn_event_West_H-L-L_c0343_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),417,RUNNING,4.8,,,0.7920361247947455,2.0,at 21Feb2019 04:47,2026-11-20 21:12
+syn_event_West_H-L-L_c0345_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),410,RUNNING,4.8,,,0.7814860426929393,2.0,at 15Mar1993 07:38,2026-11-20 21:12
+syn_event_West_H-L-L_c0349_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),373,RUNNING,4.8,,,0.7793513957307061,2.0,at 22Jan2019 06:12,2026-11-20 21:12
+syn_event_West_H-L-L_c0351_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),360,RUNNING,4.7,,,0.7721674876847291,2.1,at 20Dec2005 04:45,2026-11-20 21:12
+syn_event_West_H-L-L_c0362_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),413,RUNNING,4.8,,,0.755295566502463,2.2,at 27May2020 21:19,2026-11-20 21:12
+syn_event_West_H-L-L_c0378_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),375,RUNNING,4.8,,,0.4683087027914614,6.1,at 17Jun2018 21:04,2026-11-20 21:12
+syn_event_West_H-L-L_c0390_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),401,RUNNING,4.6,,,0.4663382594417077,6.0,at 31Dec1982 23:40,2026-11-20 21:12
+syn_event_West_H-L-L_c0408_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),376,RUNNING,4.8,,,0.780952380952381,2.0,at 07Apr2018 02:32,2026-11-20 21:12
+syn_event_West_H-L-L_c0418_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),389,RUNNING,4.7,,,0.7619458128078819,2.2,at 16Dec2020 14:40,2026-11-20 21:12
+syn_event_West_H-L-L_c0424_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),380,RUNNING,4.8,,,0.7921182266009853,2.0,at 28Dec2012 11:48,2026-11-20 21:12
+syn_event_West_H-L-L_c0436_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),363,RUNNING,4.7,,,0.7657635467980295,2.1,at 14Nov1995 00:27,2026-11-20 21:12
+syn_event_West_H-L-L_c0489_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),364,RUNNING,4.7,,,0.7681855500821018,2.1,at 22Dec2022 10:56,2026-11-20 21:12
+syn_event_West_H-L-L_c0491_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),385,RUNNING,4.7,,,0.7758620689655172,2.1,at 12Jan2022 21:30,2026-11-20 21:12
+syn_event_West_H-L-L_c0501_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),414,RUNNING,4.7,,,0.788752052545156,2.0,at 28Dec2012 11:07,2026-11-20 21:12
+syn_event_West_H-L-L_c0502_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),399,RUNNING,4.7,,,0.4698275862068966,6.0,at 01Mar1980 15:22,2026-11-20 21:12
+syn_event_West_H-L-L_c0533_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),398,RUNNING,4.7,,,0.7548850574712644,2.2,at 26Oct2021 19:14,2026-11-20 21:12
+syn_event_West_H-L-L_c0546_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),361,RUNNING,4.7,,,0.7760673234811165,2.0,at 17Dec1987 17:32,2026-11-20 21:12
+syn_event_West_H-L-L_c0548_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),405,RUNNING,4.8,,,0.470607553366174,6.0,at 03Dec2020 02:32,2026-11-20 21:12
+syn_event_West_H-L-L_c0554_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),388,RUNNING,4.7,,,0.7803366174055829,2.0,at 08Mar2015 09:24,2026-11-20 21:12
+syn_event_West_H-L-L_c0561_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),412,RUNNING,4.7,,,0.7942528735632183,1.9,at 15Jan1997 18:14,2026-11-20 21:12
+syn_event_West_H-L-L_c0589_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),372,RUNNING,4.8,,,0.7926518883415435,1.9,at 25Dec2007 20:54,2026-11-20 21:12
+syn_event_West_H-L-L_c0597_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),370,RUNNING,4.8,,,0.7883004926108375,2.0,at 20Dec2005 08:01,2026-11-20 21:12
+syn_event_West_H-L-L_c0620_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),400,RUNNING,4.7,,,0.7573481116584565,2.2,at 22Jan1983 22:44,2026-11-20 21:12
+syn_event_West_H-L-L_c0630_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),381,RUNNING,4.8,,,0.7914614121510672,2.0,at 15Feb2022 19:40,2026-11-20 21:12
+syn_event_West_H-L-L_c0636_SM3_BF1_Base,akhalid_twi,Stampede3 (akhalid_twi),397,RUNNING,4.7,,,0.7723727422003284,2.1,at 16Dec2020 16:47,2026-11-20 21:12
 syn_event_West_H-L-L_c0023_SM3_BF1_Base,akhalid_twi,AWS,740,COMPLETE,7.8,0.1119,17.51,,,,2026-11-21 02:45
 syn_event_West_H-L-L_c0026_SM3_BF1_Base,akhalid_twi,AWS,726,COMPLETE,8.3,0.1219,17.51,,,,2026-11-21 02:45
 syn_event_West_H-L-L_c0044_SM3_BF1_Base,akhalid_twi,AWS,720,COMPLETE,7.9,0.147,17.51,,,,2026-11-21 02:45
