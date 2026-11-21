@@ -1107,20 +1107,20 @@ syn_event_Northeast_H-L-L_c0175_SM3_BF1_Base,SUCCESS,7.493055555555555,0.0,,1410
 syn_event_Northeast_H-L-L_c0176_SM3_BF1_Base,SUCCESS,7.5525,0.0,,141532.0,0.1147,21.53,Nov 21 07:24,Nov 21 14:57,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0177_SM3_BF1_Base,SUCCESS,7.556111111111111,0.0,,147186.0,0.119,17.51,Nov 21 07:24,Nov 21 14:58,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0178_SM3_BF1_Base,SUCCESS,7.367222222222222,0.0,,131853.0,0.1133,22.37,Nov 21 07:24,Nov 21 14:46,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-L_c0179_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 09:07,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-L_c0180_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 09:07,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-L_c0181_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 09:07,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-L_c0182_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 09:07,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-L_c0183_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 09:13,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-L_c0184_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 09:13,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-L_c0185_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 09:13,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-L_c0186_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 09:13,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-L_c0187_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 09:18,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-L_c0188_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 09:18,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-L_c0189_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 09:18,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-L_c0190_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 09:18,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0179_SM3_BF1_Base,SUCCESS,7.533333333333333,0.0,,141345.0,0.118,17.51,Nov 21 09:11,Nov 21 16:43,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0180_SM3_BF1_Base,SUCCESS,7.496388888888889,0.0,,165696.0,0.1409,17.51,Nov 21 09:11,Nov 21 16:41,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0181_SM3_BF1_Base,SUCCESS,7.495555555555556,0.0,,139076.0,0.1208,17.51,Nov 21 09:11,Nov 21 16:41,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0182_SM3_BF1_Base,SUCCESS,7.435555555555556,0.0,,157000.0,0.1403,17.51,Nov 21 09:11,Nov 21 16:37,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0183_SM3_BF1_Base,SUCCESS,7.684166666666667,0.0,,146169.0,0.1171,17.51,Nov 21 09:18,Nov 21 16:59,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0184_SM3_BF1_Base,SUCCESS,7.377222222222222,0.0,,142050.0,0.1096,17.51,Nov 21 09:18,Nov 21 16:41,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0185_SM3_BF1_Base,SUCCESS,7.498611111111111,0.0,,140935.0,0.1026,17.51,Nov 21 09:18,Nov 21 16:48,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0186_SM3_BF1_Base,SUCCESS,7.083611111111111,0.0,,146979.0,0.1433,17.51,Nov 21 09:18,Nov 21 16:23,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0187_SM3_BF1_Base,SUCCESS,7.633333333333333,0.0,,152598.0,0.1226,22.24,Nov 21 09:23,Nov 21 17:01,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0188_SM3_BF1_Base,SUCCESS,7.470833333333333,0.0,,147536.0,0.1233,17.51,Nov 21 09:23,Nov 21 16:51,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0189_SM3_BF1_Base,SUCCESS,7.407500000000001,0.0,,154293.0,0.1288,17.51,Nov 21 09:23,Nov 21 16:48,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0190_SM3_BF1_Base,SUCCESS,7.488333333333333,0.0,,145199.0,0.1252,17.51,Nov 21 09:23,Nov 21 16:52,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0191_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 09:40,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-L_c0192_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 09:40,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0192_SM3_BF1_Base,SUCCESS,7.372777777777777,0.0,post-proc incomplete,147366.0,0.132,17.51,Nov 21 09:45,Nov 21 17:08,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0193_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 09:40,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0194_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 09:40,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0195_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 09:51,,,,,,,,,,,,AWS2 (akhalid_twi)
@@ -1275,15 +1275,22 @@ syn_event_Northeast_H-L-L_c0343_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 15:51,,,,,,
 syn_event_Northeast_H-L-L_c0344_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 15:51,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0345_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 15:51,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0346_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 15:51,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0347_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 16:56,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0348_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 16:56,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0349_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 16:56,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0350_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 16:56,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0351_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 17:12,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0352_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 17:12,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0353_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 17:12,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0354_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 17:12,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0355_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 17:14,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0356_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 17:14,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0357_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 17:14,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0358_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 17:14,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_West_H-L-L_c0007_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_H-L-L_c0013_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_H-L-L_c0020_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0024_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0028_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0036_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_H-L-L_c0041_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_H-L-L_c0061_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_H-L-L_c0064_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0070_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0071_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0078_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
@@ -1306,65 +1313,36 @@ syn_event_West_H-L-L_c0163_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0168_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0169_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0189_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_H-L-L_c0204_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0215_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0216_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_H-L-L_c0217_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_H-L-L_c0228_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_H-L-L_c0234_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_H-L-L_c0240_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_H-L-L_c0247_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_H-L-L_c0248_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_H-L-L_c0251_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0262_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0264_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_H-L-L_c0266_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_H-L-L_c0268_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0269_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0282_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_H-L-L_c0284_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0288_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0297_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0304_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_H-L-L_c0314_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0318_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0320_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_H-L-L_c0344_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0347_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_H-L-L_c0348_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_H-L-L_c0361_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0367_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0369_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0377_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0384_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0391_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_H-L-L_c0395_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_H-L-L_c0398_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0411_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_H-L-L_c0412_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_H-L-L_c0423_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0425_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0428_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0429_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_H-L-L_c0438_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_H-L-L_c0440_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0442_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_H-L-L_c0446_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0452_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_H-L-L_c0455_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0458_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_H-L-L_c0462_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0478_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0494_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_H-L-L_c0496_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_H-L-L_c0498_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0500_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0506_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_H-L-L_c0511_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_H-L-L_c0514_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0517_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0527_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_H-L-L_c0535_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0539_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0549_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0558_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
@@ -1372,15 +1350,9 @@ syn_event_West_H-L-L_c0568_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0571_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0579_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0580_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_H-L-L_c0583_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_H-L-L_c0586_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_H-L-L_c0592_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0593_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0599_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_H-L-L_c0605_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0615_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_H-L-L_c0629_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_West_H-L-L_c0632_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_L-H-L_c0036_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_L-H-L_c0039_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_L-H-L_c0050_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
