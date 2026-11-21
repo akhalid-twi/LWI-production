@@ -65,7 +65,7 @@ syn_event_West_H-L-L_c0058_SM3_BF1_Base,Incomplete Model run,,0.0,,,,,Fri Nov 20
 syn_event_West_H-L-L_c0067_SM3_BF1_Base,SUCCESS,6.218055555555556,1.75,,138577.0,0.1036,17.51,Fri Nov 20 04:36:45 AM CST 2026,Fri Nov 20 10:49:50 AM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
 syn_event_West_H-L-L_c0074_SM3_BF1_Base,SUCCESS,6.191666666666667,1.75,,137310.0,0.1152,18.06,Fri Nov 20 04:39:51 PM CST 2026,Fri Nov 20 10:51:21 PM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
 syn_event_West_H-L-L_c0075_SM3_BF1_Base,Running,,0.0,,,,,Nov 20 16:18,,,,,,,,,,,,Stampede3 (akhalid_twi)
-syn_event_West_H-L-L_c0081_SM3_BF1_Base,SUCCESS,6.457777777777778,1.75,post-proc incomplete,140853.0,0.1087,17.51,Fri Nov 20 04:34:12 PM CST 2026,Fri Nov 20 11:01:40 PM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
+syn_event_West_H-L-L_c0081_SM3_BF1_Base,SUCCESS,6.457777777777778,1.75,,140853.0,0.1087,17.51,Fri Nov 20 04:34:12 PM CST 2026,Fri Nov 20 11:01:40 PM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
 syn_event_West_H-L-L_c0084_SM3_BF1_Base,SUCCESS,6.0575,1.75,,134840.0,0.1037,17.51,Fri Nov 20 04:26:34 PM CST 2026,Fri Nov 20 10:30:01 PM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
 syn_event_West_H-L-L_c0095_SM3_BF1_Base,SUCCESS,9.93777777777778,2.5,,130328.0,0.1069,17.51,Fri Nov 20 04:34:19 AM CST 2026,Fri Nov 20 02:30:35 PM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
 syn_event_West_H-L-L_c0096_SM3_BF1_Base,SUCCESS,6.171666666666667,1.75,,140605.0,0.1148,17.51,Fri Nov 20 04:27:27 PM CST 2026,Fri Nov 20 10:37:45 PM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
@@ -90,7 +90,7 @@ syn_event_West_H-L-L_c0183_SM3_BF1_Base,SUCCESS,6.175555555555556,1.75,,134243.0
 syn_event_West_H-L-L_c0195_SM3_BF1_Base,SUCCESS,6.1075,1.75,,144264.0,0.1057,17.51,Fri Nov 20 04:23:13 AM CST 2026,Fri Nov 20 10:29:40 AM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
 syn_event_West_H-L-L_c0199_SM3_BF1_Base,SUCCESS,9.911388888888888,2.5,,151266.0,0.1186,17.51,Fri Nov 20 04:31:01 AM CST 2026,Fri Nov 20 02:25:42 PM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
 syn_event_West_H-L-L_c0208_SM3_BF1_Base,SUCCESS,9.93,2.5,,144870.0,0.1216,17.51,Fri Nov 20 04:17:56 AM CST 2026,Fri Nov 20 02:13:44 PM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
-syn_event_West_H-L-L_c0211_SM3_BF1_Base,SUCCESS,6.267777777777778,1.75,post-proc incomplete,168442.0,0.1346,22.04,Fri Nov 20 04:40:57 PM CST 2026,Fri Nov 20 10:57:01 PM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
+syn_event_West_H-L-L_c0211_SM3_BF1_Base,SUCCESS,6.267777777777778,1.75,,168442.0,0.1346,22.04,Fri Nov 20 04:40:57 PM CST 2026,Fri Nov 20 10:57:01 PM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
 syn_event_West_H-L-L_c0213_SM3_BF1_Base,SUCCESS,6.042222222222222,1.75,,152631.0,0.1348,17.51,Fri Nov 20 04:25:32 PM CST 2026,Fri Nov 20 10:28:04 PM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
 syn_event_West_H-L-L_c0219_SM3_BF1_Base,SUCCESS,6.135833333333334,1.75,,138873.0,0.1078,17.51,Fri Nov 20 04:31:15 AM CST 2026,Fri Nov 20 10:39:24 AM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
 syn_event_West_H-L-L_c0236_SM3_BF1_Base,SUCCESS,6.125,1.75,,149374.0,0.1188,21.77,Fri Nov 20 04:16:59 AM CST 2026,Fri Nov 20 10:24:29 AM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
@@ -247,7 +247,7 @@ syn_event_West_H-L-L_c0227_SM3_BF1_Base,SUCCESS,7.851388888888889,0.0,,139248.0,
 syn_event_West_H-L-L_c0230_SM3_BF1_Base,Running,,0.0,,,,,Nov 20 22:03,,,,,,,,,,,,AWS
 syn_event_West_H-L-L_c0238_SM3_BF1_Base,Running,,0.0,,,,,Nov 20 22:02,,,,,,,,,,,,AWS
 syn_event_West_H-L-L_c0244_SM3_BF1_Base,Running,,0.0,,,,,Nov 20 22:03,,,,,,,,,,,,AWS
-syn_event_West_H-L-L_c0249_SM3_BF1_Base,Running,,0.0,,,,,Nov 20 21:57,,,,,,,,,,,,AWS
+syn_event_West_H-L-L_c0249_SM3_BF1_Base,SUCCESS,7.271111111111111,0.0,post-proc incomplete,155917.0,0.1279,17.51,Nov 20 22:23,Nov 21 05:39,,,,,,,,,,,AWS
 syn_event_West_H-L-L_c0252_SM3_BF1_Base,SUCCESS,7.271944444444444,0.0,,143729.0,0.1183,17.51,Nov 20 07:00,Nov 20 14:17,,,,,,,,,,,AWS
 syn_event_West_H-L-L_c0263_SM3_BF1_Base,SUCCESS,7.475555555555555,0.0,,133888.0,0.1081,17.51,Nov 20 07:00,Nov 20 14:29,,,,,,,,,,,AWS
 syn_event_West_H-L-L_c0267_SM3_BF1_Base,Running,,0.0,,,,,Nov 20 21:57,,,,,,,,,,,,AWS
@@ -306,7 +306,7 @@ syn_event_West_H-L-L_c0465_SM3_BF1_Base,Running,,0.0,,,,,Nov 20 22:02,,,,,,,,,,,
 syn_event_West_H-L-L_c0466_SM3_BF1_Base,Running,,0.0,,,,,Nov 20 22:02,,,,,,,,,,,,AWS
 syn_event_West_H-L-L_c0467_SM3_BF1_Base,Running,,0.0,,,,,Nov 20 21:57,,,,,,,,,,,,AWS
 syn_event_West_H-L-L_c0470_SM3_BF1_Base,Running,,0.0,,,,,Nov 20 21:57,,,,,,,,,,,,AWS
-syn_event_West_H-L-L_c0472_SM3_BF1_Base,Running,,0.0,,,,,Nov 20 21:57,,,,,,,,,,,,AWS
+syn_event_West_H-L-L_c0472_SM3_BF1_Base,SUCCESS,7.374722222222222,0.0,post-proc incomplete,139975.0,0.1103,18.06,Nov 20 22:16,Nov 21 05:38,,,,,,,,,,,AWS
 syn_event_West_H-L-L_c0474_SM3_BF1_Base,Running,,0.0,,,,,Nov 20 21:57,,,,,,,,,,,,AWS
 syn_event_West_H-L-L_c0476_SM3_BF1_Base,SUCCESS,7.5569444444444445,0.0,,135733.0,0.1039,17.51,Nov 20 07:00,Nov 20 14:33,,,,,,,,,,,AWS
 syn_event_West_H-L-L_c0477_SM3_BF1_Base,SUCCESS,7.892499999999999,0.0,,143693.0,0.1121,17.51,Nov 20 15:06,Nov 20 22:59,,,,,,,,,,,AWS
@@ -343,7 +343,7 @@ syn_event_West_H-L-L_c0576_SM3_BF1_Base,Running,,0.0,,,,,Nov 20 21:57,,,,,,,,,,,
 syn_event_West_H-L-L_c0582_SM3_BF1_Base,Running,,0.0,,,,,Nov 20 21:57,,,,,,,,,,,,AWS
 syn_event_West_H-L-L_c0584_SM3_BF1_Base,Running,,0.0,,,,,Nov 20 21:57,,,,,,,,,,,,AWS
 syn_event_West_H-L-L_c0587_SM3_BF1_Base,Running,,0.0,,,,,Nov 20 23:21,,,,,,,,,,,,AWS
-syn_event_West_H-L-L_c0588_SM3_BF1_Base,Running,,0.0,,,,,Nov 20 21:57,,,,,,,,,,,,AWS
+syn_event_West_H-L-L_c0588_SM3_BF1_Base,SUCCESS,7.305,0.0,post-proc incomplete,146334.0,0.1258,17.51,Nov 20 22:23,Nov 21 05:42,,,,,,,,,,,AWS
 syn_event_West_H-L-L_c0594_SM3_BF1_Base,Running,,0.0,,,,,Nov 20 22:02,,,,,,,,,,,,AWS
 syn_event_West_H-L-L_c0601_SM3_BF1_Base,Running,,0.0,,,,,Nov 20 22:02,,,,,,,,,,,,AWS
 syn_event_West_H-L-L_c0611_SM3_BF1_Base,SUCCESS,7.431388888888889,0.0,,156689.0,0.1393,17.51,Nov 20 07:00,Nov 20 14:26,,,,,,,,,,,AWS
@@ -703,10 +703,10 @@ syn_event_Northeast_H-L-H_c0078_SM3_BF1_Base,SUCCESS,8.8725,0.0,,171380.0,0.1595
 syn_event_Northeast_H-L-H_c0079_SM3_BF1_Base,SUCCESS,8.702777777777778,0.0,,147612.0,0.1182,17.51,Nov 20 18:47,Nov 21 03:29,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-H_c0080_SM3_BF1_Base,SUCCESS,8.978333333333333,0.0,,149901.0,0.1208,17.51,Nov 20 18:47,Nov 21 03:45,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-H_c0081_SM3_BF1_Base,SUCCESS,8.821666666666667,0.0,,134381.0,0.1091,17.51,Nov 20 18:47,Nov 21 03:36,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-H_c0085_SM3_BF1_Base,Running,,0.0,,,,,Nov 20 19:43,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-H_c0086_SM3_BF1_Base,Running,,0.0,,,,,Nov 20 19:43,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-H_c0088_SM3_BF1_Base,Running,,0.0,,,,,Nov 20 19:43,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-H_c0089_SM3_BF1_Base,Running,,0.0,,,,,Nov 20 19:43,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-H_c0085_SM3_BF1_Base,SUCCESS,8.595833333333333,0.0,,129728.0,0.1085,17.51,Nov 20 19:48,Nov 21 04:24,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-H_c0086_SM3_BF1_Base,SUCCESS,8.856944444444444,0.0,,156399.0,0.128,17.51,Nov 20 19:48,Nov 21 04:40,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-H_c0088_SM3_BF1_Base,SUCCESS,9.011944444444444,0.0,,162304.0,0.1436,22.53,Nov 20 19:48,Nov 21 04:49,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-H_c0089_SM3_BF1_Base,SUCCESS,8.6,0.0,,142236.0,0.1124,17.51,Nov 20 19:48,Nov 21 04:24,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-H_c0090_SM3_BF1_Base,Running,,0.0,,,,,Nov 20 22:00,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-H_c0091_SM3_BF1_Base,Running,,0.0,,,,,Nov 20 22:01,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-H_c0092_SM3_BF1_Base,Running,,0.0,,,,,Nov 20 22:00,,,,,,,,,,,,AWS2 (akhalid_twi)
@@ -883,6 +883,10 @@ syn_event_Northeast_H-L-L_c0163_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 04:14,,,,,,
 syn_event_Northeast_H-L-L_c0164_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 04:14,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0165_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 04:14,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0166_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 04:14,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0167_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 05:02,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0168_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 05:02,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0169_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 05:02,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0170_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 05:02,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_West_H-L-L_c0000_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0007_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0022_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
