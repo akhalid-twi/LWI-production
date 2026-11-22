@@ -482,7 +482,7 @@ syn_event_West_L-H-L_c0328_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 18:19,,,,,,,,,,,
 syn_event_West_L-H-L_c0329_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 16:28,,,,,,,,,,,,AWS
 syn_event_West_L-H-L_c0356_SM3_BF1_Base,Incomplete Model run,,0.0,,,,,Nov 21 17:41,Nov 21 21:54,,,,,,,,,,,AWS
 syn_event_West_L-H-L_c0360_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 16:28,,,,,,,,,,,,AWS
-syn_event_West_L-H-L_c0375_SM3_BF1_Base,SUCCESS,7.438611111111111,0.0,post-proc incomplete,149952.0,0.1143,22.28,Nov 21 15:18,Nov 21 22:44,,,,,,,,,,,AWS
+syn_event_West_L-H-L_c0375_SM3_BF1_Base,SUCCESS,7.438611111111111,0.0,,149952.0,0.1143,22.28,Nov 21 15:18,Nov 21 22:44,,,,,,,,,,,AWS
 syn_event_West_L-H-L_c0377_SM3_BF1_Base,SUCCESS,7.605555555555555,0.0,,130540.0,0.1001,17.51,Nov 21 08:19,Nov 21 15:55,,,,,,,,,,,AWS
 syn_event_West_L-H-L_c0385_SM3_BF1_Base,SUCCESS,7.714166666666667,0.0,,142971.0,0.1133,17.51,Nov 21 08:23,Nov 21 16:06,,,,,,,,,,,AWS
 syn_event_West_L-H-L_c0387_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 18:19,,,,,,,,,,,,AWS
@@ -508,9 +508,9 @@ syn_event_West_L-L-H_c0288_SM3_BF1_Base,SUCCESS,8.109722222222222,0.0,,132431.0,
 syn_event_West_L-L-H_c0289_SM3_BF1_Base,SUCCESS,8.000555555555556,0.0,,141953.0,0.1239,22.29,Nov 21 08:39,Nov 21 16:39,,,,,,,,,,,AWS
 syn_event_West_L-L-H_c0290_SM3_BF1_Base,SUCCESS,8.251388888888888,0.0,,128929.0,0.1022,18.07,Nov 21 08:39,Nov 21 16:54,,,,,,,,,,,AWS
 syn_event_West_L-L-H_c0291_SM3_BF1_Base,Incomplete Model run,,0.0,,,,,Nov 21 15:30,Nov 21 21:53,,,,,,,,,,,AWS
-syn_event_West_L-L-H_c0292_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 15:20,,,,,,,,,,,,AWS
+syn_event_West_L-L-H_c0292_SM3_BF1_Base,SUCCESS,7.618055555555556,0.0,,130283.0,0.1013,17.51,Nov 21 15:30,Nov 21 23:07,,,,,,,,,,,AWS
 syn_event_West_L-L-H_c0293_SM3_BF1_Base,Failed,,0.0,Disk quota / HDF write error,,,,Nov 21 15:30,Nov 21 21:53,,,,,,,,,,,AWS
-syn_event_West_L-L-H_c0294_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 15:20,,,,,,,,,,,,AWS
+syn_event_West_L-L-H_c0294_SM3_BF1_Base,SUCCESS,7.665277777777778,0.0,,128342.0,0.09934,21.94,Nov 21 15:30,Nov 21 23:09,,,,,,,,,,,AWS
 syn_event_West_L-L-H_c0295_SM3_BF1_Base,Failed,,0.0,Disk quota / HDF write error,,,,Nov 21 17:32,Nov 21 21:54,,,,,,,,,,,AWS
 syn_event_West_L-L-H_c0296_SM3_BF1_Base,Incomplete Model run,,0.0,,,,,Nov 21 17:32,Nov 21 21:53,,,,,,,,,,,AWS
 syn_event_West_L-L-H_c0297_SM3_BF1_Base,Incomplete Model run,,0.0,,,,,Nov 21 17:32,Nov 21 21:53,,,,,,,,,,,AWS
@@ -559,10 +559,10 @@ syn_event_West_L-L-H_c0339_SM3_BF1_Base,SUCCESS,8.8925,0.0,,136889.0,0.1143,19.6
 syn_event_West_L-L-H_c0340_SM3_BF1_Base,SUCCESS,8.923333333333332,0.0,,132970.0,0.1048,17.51,Nov 21 08:56,Nov 21 17:51,,,,,,,,,,,AWS
 syn_event_West_L-L-H_c0341_SM3_BF1_Base,SUCCESS,8.87888888888889,0.0,,132007.0,0.108,17.51,Nov 21 08:56,Nov 21 17:48,,,,,,,,,,,AWS
 syn_event_West_L-L-H_c0342_SM3_BF1_Base,SUCCESS,9.034444444444444,0.0,,151871.0,0.1242,17.51,Nov 21 08:55,Nov 21 17:58,,,,,,,,,,,AWS
-syn_event_West_L-L-H_c0343_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 15:36,,,,,,,,,,,,AWS
-syn_event_West_L-L-H_c0344_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 15:35,,,,,,,,,,,,AWS
-syn_event_West_L-L-H_c0345_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 15:35,,,,,,,,,,,,AWS
-syn_event_West_L-L-H_c0346_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 15:35,,,,,,,,,,,,AWS
+syn_event_West_L-L-H_c0343_SM3_BF1_Base,SUCCESS,7.607222222222222,0.0,,130483.0,0.1128,17.51,Nov 21 15:46,Nov 21 23:22,,,,,,,,,,,AWS
+syn_event_West_L-L-H_c0344_SM3_BF1_Base,SUCCESS,7.711111111111111,0.0,,129749.0,0.118,17.51,Nov 21 15:45,Nov 21 23:28,,,,,,,,,,,AWS
+syn_event_West_L-L-H_c0345_SM3_BF1_Base,SUCCESS,7.630833333333334,0.0,,131583.0,0.1256,17.51,Nov 21 15:45,Nov 21 23:23,,,,,,,,,,,AWS
+syn_event_West_L-L-H_c0346_SM3_BF1_Base,SUCCESS,7.704166666666667,0.0,,137792.0,0.1104,22.19,Nov 21 15:46,Nov 21 23:28,,,,,,,,,,,AWS
 syn_event_West_L-L-H_c0347_SM3_BF1_Base,SUCCESS,8.981111111111112,0.0,,134631.0,0.1084,17.51,Nov 21 08:56,Nov 21 17:55,,,,,,,,,,,AWS
 syn_event_West_L-L-H_c0348_SM3_BF1_Base,SUCCESS,9.091666666666669,0.0,,132480.0,0.1055,17.51,Nov 21 08:56,Nov 21 18:01,,,,,,,,,,,AWS
 syn_event_West_L-L-H_c0349_SM3_BF1_Base,SUCCESS,9.230833333333331,0.0,,129294.0,0.1076,17.51,Nov 21 08:56,Nov 21 18:10,,,,,,,,,,,AWS
@@ -579,9 +579,9 @@ syn_event_West_L-L-H_c0359_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 16:56,,,,,,,,,,,
 syn_event_West_L-L-H_c0360_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 16:56,,,,,,,,,,,,AWS
 syn_event_West_L-L-H_c0361_SM3_BF1_Base,Failed,,0.0,Disk quota / HDF write error,,,,Nov 21 17:15,Nov 21 21:54,,,,,,,,,,,AWS
 syn_event_West_L-L-H_c0362_SM3_BF1_Base,Incomplete Model run,,0.0,,,,,Nov 21 17:04,Nov 21 21:54,,,,,,,,,,,AWS
-syn_event_West_L-L-H_c0363_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 15:40,,,,,,,,,,,,AWS
+syn_event_West_L-L-H_c0363_SM3_BF1_Base,SUCCESS,7.436111111111112,0.0,,139277.0,0.1222,17.51,Nov 21 15:51,Nov 21 23:17,,,,,,,,,,,AWS
 syn_event_West_L-L-H_c0364_SM3_BF1_Base,Incomplete Model run,,0.0,,,,,Nov 21 15:51,Nov 21 21:54,,,,,,,,,,,AWS
-syn_event_West_L-L-H_c0365_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 15:40,,,,,,,,,,,,AWS
+syn_event_West_L-L-H_c0365_SM3_BF1_Base,SUCCESS,7.351944444444444,0.0,,135619.0,0.1174,17.51,Nov 21 15:52,Nov 21 23:13,,,,,,,,,,,AWS
 syn_event_West_L-L-H_c0366_SM3_BF1_Base,Incomplete Model run,,0.0,,,,,Nov 21 15:51,Nov 21 21:54,,,,,,,,,,,AWS
 syn_event_West_L-L-H_c0367_SM3_BF1_Base,SUCCESS,8.58888888888889,0.0,,130260.0,0.114,21.55,Nov 21 08:59,Nov 21 17:34,,,,,,,,,,,AWS
 syn_event_West_L-L-H_c0368_SM3_BF1_Base,SUCCESS,8.641666666666666,0.0,,141315.0,0.118,17.51,Nov 21 08:59,Nov 21 17:38,,,,,,,,,,,AWS
@@ -594,11 +594,11 @@ syn_event_West_L-L-H_c0374_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 16:56,,,,,,,,,,,
 syn_event_West_L-L-H_c0375_SM3_BF1_Base,Failed,,0.0,Disk quota / HDF write error,,,,Nov 21 15:53,Nov 21 21:53,,,,,,,,,,,AWS
 syn_event_West_L-L-H_c0376_SM3_BF1_Base,Incomplete Model run,,0.0,,,,,Nov 21 15:52,Nov 21 21:53,,,,,,,,,,,AWS
 syn_event_West_L-L-H_c0377_SM3_BF1_Base,Incomplete Model run,,0.0,,,,,Nov 21 15:53,Nov 21 21:53,,,,,,,,,,,AWS
-syn_event_West_L-L-H_c0378_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 15:41,,,,,,,,,,,,AWS
-syn_event_West_L-L-H_c0379_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 15:45,,,,,,,,,,,,AWS
-syn_event_West_L-L-H_c0380_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 15:45,,,,,,,,,,,,AWS
-syn_event_West_L-L-H_c0381_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 15:45,,,,,,,,,,,,AWS
-syn_event_West_L-L-H_c0382_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 15:45,,,,,,,,,,,,AWS
+syn_event_West_L-L-H_c0378_SM3_BF1_Base,SUCCESS,7.535555555555556,0.0,,135518.0,0.1156,17.51,Nov 21 15:54,Nov 21 23:26,,,,,,,,,,,AWS
+syn_event_West_L-L-H_c0379_SM3_BF1_Base,SUCCESS,7.6419444444444435,0.0,,134910.0,0.1152,22.15,Nov 21 15:58,Nov 21 23:36,,,,,,,,,,,AWS
+syn_event_West_L-L-H_c0380_SM3_BF1_Base,SUCCESS,7.789444444444444,0.0,post-proc incomplete,141318.0,0.1208,22.13,Nov 21 15:58,Nov 21 23:45,,,,,,,,,,,AWS
+syn_event_West_L-L-H_c0381_SM3_BF1_Base,SUCCESS,7.650277777777778,0.0,,136568.0,0.117,22.5,Nov 21 15:57,Nov 21 23:36,,,,,,,,,,,AWS
+syn_event_West_L-L-H_c0382_SM3_BF1_Base,SUCCESS,7.841111111111111,0.0,post-proc incomplete,134222.0,0.1115,22.23,Nov 21 15:57,Nov 21 23:48,,,,,,,,,,,AWS
 syn_event_West_L-L-H_c0383_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 17:30,,,,,,,,,,,,AWS
 syn_event_West_L-L-H_c0384_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 17:30,,,,,,,,,,,,AWS
 syn_event_West_L-L-H_c0385_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 17:30,,,,,,,,,,,,AWS
@@ -607,10 +607,10 @@ syn_event_West_L-L-H_c0387_SM3_BF1_Base,SUCCESS,7.579166666666667,0.0,,128276.0,
 syn_event_West_L-L-H_c0388_SM3_BF1_Base,SUCCESS,7.711388888888889,0.0,,133425.0,0.1052,22.21,Nov 21 07:16,Nov 21 14:58,,,,,,,,,,,AWS
 syn_event_West_L-L-H_c0389_SM3_BF1_Base,SUCCESS,7.586111111111111,0.0,,139486.0,0.1171,17.51,Nov 21 07:14,Nov 21 14:49,,,,,,,,,,,AWS
 syn_event_West_L-L-H_c0390_SM3_BF1_Base,SUCCESS,7.77,0.0,,133494.0,0.0961,22.47,Nov 21 07:10,Nov 21 14:56,,,,,,,,,,,AWS
-syn_event_West_L-L-H_c0391_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 15:49,,,,,,,,,,,,AWS
-syn_event_West_L-L-H_c0392_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 15:49,,,,,,,,,,,,AWS
-syn_event_West_L-L-H_c0393_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 15:49,,,,,,,,,,,,AWS
-syn_event_West_L-L-H_c0394_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 15:49,,,,,,,,,,,,AWS
+syn_event_West_L-L-H_c0391_SM3_BF1_Base,SUCCESS,7.538611111111111,0.0,,131804.0,0.1156,17.51,Nov 21 16:01,Nov 21 23:33,,,,,,,,,,,AWS
+syn_event_West_L-L-H_c0392_SM3_BF1_Base,SUCCESS,7.758888888888888,0.0,post-proc incomplete,131934.0,0.09852,22.61,Nov 21 16:03,Nov 21 23:48,,,,,,,,,,,AWS
+syn_event_West_L-L-H_c0393_SM3_BF1_Base,SUCCESS,7.641666666666667,0.0,post-proc incomplete,134637.0,0.1098,17.51,Nov 21 16:03,Nov 21 23:41,,,,,,,,,,,AWS
+syn_event_West_L-L-H_c0394_SM3_BF1_Base,SUCCESS,7.571111111111111,0.0,,137742.0,0.116,17.51,Nov 21 16:02,Nov 21 23:36,,,,,,,,,,,AWS
 syn_event_West_L-L-H_c0395_SM3_BF1_Base,SUCCESS,7.628611111111112,0.0,,129851.0,0.1102,17.51,Nov 21 07:23,Nov 21 15:01,,,,,,,,,,,AWS
 syn_event_West_L-L-H_c0396_SM3_BF1_Base,SUCCESS,7.420555555555556,0.0,,156821.0,0.1323,17.51,Nov 21 07:12,Nov 21 14:37,,,,,,,,,,,AWS
 syn_event_West_L-L-H_c0397_SM3_BF1_Base,SUCCESS,7.512222222222222,0.0,,137325.0,0.1166,22.43,Nov 21 07:17,Nov 21 14:48,,,,,,,,,,,AWS
@@ -632,7 +632,7 @@ syn_event_West_L-L-H_c0412_SM3_BF1_Base,SUCCESS,7.553888888888888,0.0,,137592.0,
 syn_event_West_L-L-H_c0413_SM3_BF1_Base,SUCCESS,7.730555555555556,0.0,,129881.0,0.108,17.51,Nov 21 07:34,Nov 21 15:17,,,,,,,,,,,AWS
 syn_event_West_L-L-H_c0414_SM3_BF1_Base,SUCCESS,7.550833333333333,0.0,,134575.0,0.1218,22.24,Nov 21 07:32,Nov 21 15:06,,,,,,,,,,,AWS
 syn_event_West_L-L-H_c0415_SM3_BF1_Base,Failed,,0.0,Disk quota / HDF write error,,,,Nov 21 16:05,Nov 21 22:03,,,,,,,,,,,AWS
-syn_event_West_L-L-H_c0416_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 15:50,,,,,,,,,,,,AWS
+syn_event_West_L-L-H_c0416_SM3_BF1_Base,SUCCESS,7.757777777777778,0.0,post-proc incomplete,128821.0,0.09517,17.51,Nov 21 16:05,Nov 21 23:50,,,,,,,,,,,AWS
 syn_event_West_L-L-H_c0417_SM3_BF1_Base,Failed,,0.0,Disk quota / HDF write error,,,,Nov 21 16:04,Nov 21 21:54,,,,,,,,,,,AWS
 syn_event_West_L-L-H_c0418_SM3_BF1_Base,Failed,,0.0,Disk quota / HDF write error,,,,Nov 21 16:03,Nov 21 21:54,,,,,,,,,,,AWS
 syn_event_West_L-L-H_c0419_SM3_BF1_Base,SUCCESS,7.625833333333333,0.0,,132216.0,0.1075,22.35,Nov 21 07:33,Nov 21 15:10,,,,,,,,,,,AWS
@@ -644,7 +644,7 @@ syn_event_West_L-L-H_c0424_SM3_BF1_Base,SUCCESS,7.649722222222222,0.0,,129518.0,
 syn_event_West_L-L-H_c0425_SM3_BF1_Base,SUCCESS,7.780277777777778,0.0,,129879.0,0.1062,17.51,Nov 21 07:33,Nov 21 15:19,,,,,,,,,,,AWS
 syn_event_West_L-L-H_c0426_SM3_BF1_Base,SUCCESS,7.645,0.0,,128959.0,0.1109,21.51,Nov 21 07:33,Nov 21 15:12,,,,,,,,,,,AWS
 syn_event_West_L-L-H_c0427_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 15:54,,,,,,,,,,,,AWS
-syn_event_West_L-L-H_c0428_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 15:54,,,,,,,,,,,,AWS
+syn_event_West_L-L-H_c0428_SM3_BF1_Base,SUCCESS,7.708055555555556,0.0,post-proc incomplete,137777.0,0.1314,24.61,Nov 21 16:08,Nov 21 23:50,,,,,,,,,,,AWS
 syn_event_West_L-L-H_c0429_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 15:54,,,,,,,,,,,,AWS
 syn_event_West_L-L-H_c0430_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 15:54,,,,,,,,,,,,AWS
 syn_event_West_L-L-H_c0431_SM3_BF1_Base,Failed,,0.0,Disk quota / HDF write error,,,,Nov 21 17:18,Nov 21 21:54,,,,,,,,,,,AWS
@@ -1347,37 +1347,37 @@ syn_event_Northeast_H-L-L_c0327_SM3_BF1_Base,SUCCESS,8.855833333333333,0.0,,1711
 syn_event_Northeast_H-L-L_c0328_SM3_BF1_Base,SUCCESS,8.811666666666667,0.0,,144296.0,0.1219,17.51,Nov 21 13:36,Nov 21 22:25,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0329_SM3_BF1_Base,SUCCESS,8.9,0.0,,166207.0,0.148,17.51,Nov 21 13:36,Nov 21 22:30,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0330_SM3_BF1_Base,SUCCESS,8.578888888888889,0.0,,148691.0,0.1315,17.51,Nov 21 13:36,Nov 21 22:11,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-L_c0331_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 14:20,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-L_c0332_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 14:20,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-L_c0333_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 14:20,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0331_SM3_BF1_Base,SUCCESS,8.946388888888889,0.0,,135506.0,0.1141,17.51,Nov 21 14:25,Nov 21 23:21,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0332_SM3_BF1_Base,SUCCESS,8.8475,0.0,,138708.0,0.115,17.51,Nov 21 14:25,Nov 21 23:16,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0333_SM3_BF1_Base,SUCCESS,8.926944444444445,0.0,,151962.0,0.1217,22.31,Nov 21 14:25,Nov 21 23:20,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0334_SM3_BF1_Base,SUCCESS,8.685555555555556,0.0,,130002.0,0.1111,17.51,Nov 21 14:24,Nov 21 23:06,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0335_SM3_BF1_Base,SUCCESS,7.711944444444445,0.0,,146679.0,0.1413,17.51,Nov 21 14:27,Nov 21 22:09,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0336_SM3_BF1_Base,SUCCESS,7.620555555555556,0.0,,142901.0,0.126,22.24,Nov 21 14:27,Nov 21 22:04,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0337_SM3_BF1_Base,SUCCESS,7.968055555555556,0.0,,137081.0,0.117,22.3,Nov 21 14:27,Nov 21 22:25,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0338_SM3_BF1_Base,SUCCESS,7.899166666666666,0.0,,130892.0,0.1128,17.51,Nov 21 14:27,Nov 21 22:21,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0339_SM3_BF1_Base,SUCCESS,7.602222222222222,0.0,,140624.0,0.1164,17.51,Nov 21 15:15,Nov 21 22:51,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-L_c0340_SM3_BF1_Base,SUCCESS,7.8691666666666675,0.0,post-proc incomplete,151064.0,0.128,17.51,Nov 21 15:15,Nov 21 23:07,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0340_SM3_BF1_Base,SUCCESS,7.8691666666666675,0.0,,151064.0,0.128,17.51,Nov 21 15:15,Nov 21 23:07,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0341_SM3_BF1_Base,SUCCESS,7.809722222222222,0.0,,143738.0,0.1172,17.51,Nov 21 15:15,Nov 21 23:04,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0342_SM3_BF1_Base,SUCCESS,7.613333333333333,0.0,,133067.0,0.1181,17.51,Nov 21 15:15,Nov 21 22:52,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-L_c0343_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 15:51,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-L_c0344_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 15:51,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-L_c0345_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 15:51,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-L_c0346_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 15:51,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0343_SM3_BF1_Base,SUCCESS,7.560555555555555,0.0,,172220.0,0.1299,17.51,Nov 21 15:56,Nov 21 23:30,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0344_SM3_BF1_Base,SUCCESS,7.497222222222223,0.0,,151344.0,0.1266,17.51,Nov 21 15:56,Nov 21 23:26,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0345_SM3_BF1_Base,SUCCESS,7.593611111111111,0.0,,151677.0,0.1356,17.51,Nov 21 15:56,Nov 21 23:32,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0346_SM3_BF1_Base,SUCCESS,7.476944444444444,0.0,,142790.0,0.1094,17.51,Nov 21 15:56,Nov 21 23:25,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0347_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 16:56,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0348_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 16:56,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-L_c0349_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 16:56,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-L_c0350_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 16:56,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-L_c0351_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 17:12,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-L_c0352_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 17:12,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-L_c0353_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 17:12,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0349_SM3_BF1_Base,Incomplete Model run,,0.0,,,,,Nov 21 17:01,Nov 21 23:19,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0350_SM3_BF1_Base,Incomplete Model run,,0.0,,,,,Nov 21 17:01,Nov 21 23:19,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0351_SM3_BF1_Base,Failed,,0.0,Disk quota / HDF write error,,,,Nov 21 17:17,Nov 21 23:19,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0352_SM3_BF1_Base,Incomplete Model run,,0.0,,,,,Nov 21 17:17,Nov 21 23:19,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0353_SM3_BF1_Base,Incomplete Model run,,0.0,,,,,Nov 21 17:17,Nov 21 23:19,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0354_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 17:12,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0355_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 17:14,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-L_c0356_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 17:14,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0356_SM3_BF1_Base,Incomplete Model run,,0.0,,,,,Nov 21 17:18,Nov 21 23:19,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0357_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 17:14,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0358_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 17:14,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-L_c0359_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 17:38,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-L_c0360_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 17:38,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-L_c0361_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 17:38,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0359_SM3_BF1_Base,Incomplete Model run,,0.0,,,,,Nov 21 17:43,Nov 21 23:19,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0360_SM3_BF1_Base,Failed,,0.0,Disk quota / HDF write error,,,,Nov 21 17:43,Nov 21 23:18,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0361_SM3_BF1_Base,Incomplete Model run,,0.0,,,,,Nov 21 17:43,Nov 21 23:19,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0362_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 17:38,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0363_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 17:39,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0364_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 17:39,,,,,,,,,,,,AWS2 (akhalid_twi)
@@ -1387,14 +1387,14 @@ syn_event_Northeast_H-L-L_c0367_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 17:46,,,,,,
 syn_event_Northeast_H-L-L_c0368_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 17:46,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0369_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 17:46,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0370_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 17:46,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-L_c0371_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 18:03,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0371_SM3_BF1_Base,Incomplete Model run,,0.0,,,,,Nov 21 18:08,Nov 21 23:19,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0372_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 18:03,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0373_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 18:03,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-L_c0374_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 18:03,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0374_SM3_BF1_Base,Failed,,0.0,Disk quota / HDF write error,,,,Nov 21 18:08,Nov 21 23:19,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0375_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 18:12,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0376_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 18:11,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-L_c0377_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 18:11,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-L_c0378_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 18:12,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0377_SM3_BF1_Base,Incomplete Model run,,0.0,,,,,Nov 21 18:16,Nov 21 23:19,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0378_SM3_BF1_Base,Incomplete Model run,,0.0,,,,,Nov 21 18:16,Nov 21 23:19,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0379_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 18:31,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0380_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 18:31,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0381_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 18:31,,,,,,,,,,,,AWS2 (akhalid_twi)
@@ -1414,7 +1414,7 @@ syn_event_Northeast_H-L-L_c0394_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 18:46,,,,,,
 syn_event_Northeast_H-L-L_c0395_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 18:56,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0396_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 18:56,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0397_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 18:56,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-L_c0398_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 18:56,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0398_SM3_BF1_Base,Failed,,0.0,Disk quota / HDF write error,,,,Nov 21 19:03,Nov 21 23:19,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0399_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 19:02,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0400_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 19:02,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0401_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 19:02,,,,,,,,,,,,AWS2 (akhalid_twi)
@@ -1433,27 +1433,27 @@ syn_event_Northeast_H-L-L_c0413_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 19:33,,,,,,
 syn_event_Northeast_H-L-L_c0414_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 19:33,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0415_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 19:37,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0416_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 19:37,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-L_c0417_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 19:37,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0417_SM3_BF1_Base,Failed,,0.0,Disk quota / HDF write error,,,,Nov 21 19:42,Nov 21 23:19,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0418_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 19:37,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-L_c0419_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 19:45,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0419_SM3_BF1_Base,Failed,,0.0,Disk quota / HDF write error,,,,Nov 21 19:52,Nov 21 23:18,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0420_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 19:45,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0421_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 19:45,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0422_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 19:45,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0423_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 19:51,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0424_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 19:51,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-L_c0425_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 19:51,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0425_SM3_BF1_Base,Failed,,0.0,Disk quota / HDF write error,,,,Nov 21 19:56,Nov 22 00:15,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0426_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 19:51,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0427_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 19:55,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0428_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 19:55,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0429_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 19:55,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_H-L-L_c0430_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 19:55,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_H-L-L_c0431_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:00,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_H-L-L_c0431_SM3_BF1_Base,Failed,,0.0,Disk quota / HDF write error,,,,Nov 21 20:05,Nov 22 00:14,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_L-H-H_c0000_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:00,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_L-H-H_c0001_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:00,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_L-H-H_c0002_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:00,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_L-H-H_c0003_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:20,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_L-H-H_c0004_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:20,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_L-H-H_c0005_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:20,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_L-H-H_c0005_SM3_BF1_Base,Failed,,0.0,Disk quota / HDF write error,,,,Nov 21 20:30,Nov 22 00:14,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_L-H-H_c0006_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:20,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_L-H-H_c0007_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:32,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_L-H-H_c0008_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:31,,,,,,,,,,,,AWS2 (akhalid_twi)
@@ -1463,7 +1463,7 @@ syn_event_Northeast_L-H-H_c0011_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:37,,,,,,
 syn_event_Northeast_L-H-H_c0012_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:37,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_L-H-H_c0013_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:37,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_L-H-H_c0014_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:37,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_L-H-H_c0015_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:38,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_L-H-H_c0015_SM3_BF1_Base,Incomplete Model run,,0.0,,,,,Nov 21 20:49,Nov 21 23:19,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_L-H-H_c0016_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:38,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_L-H-H_c0017_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:38,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_L-H-H_c0018_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:37,,,,,,,,,,,,AWS2 (akhalid_twi)
@@ -1473,27 +1473,27 @@ syn_event_Northeast_L-H-H_c0021_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:38,,,,,,
 syn_event_Northeast_L-H-H_c0022_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:38,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_L-H-H_c0023_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:38,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_L-H-H_c0024_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:38,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_L-H-H_c0025_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:39,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_L-H-H_c0025_SM3_BF1_Base,Incomplete Model run,,0.0,,,,,Nov 21 20:50,Nov 21 23:19,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_L-H-H_c0026_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:39,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_L-H-H_c0027_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:39,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_L-H-H_c0028_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:40,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_L-H-H_c0029_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:39,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_L-H-H_c0030_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:40,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_L-H-H_c0029_SM3_BF1_Base,Failed,,0.0,Disk quota / HDF write error,,,,Nov 21 20:51,Nov 22 00:14,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_L-H-H_c0030_SM3_BF1_Base,Failed,,0.0,Disk quota / HDF write error,,,,Nov 21 20:50,Nov 22 00:14,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_L-H-H_c0031_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:41,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_L-H-H_c0032_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:41,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_L-H-H_c0033_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:41,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_L-H-H_c0034_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:41,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_L-H-H_c0036_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:48,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_L-H-H_c0037_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:48,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_L-H-H_c0038_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:48,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_L-H-H_c0039_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:48,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_L-H-H_c0037_SM3_BF1_Base,Failed,,0.0,Disk quota / HDF write error,,,,Nov 21 20:53,Nov 22 00:14,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_L-H-H_c0038_SM3_BF1_Base,Failed,,0.0,Disk quota / HDF write error,,,,Nov 21 20:53,Nov 22 00:14,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_L-H-H_c0039_SM3_BF1_Base,Failed,,0.0,Disk quota / HDF write error,,,,Nov 21 20:52,Nov 22 00:14,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_L-H-H_c0040_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:48,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_L-H-H_c0041_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:49,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_L-H-H_c0042_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:49,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_L-H-H_c0043_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:49,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_L-H-H_c0044_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:49,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_L-H-H_c0045_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:49,,,,,,,,,,,,AWS2 (akhalid_twi)
-syn_event_Northeast_L-H-H_c0046_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:49,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_L-H-H_c0046_SM3_BF1_Base,Failed,,0.0,Disk quota / HDF write error,,,,Nov 21 20:55,Nov 22 00:15,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_L-H-H_c0047_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:49,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_L-H-H_c0048_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:57,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_L-H-H_c0049_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 20:57,,,,,,,,,,,,AWS2 (akhalid_twi)
@@ -1519,6 +1519,22 @@ syn_event_Northeast_L-H-H_c0069_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 22:43,,,,,,
 syn_event_Northeast_L-H-H_c0071_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 22:43,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_L-H-H_c0072_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 22:43,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_Northeast_L-H-H_c0073_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 22:43,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_L-H-H_c0074_SM3_BF1_Base,Failed,,0.0,Disk quota / HDF write error,,,,Nov 21 23:19,Nov 21 23:19,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_L-H-H_c0075_SM3_BF1_Base,Failed,,0.0,run too short (< 2 h): storm forcing not applied?,3989.0,0.01181,17.51,Nov 21 23:24,Nov 21 23:37,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_L-H-H_c0076_SM3_BF1_Base,Failed,,0.0,Disk quota / HDF write error,,,,Nov 21 23:22,Nov 21 23:22,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_L-H-H_c0077_SM3_BF1_Base,Failed,,0.0,Disk quota / HDF write error,,,,Nov 21 23:19,Nov 21 23:19,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_L-H-H_c0078_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 23:35,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_L-H-H_c0079_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 23:35,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_L-H-H_c0080_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 23:35,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_L-H-H_c0081_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 23:35,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_L-H-H_c0082_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 23:39,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_L-H-H_c0083_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 23:39,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_L-H-H_c0084_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 23:39,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_L-H-H_c0085_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 23:39,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_L-H-H_c0086_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 23:44,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_L-H-H_c0087_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 23:44,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_L-H-H_c0088_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 23:44,,,,,,,,,,,,AWS2 (akhalid_twi)
+syn_event_Northeast_L-H-H_c0089_SM3_BF1_Base,Running,,0.0,,,,,Nov 21 23:44,,,,,,,,,,,,AWS2 (akhalid_twi)
 syn_event_West_H-L-L_c0007_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0024_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_West_H-L-L_c0028_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
