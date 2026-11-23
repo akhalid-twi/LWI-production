@@ -1,497 +1,597 @@
 Directory,User,Platform,Row,Status,Run (h),Vol Error (%),Max WSE Err (ft),Progress,Done in (h),Note,Updated
-syn_event_Northeast_H-H-L_c0047_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),152,COMPLETE,7.8,0.1154,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-H-L_c0048_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),153,COMPLETE,7.9,0.1137,22.21,,,,2026-11-23 13:18
-syn_event_Northeast_H-H-L_c0049_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),154,COMPLETE,8.0,0.1095,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-H-L_c0050_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),155,COMPLETE,7.9,0.106,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-H-L_c0083_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),188,COMPLETE,8.7,0.1004,22.22,,,,2026-11-23 13:18
-syn_event_Northeast_H-H-L_c0084_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),189,COMPLETE,8.7,0.1193,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-H-L_c0085_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),190,COMPLETE,8.8,0.0909,22.4,,,,2026-11-23 13:18
-syn_event_Northeast_H-H-L_c0086_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),191,COMPLETE,8.8,0.1098,22.21,,,,2026-11-23 13:18
-syn_event_Northeast_H-H-L_c0087_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),192,COMPLETE,8.7,0.1167,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-H-L_c0088_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),193,COMPLETE,9.0,0.1321,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-H-L_c0089_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),194,COMPLETE,8.8,0.1173,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-H-L_c0090_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),195,COMPLETE,8.9,0.1191,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-H-L_c0133_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),236,COMPLETE,8.9,0.1312,19.1,,,,2026-11-23 13:18
-syn_event_Northeast_H-H-L_c0134_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),237,COMPLETE,9.0,0.1327,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-H-L_c0135_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),238,COMPLETE,8.8,0.1276,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-H-L_c0136_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),239,COMPLETE,8.9,0.1342,18.94,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-H_c0033_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),276,COMPLETE,9.0,0.1298,22.56,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-H_c0034_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),277,COMPLETE,9.0,0.0827,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-H_c0035_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),278,COMPLETE,9.3,0.08122,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-H_c0036_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),279,COMPLETE,9.0,0.1065,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-H_c0095_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),332,COMPLETE,9.1,0.1482,22.25,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-H_c0096_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),333,COMPLETE,9.0,0.1368,22.67,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-H_c0097_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),334,COMPLETE,9.0,0.1537,22.85,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-H_c0098_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),335,COMPLETE,9.0,0.1091,22.27,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-H_c0099_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),336,COMPLETE,8.9,0.1356,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0000_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),337,COMPLETE,8.7,0.1357,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0001_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),338,COMPLETE,8.9,0.1472,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0002_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),339,COMPLETE,8.7,0.1049,22.21,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0007_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),344,COMPLETE,7.8,0.131,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0008_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),345,COMPLETE,7.7,0.1107,22.28,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0009_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),346,COMPLETE,7.5,0.1254,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0010_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),347,COMPLETE,7.5,0.1271,22.38,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0011_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),348,COMPLETE,8.9,0.1142,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0012_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),349,COMPLETE,8.8,0.125,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0013_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),350,COMPLETE,8.9,0.1159,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0014_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),351,COMPLETE,8.8,0.1229,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0015_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),352,COMPLETE,9.3,0.1086,19.09,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0016_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),353,COMPLETE,8.8,0.1135,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0017_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),354,COMPLETE,9.1,0.1126,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0018_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),355,COMPLETE,8.6,0.1142,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0227_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),564,COMPLETE,7.7,0.1171,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0228_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),565,COMPLETE,7.5,0.1347,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0229_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),566,COMPLETE,7.5,0.124,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0230_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),567,COMPLETE,7.6,0.1331,22.19,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0231_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),568,COMPLETE,7.9,0.1168,19.75,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0232_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),569,COMPLETE,7.9,0.1316,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0233_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),570,COMPLETE,8.0,0.1131,21.62,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0234_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),571,COMPLETE,7.9,0.1108,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0239_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),576,COMPLETE,8.8,0.1078,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0240_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),577,COMPLETE,8.8,0.1589,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0241_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),578,COMPLETE,8.6,0.1117,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0242_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),579,COMPLETE,8.9,0.1147,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0350_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),687,COMPLETE,8.6,0.1323,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0351_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),688,COMPLETE,8.6,0.1338,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0352_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),689,COMPLETE,8.8,0.1093,20.78,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0353_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),690,COMPLETE,8.6,0.1177,21.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0356_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),693,COMPLETE,7.3,0.1131,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0361_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),698,COMPLETE,7.5,0.1168,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0363_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),700,COMPLETE,7.4,0.1515,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0364_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),701,COMPLETE,7.3,0.1403,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0365_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),702,COMPLETE,7.5,0.1427,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0366_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),703,COMPLETE,7.4,0.1234,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0367_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),704,COMPLETE,7.5,0.1328,18.08,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0368_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),705,COMPLETE,7.2,0.1287,22.36,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0369_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),706,COMPLETE,9.0,0.1288,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0370_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),707,COMPLETE,8.8,0.1173,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0371_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),708,COMPLETE,8.8,0.1099,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0374_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),711,COMPLETE,9.2,0.1163,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0380_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),717,COMPLETE,8.6,0.1081,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0381_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),718,COMPLETE,8.8,0.1121,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0388_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),725,COMPLETE,8.8,0.1261,18.08,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0390_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),727,COMPLETE,8.7,0.1367,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0398_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),735,COMPLETE,8.9,0.1277,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0400_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),737,COMPLETE,8.6,0.1363,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0402_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),739,COMPLETE,8.8,0.1355,22.08,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0426_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),763,COMPLETE,8.7,0.12,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_H-L-L_c0431_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),768,COMPLETE,8.7,0.1941,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0023_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),792,COMPLETE,8.9,0.1091,19.07,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0044_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),812,COMPLETE,8.8,0.1033,22.29,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0045_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),813,COMPLETE,8.9,0.1173,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0048_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),816,COMPLETE,7.7,0.1255,21.48,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0049_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),817,COMPLETE,7.5,0.09982,22.19,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0057_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),825,COMPLETE,7.7,0.09017,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0058_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),826,COMPLETE,7.6,0.1228,22.2,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0059_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),827,COMPLETE,7.6,0.1151,22.42,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0074_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),840,COMPLETE,7.6,0.117,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0076_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),842,COMPLETE,7.6,0.1224,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0077_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),843,COMPLETE,7.7,0.1164,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0082_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),848,COMPLETE,7.8,0.09174,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0084_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),850,COMPLETE,7.7,0.09498,18.56,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0102_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),868,COMPLETE,7.6,0.1024,22.2,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0103_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),869,COMPLETE,7.4,0.09272,22.19,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0104_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),870,COMPLETE,7.5,0.1095,22.27,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0105_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),871,COMPLETE,7.8,0.1016,21.83,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0106_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),872,COMPLETE,7.5,0.1016,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0108_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),873,COMPLETE,7.4,0.1233,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0109_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),874,COMPLETE,9.0,0.1098,18.03,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0110_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),875,COMPLETE,8.9,0.1057,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0111_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),876,COMPLETE,8.9,0.1151,18.06,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0112_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),877,COMPLETE,8.9,0.1126,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0113_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),878,COMPLETE,9.0,0.1109,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0114_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),879,COMPLETE,8.8,0.09272,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0115_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),880,COMPLETE,9.1,0.1098,22.55,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0116_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),881,COMPLETE,8.9,0.1165,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0118_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),883,COMPLETE,8.9,0.1024,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0120_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),885,COMPLETE,8.8,0.1327,22.31,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0121_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),886,COMPLETE,8.9,0.104,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0122_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),887,COMPLETE,9.1,0.09266,21.7,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0123_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),888,COMPLETE,8.8,0.1169,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0124_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),889,COMPLETE,8.7,0.1069,22.19,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0125_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),890,COMPLETE,9.1,0.1158,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0126_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),891,COMPLETE,9.1,0.1051,22.22,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0127_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),892,COMPLETE,9.0,0.1405,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0128_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),893,COMPLETE,8.8,0.1038,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0129_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),894,COMPLETE,9.2,0.1118,19.04,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0130_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),895,COMPLETE,9.2,0.1241,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0132_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),896,COMPLETE,9.2,0.112,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0133_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),897,COMPLETE,8.9,0.108,22.21,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0134_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),898,COMPLETE,8.9,0.1104,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0136_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),900,COMPLETE,8.9,0.1108,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0139_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),902,COMPLETE,8.6,0.09359,22.18,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0141_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),904,COMPLETE,8.8,0.09802,22.83,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0144_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),906,COMPLETE,8.7,0.1185,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0145_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),907,COMPLETE,8.7,0.1189,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0150_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),912,COMPLETE,8.7,0.1052,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0152_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),914,COMPLETE,8.9,0.1128,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0153_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),915,COMPLETE,9.0,0.1188,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0154_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),916,COMPLETE,9.0,0.1028,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0155_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),917,COMPLETE,9.0,0.09978,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0156_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),918,COMPLETE,8.8,0.1207,22.32,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0157_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),919,COMPLETE,8.9,0.1083,22.32,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0158_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),920,COMPLETE,9.1,0.1046,22.6,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0159_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),921,COMPLETE,8.6,0.1201,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0160_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),922,COMPLETE,8.9,0.1137,22.26,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0161_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),923,COMPLETE,8.9,0.1109,22.25,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0164_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),926,COMPLETE,8.8,0.1185,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0165_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),927,COMPLETE,8.8,0.1042,18.14,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0166_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),928,COMPLETE,8.8,0.1075,17.6,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0167_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),929,COMPLETE,8.9,0.0989,22.23,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0168_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),930,COMPLETE,9.1,0.1138,17.69,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0169_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),931,COMPLETE,9.1,0.1194,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0170_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),932,COMPLETE,9.1,0.1224,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0171_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),933,COMPLETE,9.1,0.1147,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0174_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),936,COMPLETE,8.9,0.1099,22.5,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0176_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),938,COMPLETE,7.8,0.1057,18.0,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0177_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),939,COMPLETE,7.5,0.1087,22.44,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0179_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),940,COMPLETE,7.2,0.0812,21.53,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0000_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),941,COMPLETE,7.8,0.1086,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0001_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),942,COMPLETE,7.5,0.1297,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0002_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),943,COMPLETE,7.6,0.1159,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0003_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),944,COMPLETE,7.7,0.1121,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0004_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),945,COMPLETE,7.6,0.1081,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0005_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),946,COMPLETE,7.7,0.1056,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0006_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),947,COMPLETE,7.7,0.1217,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0007_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),948,COMPLETE,7.6,0.1321,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0008_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),949,COMPLETE,7.5,0.115,17.72,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0017_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),958,COMPLETE,7.8,0.1184,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0018_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),959,COMPLETE,7.8,0.1106,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0019_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),960,COMPLETE,7.9,0.1118,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0020_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),961,COMPLETE,8.0,0.107,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0021_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),962,COMPLETE,7.4,0.1144,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0022_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),963,COMPLETE,7.7,0.1014,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0023_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),964,COMPLETE,7.8,0.1391,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0024_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),965,COMPLETE,7.4,0.112,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0030_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),971,COMPLETE,7.6,0.1187,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0033_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),974,COMPLETE,7.6,0.1207,22.02,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0034_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),975,COMPLETE,7.6,0.1147,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0035_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),976,COMPLETE,7.5,0.1078,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0036_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),977,COMPLETE,7.6,0.1065,17.98,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0069_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1010,COMPLETE,6.2,0.1161,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0070_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1011,COMPLETE,6.2,0.1031,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0071_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1012,COMPLETE,6.4,0.1122,21.54,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0094_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1035,COMPLETE,6.2,0.1083,21.49,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0096_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1037,COMPLETE,6.3,0.1041,17.51,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0097_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1038,COMPLETE,6.4,0.09964,18.28,,,,2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0117_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),882,STOPPED,,,,,,"idle 7.9 h, stopped in pre-processing -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0119_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),884,STOPPED,,,,,,"idle 7.3 h, stopped in post-processing -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0135_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),899,STOPPED,,,,,,"idle 7.9 h, stopped in pre-processing -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0138_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),901,STOPPED,,,,,,"idle 7.4 h, stopped in post-processing -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0140_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),903,STOPPED,,,,,,"idle 7.4 h, stopped in post-processing -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0143_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),905,STOPPED,,,,,,"idle 7.4 h, stopped in post-processing -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0146_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),908,STOPPED,,,,,,"idle 7.2 h, stopped in post-processing -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0147_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),909,STOPPED,,,,,,"idle 7.3 h, stopped in post-processing -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0148_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),910,STOPPED,,,,,,"idle 7.4 h, stopped in post-processing -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0149_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),911,STOPPED,,,,,,"idle 7.2 h, stopped in post-processing -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0151_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),913,STOPPED,,,,,,"idle 7.2 h, stopped in post-processing -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0162_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),924,STOPPED,,,,,,"idle 7.3 h, stopped in post-processing -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0163_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),925,STOPPED,,,,,,"idle 7.3 h, stopped in post-processing -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0172_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),934,STOPPED,,,,,,"idle 7.8 h, stopped in pre-processing -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0173_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),935,STOPPED,,,,,,"idle 7.4 h, stopped in post-processing -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-H_c0175_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),937,STOPPED,,,,,,"idle 7.3 h, stopped in post-processing -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0009_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),950,STOPPED,,,,,,"idle 7.2 h, stopped HEC-RAS reached 01Feb2006 01:30 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0010_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),951,STOPPED,,,,,,"idle 7.2 h, stopped HEC-RAS reached 28Jan1991 18:45 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0011_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),952,STOPPED,,,,,,"idle 7.2 h, stopped HEC-RAS reached 28Jan1991 19:51 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0012_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),953,STOPPED,,,,,,"idle 7.2 h, stopped HEC-RAS reached 15Jan2010 10:25 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0013_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),954,STOPPED,,,,,,"idle 5.1 h, stopped HEC-RAS reached 07Jul2010 12:18 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0014_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),955,STOPPED,,,,,,"idle 5.1 h, stopped HEC-RAS reached 28Jan1992 21:13 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0015_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),956,STOPPED,,,,,,"idle 5.1 h, stopped HEC-RAS reached 12Jan1993 03:19 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0016_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),957,STOPPED,,,,,,"idle 5.1 h, stopped HEC-RAS reached 21Dec2022 02:02 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0025_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),966,STOPPED,,,,,,"idle 2.1 h, stopped HEC-RAS reached 23May1983 01:08 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0026_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),967,STOPPED,,,,,,"idle 2.1 h, stopped HEC-RAS reached 24Dec2022 12:11 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0027_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),968,STOPPED,,,,,,"idle 2.1 h, stopped HEC-RAS reached 15Jan1993 08:44 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0028_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),969,STOPPED,,,,,,"idle 2.1 h, stopped HEC-RAS reached 15Jan1993 00:55 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0029_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),970,POST-PROC,,,,1.0,0.6333333333333333,"HEC-RAS done; extracting, QA/QC",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0031_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),972,POST-PROC,,,,1.0,0.6,"HEC-RAS done; extracting, QA/QC",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0032_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),973,POST-PROC,,,,1.0,0.48333333333333334,"HEC-RAS done; extracting, QA/QC",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0037_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),978,STOPPED,,,,,,"idle 2.7 h, stopped HEC-RAS reached 20Jan1991 03:56 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0038_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),979,STOPPED,,,,,,"idle 2.7 h, stopped HEC-RAS reached 23Jan1980 03:18 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0039_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),980,STOPPED,,,,,,"idle 2.7 h, stopped HEC-RAS reached 20Nov1988 05:53 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0040_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),981,STOPPED,,,,,,"idle 2.7 h, stopped HEC-RAS reached 23Jan1999 12:10 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0041_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),982,RUNNING,7.2,,,0.7196932006633499,4.4,at 24Jan1980 20:39,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0042_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),983,RUNNING,7.2,,,0.7346185737976783,4.2,at 20Jan2020 23:39,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0043_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),984,RUNNING,7.2,,,0.7076285240464344,4.6,at 22Dec2022 12:14,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0044_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),985,RUNNING,7.2,,,0.7332504145936981,4.2,at 21May1983 14:23,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0045_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),986,STOPPED,,,,,,"idle 2.1 h, stopped HEC-RAS reached 12Jan1993 15:04 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0046_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),987,STOPPED,,,,,,"idle 2.1 h, stopped HEC-RAS reached 31Jan1991 04:14 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0047_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),988,STOPPED,,,,,,"idle 2.1 h, stopped HEC-RAS reached 02Feb1981 11:53 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0048_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),989,STOPPED,,,,,,"idle 2.1 h, stopped HEC-RAS reached 18Feb2022 05:28 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0049_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),990,STOPPED,,,,,,"idle 2.5 h, stopped HEC-RAS reached 29Mar2001 13:48 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0050_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),991,STOPPED,,,,,,"idle 2.5 h, stopped HEC-RAS reached 17Feb1983 09:17 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0051_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),992,STOPPED,,,,,,"idle 2.5 h, stopped HEC-RAS reached 27Feb1987 01:14 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0052_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),993,STOPPED,,,,,,"idle 2.5 h, stopped HEC-RAS reached 10Jan2020 20:03 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0057_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),998,STOPPED,,,,,,"idle 3.3 h, stopped HEC-RAS reached 20Dec2022 01:45 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0058_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),999,STOPPED,,,,,,"idle 3.3 h, stopped HEC-RAS reached 25Feb2013 14:14 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0059_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1000,STOPPED,,,,,,"idle 3.3 h, stopped HEC-RAS reached 28Feb1987 07:04 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0060_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1001,STOPPED,,,,,,"idle 3.3 h, stopped HEC-RAS reached 22Jan2002 22:15 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0061_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1002,RUNNING,6.5,,,0.900497512437811,2.3,at 16Mar1986 18:00,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0062_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1003,RUNNING,6.5,,,0.9183665008291874,2.2,at 01Jan2016 07:35,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0063_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1004,RUNNING,6.5,,,0.8974709784411278,2.4,at 31Jan1992 20:23,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0064_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1005,RUNNING,6.5,,,0.8980099502487562,2.4,at 27Mar1987 22:30,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0065_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1006,RUNNING,6.6,,,0.920480928689884,2.2,at 23Jan1988 14:01,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0066_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1007,RUNNING,6.6,,,0.9587479270315091,1.9,at 01May1991 08:42,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0067_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1008,RUNNING,6.5,,,0.8992951907131012,2.4,at 25Feb1983 11:45,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0068_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1009,RUNNING,6.6,,,0.920771144278607,2.2,at 04Jan2003 14:04,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0072_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1013,POST-PROC,,,,1.0,1.5,"HEC-RAS done; extracting, QA/QC",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0073_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1014,STOPPED,,,,,,"idle 2.5 h, stopped HEC-RAS reached 24Mar1987 10:05 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0074_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1015,STOPPED,,,,,,"idle 2.5 h, stopped HEC-RAS reached 31Dec1981 14:39 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0075_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1016,STOPPED,,,,,,"idle 2.5 h, stopped HEC-RAS reached 13Jan1982 09:05 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0076_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1017,STOPPED,,,,,,"idle 2.5 h, stopped HEC-RAS reached 13Jan1982 00:54 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0077_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1018,RUNNING,6.5,,,0.9193615257048092,2.2,at 27Mar1979 03:47,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0078_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1019,RUNNING,6.7,,,0.9655058043117745,1.9,at 22Jan2020 22:04,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0079_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1020,RUNNING,6.7,,,0.9434494195688226,2.0,at 27Jan2019 20:38,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0080_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1021,RUNNING,6.6,,,0.9313018242122719,2.1,at 14Jan2020 11:11,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0081_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1022,RUNNING,6.6,,,0.8909618573797679,2.4,at 25Feb1990 17:05,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0082_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1023,RUNNING,6.7,,,0.9302238805970149,2.1,at 25Mar1985 01:58,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0083_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1024,RUNNING,6.5,,,0.9315091210613597,2.1,at 14Jan2020 11:14,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0084_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1025,RUNNING,6.5,,,0.9227197346600332,2.2,at 22Jan2020 13:28,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0085_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1026,RUNNING,6.6,,,0.9260364842454394,2.2,at 14Jan2020 10:08,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0086_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1027,RUNNING,6.5,,,0.9183250414593699,2.2,at 27Jan2019 15:35,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0087_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1028,RUNNING,6.6,,,0.9155058043117745,2.2,at 24Mar1985 23:01,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0088_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1029,RUNNING,6.7,,,0.9191127694859038,2.2,at 14Jan2020 08:44,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0089_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1030,RUNNING,6.6,,,0.9200663349917081,2.2,at 24Mar1985 23:56,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0090_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1031,RUNNING,6.5,,,0.919195688225539,2.2,at 04Apr1998 01:45,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0091_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1032,RUNNING,6.5,,,0.925580431177446,2.2,at 21Mar1991 13:02,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0092_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1033,RUNNING,6.5,,,0.9159203980099502,2.2,at 03Feb2013 10:06,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0093_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1034,POST-PROC,,,,1.0,1.5,"HEC-RAS done; extracting, QA/QC",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0098_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1039,RUNNING,6.6,,,0.7506633499170812,3.8,at 22Feb2002 17:53,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0099_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1040,RUNNING,6.5,,,0.7255389718076286,4.1,at 29Nov1983 22:50,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0100_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1041,RUNNING,6.5,,,0.702653399668325,4.4,at 10Apr1993 23:14,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0101_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1042,RUNNING,6.5,,,0.7416252072968491,3.9,at 18Feb1990 00:04,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0102_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1043,RUNNING,6.5,,,0.8169568822553898,3.1,at 03May2017 10:12,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0103_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1044,RUNNING,6.5,,,0.8273217247097844,3.0,at 01Apr2001 07:17,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0104_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1045,RUNNING,6.5,,,0.8291873963515755,3.0,at 27Jan2010 14:40,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0105_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1046,RUNNING,6.5,,,0.7965588723051409,3.3,at 02Dec2001 11:06,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0106_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1047,RUNNING,6.5,,,0.6197346600331675,5.6,at 02Jan2003 01:34,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0107_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1048,RUNNING,6.5,,,0.6143034825870647,5.7,at 27Feb2013 06:28,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0108_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1049,RUNNING,6.5,,,0.6055555555555555,5.8,at 10Oct2018 18:43,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0109_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1050,RUNNING,6.5,,,0.6283582089552239,5.5,at 30Mar2001 15:18,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0110_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1051,RUNNING,6.4,,,0.6508291873963515,5.1,at 01Feb2013 04:49,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0111_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1052,RUNNING,6.4,,,0.6468490878938641,5.1,at 28Feb1982 14:01,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0112_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1053,RUNNING,6.4,,,0.6486318407960199,5.1,at 10Apr1993 12:22,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0113_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1054,RUNNING,6.4,,,0.6577529021558873,5.0,at 25Dec2015 05:12,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0114_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1055,RUNNING,6.5,,,0.6453980099502488,5.2,at 23May1991 00:43,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0115_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1056,RUNNING,6.4,,,0.6582918739635157,5.0,at 21Feb2019 20:19,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0116_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1057,RUNNING,6.5,,,0.6553897180762852,5.0,at 24Mar1979 22:44,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0117_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1058,RUNNING,6.5,,,0.6606135986733002,5.0,at 02Jan2003 09:47,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0118_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1059,RUNNING,6.4,,,0.8225953565505805,3.0,at 08Feb1992 08:20,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0119_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1060,RUNNING,6.4,,,0.8171641791044776,3.1,at 11Apr1993 22:15,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0120_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1061,RUNNING,6.4,,,0.8051409618573798,3.2,at 09Jul2010 18:50,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0121_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1062,RUNNING,6.4,,,0.8172885572139303,3.1,at 22Jan1988 17:16,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0122_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1063,STOPPED,,,,,,"idle 5.1 h, stopped HEC-RAS reached 22Dec1982 06:45 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0123_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1064,STOPPED,,,,,,"idle 5.1 h, stopped HEC-RAS reached 24Feb1982 09:07 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0124_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1065,STOPPED,,,,,,"idle 5.1 h, stopped HEC-RAS reached 23Feb2013 09:19 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0125_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1066,STOPPED,,,,,,"idle 5.1 h, stopped HEC-RAS reached 02Feb1992 16:55 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0126_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1067,RUNNING,6.4,,,0.6616500829187397,4.9,at 24Jan2002 22:59,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0127_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1068,RUNNING,6.3,,,0.6532752902155887,5.0,at 22Jan1981 07:18,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0128_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1069,RUNNING,6.4,,,0.6567164179104478,5.0,at 28Feb1987 08:00,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0129_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1070,RUNNING,6.3,,,0.6452321724709784,5.1,at 28Feb1987 05:41,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0130_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1071,STOPPED,,,,,,"idle 2.7 h, stopped HEC-RAS reached 26Feb1987 10:22 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0131_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1072,STOPPED,,,,,,"idle 2.7 h, stopped HEC-RAS reached 02Feb2006 05:31 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0132_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1073,STOPPED,,,,,,"idle 2.7 h, stopped HEC-RAS reached 07Jan2016 16:41 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0133_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1074,STOPPED,,,,,,"idle 2.7 h, stopped HEC-RAS reached 19Jan1988 08:27 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0134_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1075,RUNNING,6.4,,,0.7877694859038142,3.3,at 18Dec1982 08:20,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0135_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1076,RUNNING,6.3,,,0.7908374792703151,3.3,at 18Mar2001 00:57,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0136_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1077,RUNNING,6.3,,,0.7937396351575455,3.3,at 03Mar1987 08:32,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0137_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1078,RUNNING,6.3,,,0.805804311774461,3.2,at 24Feb1990 23:58,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0138_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1079,STOPPED,,,,,,"idle 5.1 h, stopped HEC-RAS reached 12Jan1989 00:23 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0139_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1080,STOPPED,,,,,,"idle 5.1 h, stopped HEC-RAS reached 26Mar2001 13:33 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0140_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1081,STOPPED,,,,,,"idle 5.1 h, stopped HEC-RAS reached 15Jan1984 18:56 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0141_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1082,STOPPED,,,,,,"idle 5.1 h, stopped HEC-RAS reached 07Jan1984 13:18 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0142_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1083,RUNNING,6.3,,,0.6382669983416251,5.2,at 03Feb1981 00:17,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0143_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1084,RUNNING,6.4,,,0.6472636815920397,5.1,at 06Feb1992 21:06,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0144_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1085,RUNNING,6.4,,,0.642910447761194,5.2,at 08Jul2010 10:13,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0145_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1086,RUNNING,6.3,,,0.6342039800995024,5.3,at 24Mar1979 18:28,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0146_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1087,STOPPED,,,,,,"idle 3.3 h, stopped HEC-RAS reached 01Feb2006 12:48 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0147_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1088,STOPPED,,,,,,"idle 3.3 h, stopped HEC-RAS reached 01Feb2022 06:53 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0148_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1089,STOPPED,,,,,,"idle 3.3 h, stopped HEC-RAS reached 18Jan1988 16:25 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0149_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1090,STOPPED,,,,,,"idle 3.3 h, stopped HEC-RAS reached 04Feb1992 10:36 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0150_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1091,RUNNING,6.3,,,0.7562189054726368,3.7,at 23Jan1981 04:00,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0151_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1092,RUNNING,6.3,,,0.7527777777777778,3.7,at 28Feb2013 10:18,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0152_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1093,RUNNING,6.3,,,0.7580431177446103,3.6,at 26Jan2019 07:22,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0153_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1094,RUNNING,6.3,,,0.740257048092869,3.8,at 26Jan2019 03:47,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0154_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1095,RUNNING,6.3,,,0.7975124378109454,3.2,at 28Feb2013 19:18,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0155_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1096,RUNNING,6.3,,,0.7975538971807629,3.2,at 02Feb2013 10:18,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0156_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1097,RUNNING,6.3,,,0.8211442786069653,3.0,at 23Jan1981 17:03,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0157_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1098,RUNNING,6.3,,,0.7983830845771144,3.2,at 02Feb1991 03:28,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0158_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1099,STOPPED,,,,,,"idle 2.7 h, stopped HEC-RAS reached 21Feb1990 16:56 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0159_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1100,STOPPED,,,,,,"idle 2.7 h, stopped HEC-RAS reached 21Feb1990 16:59 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0160_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1101,STOPPED,,,,,,"idle 2.7 h, stopped HEC-RAS reached 02Feb2006 00:59 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0161_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1102,STOPPED,,,,,,"idle 2.7 h, stopped HEC-RAS reached 10Jan2020 01:58 -> rerun",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0162_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1103,RUNNING,6.3,,,0.6038971807628525,5.8,at 11Jan2016 00:23,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0163_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1104,RUNNING,6.3,,,0.5906301824212272,6.0,at 11Jan1984 08:43,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0164_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1105,RUNNING,6.3,,,0.6143034825870647,5.6,at 10Oct2018 20:28,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0165_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1106,RUNNING,6.3,,,0.5999585406301824,5.8,at 08Feb2013 16:35,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0166_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1107,RUNNING,4.8,,,0.7908789386401327,2.9,at 05Feb2006 06:58,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0167_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1108,RUNNING,4.8,,,0.7998341625207297,2.8,at 26Jan2019 15:46,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0168_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1109,RUNNING,4.8,,,0.7914179104477611,2.9,at 21Jan2020 11:04,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0169_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1110,RUNNING,4.9,,,0.7433250414593698,3.3,at 26Mar1987 15:24,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0170_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1111,RUNNING,4.8,,,0.8045605306799337,2.8,at 24Mar1985 00:43,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0171_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1112,RUNNING,4.8,,,0.7737976782752902,3.0,at 13Jan2020 03:32,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0172_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1113,RUNNING,4.8,,,0.7696517412935323,3.1,at 23Mar1985 17:42,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0173_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1114,RUNNING,4.8,,,0.7869817578772803,2.9,at 13Jan2020 06:11,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0174_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1115,RUNNING,4.8,,,0.39498341625207295,9.0,at 18Jan2020 03:23,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0175_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1116,RUNNING,4.8,,,0.3749585406301824,9.7,at 23Mar1987 13:22,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0176_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1117,RUNNING,4.8,,,0.38503316749585403,9.3,at 20Mar1985 12:23,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0177_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1118,RUNNING,4.8,,,0.37902155887230515,9.5,at 20Mar1985 11:11,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0178_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1119,RUNNING,3.0,,,0.4860696517412936,4.8,at 21Mar1985 08:42,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0179_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1120,RUNNING,3.0,,,0.4900912106135987,4.7,at 24Jan2019 01:30,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0180_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1121,RUNNING,3.0,,,0.4799751243781094,4.9,at 30Apr2017 14:28,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0181_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1122,RUNNING,3.0,,,0.49979270315091207,4.6,at 25Dec1982 06:27,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0182_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1123,RUNNING,3.0,,,0.4766998341625207,4.9,at 01Jan2021 08:49,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0183_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1124,RUNNING,3.0,,,0.4837893864013267,4.8,at 15Dec1982 19:14,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0184_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1125,RUNNING,3.0,,,0.4985903814262023,4.6,at 11Jan1993 21:13,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0185_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1126,RUNNING,3.0,,,0.48345771144278604,4.8,at 01Feb2007 10:10,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0186_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1127,RUNNING,2.4,,,0.08391376451077943,27.7,at 12Feb2003 09:52,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0187_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1128,RUNNING,2.4,,,0.08470149253731342,27.5,at 16Jan1988 14:01,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0188_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1129,RUNNING,2.4,,,0.08482587064676617,27.4,at 27Jan2013 11:03,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0189_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1130,RUNNING,2.4,,,0.0804726368159204,28.9,at 18Feb1997 08:10,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0190_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1131,RUNNING,2.4,,,0.34233001658374795,6.2,at 30Dec1981 11:48,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0191_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1132,RUNNING,2.4,,,0.32972636815920403,6.5,at 22Dec2015 11:16,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0192_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1133,RUNNING,2.4,,,0.33561359867330015,6.4,at 15Jan2010 20:27,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0193_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1134,RUNNING,2.4,,,0.33088723051409624,6.5,at 03Feb2018 04:30,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0194_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1135,RUNNING,2.4,,,0.3738391376451078,5.6,at 14Dec1982 21:08,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0195_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1136,RUNNING,2.4,,,0.3771144278606965,5.6,at 18Jan1991 14:48,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0196_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1137,RUNNING,2.4,,,0.3756633499170813,5.6,at 25Feb2013 06:30,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0197_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1138,RUNNING,2.4,,,0.37151741293532337,5.7,at 21Feb1998 22:40,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0198_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1139,RUNNING,2.2,,,0.046807628524046435,9.9,at 04Jan2016 10:24,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0199_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1140,RUNNING,2.2,,,0.04792703150912106,9.9,at 29Jan1981 01:38,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0200_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1141,RUNNING,2.2,,,0.047470978441127694,9.9,at 10Dec2003 05:32,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0201_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1142,RUNNING,2.2,,,0.04734660033167496,9.9,at 05Apr1993 11:31,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0202_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1143,RUNNING,2.2,,,0.048383084577114426,9.9,at 28Dec1981 00:43,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0203_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1144,RUNNING,2.2,,,0.046683250414593695,9.9,at 20Dec2015 02:23,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0204_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1145,RUNNING,2.2,,,0.045729684908789384,9.9,at 04Jan2016 10:11,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0205_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1146,RUNNING,2.2,,,0.04871475953565506,9.9,at 16Jan1988 06:47,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0206_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1147,RUNNING,1.9,,,0.2576699834162521,7.0,at 08Jan1984 13:47,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0207_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1148,RUNNING,1.9,,,0.2611525704809287,6.9,at 12Jan2005 00:29,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0208_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1149,RUNNING,1.9,,,0.25808457711442784,7.0,at 29Dec1981 18:52,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0209_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1150,RUNNING,1.9,,,0.2601160862354892,7.0,at 13Dec1982 22:17,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0210_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1151,RUNNING,1.9,,,0.30866500829187393,5.8,at 06Jan2016 15:02,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0211_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1152,RUNNING,1.9,,,0.302363184079602,5.9,at 15Feb2020 03:46,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0212_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1153,RUNNING,1.9,,,0.2974295190713101,6.0,at 18Feb2002 22:47,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0213_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1154,RUNNING,1.9,,,0.2998756218905473,6.0,at 13Mar2001 22:16,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0214_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1155,RUNNING,1.7,,,0.22645107794361524,7.3,at 08Jan1984 07:31,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0215_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1156,RUNNING,1.7,,,0.22885572139303484,7.2,at 19Mar1985 05:00,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0216_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1157,RUNNING,1.7,,,0.21886401326699834,7.6,at 05Jan2016 20:59,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0217_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1158,RUNNING,1.7,,,0.22524875621890547,7.4,at 22Dec1982 23:16,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0218_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1159,RUNNING,1.5,,,0.21264510779436152,7.4,at 09Feb1993 02:44,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0219_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1160,RUNNING,1.6,,,0.20605306799336648,7.6,at 13Mar2001 03:25,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0220_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1161,RUNNING,1.5,,,0.21388888888888888,7.3,at 03Apr1997 11:59,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0221_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1162,RUNNING,1.5,,,0.20783582089552238,7.5,at 03Feb1992 04:46,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0222_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1163,RUNNING,1.5,,,0.14112769485903814,11.0,at 28Mar1998 13:22,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0223_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1164,RUNNING,1.5,,,0.13980099502487564,11.1,at 21Mar1987 14:06,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0224_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1165,RUNNING,1.5,,,0.14004975124378108,11.1,at 24Feb1987 00:09,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0225_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1166,RUNNING,1.5,,,0.1449004975124378,10.8,at 24Feb1987 01:07,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0226_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1167,RUNNING,1.5,,,0.14162520729684908,10.9,at 28Dec1981 19:28,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0227_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1168,RUNNING,1.5,,,0.1395107794361526,11.1,at 02Feb1992 15:02,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0228_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1169,RUNNING,1.5,,,0.1367330016583748,11.3,at 20Jan2002 13:29,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0229_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1170,RUNNING,1.5,,,0.13855721393034826,11.2,at 10Jan2005 23:51,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0230_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1171,RUNNING,1.4,,,0.047553897180762854,9.9,at 19Mar1979 20:33,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0231_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1172,RUNNING,1.4,,,0.04958540630182421,9.9,at 19Mar1979 20:58,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0232_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1173,RUNNING,1.4,,,0.04871475953565506,9.9,at 28Dec1981 00:47,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0233_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1174,RUNNING,1.4,,,0.048631840796019905,9.9,at 15Jan1991 20:46,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0234_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1175,RUNNING,1.3,,,0.0480514096185738,9.9,at 06Oct2018 02:39,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0235_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1176,RUNNING,1.3,,,0.04701492537313433,9.9,at 20Mar1987 19:27,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0236_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1177,RUNNING,1.3,,,0.04701492537313433,9.9,at 18May1991 00:27,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0237_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1178,RUNNING,1.3,,,0.047678275290215594,9.9,at 01May1999 18:35,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0238_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1179,RUNNING,1.3,,,0.14660033167495853,9.4,at 17Dec2022 19:28,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0239_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1180,RUNNING,1.3,,,0.14933665008291874,9.2,at 06Apr1993 08:01,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0240_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1181,RUNNING,1.3,,,0.14481757877280266,9.5,at 28Mar1998 14:06,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0241_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1182,RUNNING,1.3,,,0.14680762852404644,9.3,at 01Feb2018 15:30,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0242_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1183,RUNNING,1.0,,,0.003441127694859038,10.3,at 19Jan2019 23:41,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0243_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1184,RUNNING,1.0,,,0.004187396351575456,10.3,at 28Jan1981 16:50,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0244_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1185,RUNNING,1.0,,,0.0033167495854063015,10.3,at 22Feb2013 03:40,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0245_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1186,RUNNING,1.0,,,0.0035240464344941957,10.3,at 05Apr1993 02:42,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0246_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1187,RUNNING,0.9833333333333333,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0247_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1188,RUNNING,0.9833333333333333,,,0.0002487562189054727,10.3,at 19Mar1979 11:03,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0248_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1189,RUNNING,0.9833333333333333,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0249_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1190,RUNNING,0.9833333333333333,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0250_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1191,RUNNING,0.9,,,0.08279436152570481,11.7,at 17Mar1985 23:38,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0251_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1192,RUNNING,0.9,,,0.08420398009950249,11.5,at 28Dec1981 07:55,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0252_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1193,RUNNING,0.9,,,0.08565505804311774,11.3,at 21Jan2010 09:13,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0253_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1194,RUNNING,0.9,,,0.08407960199004974,11.5,at 30Jan2022 02:54,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0254_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1195,RUNNING,0.5333333333333333,,,0.07317578772802653,8.5,at 21Mar1987 00:42,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0255_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1196,RUNNING,0.5333333333333333,,,0.0722636815920398,8.5,at 17Mar1985 21:31,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0256_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1197,RUNNING,0.5166666666666667,,,0.06849087893864014,8.8,at 25Feb1987 06:46,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0257_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1198,RUNNING,0.5166666666666667,,,0.07101990049751244,8.5,at 27Jan1991 01:16,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0258_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1199,RUNNING,0.5333333333333333,,,0.041915422885572144,10.0,at 15Jan2020 04:25,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0259_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1200,RUNNING,0.5333333333333333,,,0.04154228855721393,10.0,at 17Mar1985 15:21,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0260_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1201,RUNNING,0.55,,,0.043615257048092874,10.0,at 20Mar1987 18:46,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0261_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1202,RUNNING,0.5333333333333333,,,0.03967661691542288,10.0,at 18Feb1990 13:58,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0262_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1203,RUNNING,0.5666666666666667,,,0.04411276948590381,10.0,at 20Jan2019 07:52,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0263_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1204,RUNNING,0.5833333333333334,,,0.047470978441127694,9.9,at 07Jan2020 01:32,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0264_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1205,RUNNING,0.5666666666666667,,,0.04407131011608623,10.0,at 18Feb1983 07:51,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0265_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1206,RUNNING,0.65,,,0.05688225538971808,12.3,at 17Mar1985 18:26,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0266_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1207,RUNNING,0.5333333333333333,,,0.04216417910447761,10.0,at 20Jan2019 07:28,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0267_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1208,RUNNING,0.5333333333333333,,,0.040961857379767826,10.0,at 20Jan2019 07:14,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0268_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1209,RUNNING,0.5166666666666667,,,0.04046434494195688,10.0,at 17Mar1985 15:08,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0269_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1210,RUNNING,0.5333333333333333,,,0.041583747927031504,10.0,at 17Mar1985 15:21,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0270_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1211,RUNNING,0.55,,,0.041832504145936984,10.0,at 20Jul2020 14:24,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0271_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1212,RUNNING,0.5666666666666667,,,0.04253731343283582,10.0,at 21Dec1982 10:33,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0272_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1213,RUNNING,0.55,,,0.04216417910447761,10.0,at 19Mar2022 08:28,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0273_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1214,RUNNING,0.6333333333333333,,,0.0529436152570481,13.0,at 27Jan2013 04:38,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0274_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1215,RUNNING,0.55,,,0.07529021558872305,8.4,at 03Feb1979 13:08,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0275_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1216,RUNNING,0.55,,,0.07197346600331675,8.8,at 28Dec1981 05:28,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0276_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1217,RUNNING,0.5833333333333334,,,0.07835820895522388,8.4,at 18Feb1983 14:45,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0277_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1218,RUNNING,0.55,,,0.07450248756218905,8.5,at 25Mar2001 23:58,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0278_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1219,RUNNING,0.5166666666666667,,,0.06782752902155886,8.8,at 17Feb2002 00:38,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0279_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1220,RUNNING,0.5333333333333333,,,0.06799336650082918,8.8,at 31Jan2018 23:40,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0280_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1221,RUNNING,0.5333333333333333,,,0.06981757877280265,8.6,at 16Jan1991 01:02,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0281_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1222,RUNNING,0.5166666666666667,,,0.06940298507462686,8.7,at 28Dec1981 04:57,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0282_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1223,RUNNING,0.5333333333333333,,,0.04075456053067993,10.0,at 13Jan2010 09:11,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0283_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1224,RUNNING,0.5166666666666667,,,0.041666666666666664,10.0,at 09Apr2020 13:22,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0284_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1225,RUNNING,0.5166666666666667,,,0.04063018242122719,10.0,at 28Dec2002 05:10,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0285_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1226,RUNNING,0.5333333333333333,,,0.039966832504145934,10.0,at 03Feb1979 06:02,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0286_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1227,RUNNING,0.6333333333333333,,,0.08043117744610283,8.8,at 20Mar1979 03:10,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0287_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1228,RUNNING,0.5833333333333334,,,0.07487562189054726,8.8,at 23Feb1982 19:03,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0288_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1229,RUNNING,0.5666666666666667,,,0.07321724709784411,8.7,at 05Dec1987 00:43,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0289_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1230,RUNNING,0.5666666666666667,,,0.07251243781094527,8.9,at 14Mar1991 09:34,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0290_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1231,RUNNING,0.5166666666666667,,,0.04203980099502487,10.0,at 28Dec2020 17:27,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0291_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1232,RUNNING,0.5333333333333333,,,0.04108623548922056,10.0,at 10Jan2005 04:15,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0292_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1233,RUNNING,0.5166666666666667,,,0.039303482587064675,10.0,at 17Feb1997 23:54,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0293_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1234,RUNNING,0.5333333333333333,,,0.03992537313432836,10.0,at 03Feb1979 06:01,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0294_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1235,RUNNING,0.5166666666666667,,,0.04129353233830846,10.0,at 26Apr2017 22:18,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0295_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1236,RUNNING,0.55,,,0.04137645107794361,10.0,at 26Nov2001 03:19,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0296_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1237,RUNNING,0.5333333333333333,,,0.04058872305140962,10.0,at 06Jan2016 07:09,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0297_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1238,RUNNING,0.5166666666666667,,,0.041127694859038146,10.0,at 10Jan2005 04:16,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0298_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1239,RUNNING,0.55,,,0.07077114427860696,8.9,at 10Jan2005 10:13,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0299_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1240,RUNNING,0.55,,,0.07114427860696518,8.7,at 27Jan2013 08:18,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0300_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1241,RUNNING,0.55,,,0.07429519071310116,8.5,at 04Jan2016 15:56,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0301_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1242,RUNNING,0.55,,,0.07388059701492537,8.5,at 16Jan1988 11:51,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0302_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1243,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0303_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1244,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0304_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1245,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0305_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1246,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0306_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1247,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0307_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1248,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0308_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1249,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0309_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1250,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0310_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1251,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0311_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1252,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0312_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1253,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0313_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1254,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0314_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1255,RUNNING,0.05,,,0.007338308457711443,10.3,at 23Feb1982 05:28,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0315_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1256,RUNNING,0.06666666666666667,,,0.009038142620232172,10.3,at 09Jan2005 21:49,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0316_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1257,RUNNING,0.05,,,0.007504145936981758,10.3,at 07Feb1993 09:30,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0317_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1258,RUNNING,0.05,,,0.007421227197346601,10.3,at 22Feb1987 21:29,2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0318_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1259,PRE-PROC,,,,,,Applying CRS & Sorting Forcing Files (HEC-RAS not started),2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0319_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1260,PRE-PROC,,,,,,Applying CRS & Sorting Forcing Files (HEC-RAS not started),2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0320_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1261,PRE-PROC,,,,,,Applying CRS & Sorting Forcing Files (HEC-RAS not started),2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0321_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1262,PRE-PROC,,,,,,Applying CRS & Sorting Forcing Files (HEC-RAS not started),2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0322_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1263,PRE-PROC,,,,,,Applying CRS & Sorting Forcing Files (HEC-RAS not started),2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0323_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1264,PRE-PROC,,,,,,Applying CRS & Sorting Forcing Files (HEC-RAS not started),2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0324_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1265,PRE-PROC,,,,,,Applying CRS & Sorting Forcing Files (HEC-RAS not started),2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0325_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1266,PRE-PROC,,,,,,Applying CRS & Sorting Forcing Files (HEC-RAS not started),2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0326_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1267,PRE-PROC,,,,,,Applying CRS & Sorting Forcing Files (HEC-RAS not started),2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0327_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1268,PRE-PROC,,,,,,Applying CRS & Sorting Forcing Files (HEC-RAS not started),2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0328_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1269,PRE-PROC,,,,,,Applying CRS & Sorting Forcing Files (HEC-RAS not started),2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0329_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1270,PRE-PROC,,,,,,Applying CRS & Sorting Forcing Files (HEC-RAS not started),2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0330_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1271,PRE-PROC,,,,,,Applying CRS & Sorting Forcing Files (HEC-RAS not started),2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0331_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1272,PRE-PROC,,,,,,Applying CRS & Sorting Forcing Files (HEC-RAS not started),2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0332_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1273,PRE-PROC,,,,,,Applying CRS & Sorting Forcing Files (HEC-RAS not started),2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0333_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1274,PRE-PROC,,,,,,Applying CRS & Sorting Forcing Files (HEC-RAS not started),2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0334_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1275,PRE-PROC,,,,,,Applying CRS & Sorting Forcing Files (HEC-RAS not started),2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0335_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1276,PRE-PROC,,,,,,Applying CRS & Sorting Forcing Files (HEC-RAS not started),2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0336_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1277,PRE-PROC,,,,,,Applying CRS & Sorting Forcing Files (HEC-RAS not started),2026-11-23 13:18
-syn_event_Northeast_L-H-L_c0337_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1278,PRE-PROC,,,,,,Applying CRS & Sorting Forcing Files (HEC-RAS not started),2026-11-23 13:18
+syn_event_Northeast_H-H-L_c0047_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),152,COMPLETE,7.8,0.1154,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-H-L_c0048_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),153,COMPLETE,7.9,0.1137,22.21,,,,2026-11-23 14:15
+syn_event_Northeast_H-H-L_c0049_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),154,COMPLETE,8.0,0.1095,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-H-L_c0050_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),155,COMPLETE,7.9,0.106,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-H-L_c0083_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),188,COMPLETE,8.7,0.1004,22.22,,,,2026-11-23 14:15
+syn_event_Northeast_H-H-L_c0084_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),189,COMPLETE,8.7,0.1193,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-H-L_c0085_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),190,COMPLETE,8.8,0.0909,22.4,,,,2026-11-23 14:15
+syn_event_Northeast_H-H-L_c0086_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),191,COMPLETE,8.8,0.1098,22.21,,,,2026-11-23 14:15
+syn_event_Northeast_H-H-L_c0087_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),192,COMPLETE,8.7,0.1167,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-H-L_c0088_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),193,COMPLETE,9.0,0.1321,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-H-L_c0089_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),194,COMPLETE,8.8,0.1173,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-H-L_c0090_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),195,COMPLETE,8.9,0.1191,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-H-L_c0133_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),236,COMPLETE,8.9,0.1312,19.1,,,,2026-11-23 14:15
+syn_event_Northeast_H-H-L_c0134_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),237,COMPLETE,9.0,0.1327,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-H-L_c0135_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),238,COMPLETE,8.8,0.1276,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-H-L_c0136_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),239,COMPLETE,8.9,0.1342,18.94,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-H_c0033_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),276,COMPLETE,9.0,0.1298,22.56,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-H_c0034_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),277,COMPLETE,9.0,0.0827,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-H_c0035_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),278,COMPLETE,9.3,0.08122,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-H_c0036_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),279,COMPLETE,9.0,0.1065,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-H_c0095_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),332,COMPLETE,9.1,0.1482,22.25,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-H_c0096_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),333,COMPLETE,9.0,0.1368,22.67,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-H_c0097_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),334,COMPLETE,9.0,0.1537,22.85,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-H_c0098_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),335,COMPLETE,9.0,0.1091,22.27,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-H_c0099_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),336,COMPLETE,8.9,0.1356,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0000_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),337,COMPLETE,8.7,0.1357,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0001_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),338,COMPLETE,8.9,0.1472,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0002_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),339,COMPLETE,8.7,0.1049,22.21,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0007_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),344,COMPLETE,7.8,0.131,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0008_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),345,COMPLETE,7.7,0.1107,22.28,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0009_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),346,COMPLETE,7.5,0.1254,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0010_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),347,COMPLETE,7.5,0.1271,22.38,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0011_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),348,COMPLETE,8.9,0.1142,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0012_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),349,COMPLETE,8.8,0.125,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0013_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),350,COMPLETE,8.9,0.1159,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0014_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),351,COMPLETE,8.8,0.1229,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0015_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),352,COMPLETE,9.3,0.1086,19.09,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0016_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),353,COMPLETE,8.8,0.1135,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0017_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),354,COMPLETE,9.1,0.1126,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0018_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),355,COMPLETE,8.6,0.1142,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0227_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),564,COMPLETE,7.7,0.1171,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0228_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),565,COMPLETE,7.5,0.1347,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0229_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),566,COMPLETE,7.5,0.124,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0230_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),567,COMPLETE,7.6,0.1331,22.19,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0231_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),568,COMPLETE,7.9,0.1168,19.75,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0232_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),569,COMPLETE,7.9,0.1316,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0233_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),570,COMPLETE,8.0,0.1131,21.62,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0234_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),571,COMPLETE,7.9,0.1108,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0239_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),576,COMPLETE,8.8,0.1078,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0240_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),577,COMPLETE,8.8,0.1589,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0241_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),578,COMPLETE,8.6,0.1117,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0242_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),579,COMPLETE,8.9,0.1147,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0350_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),687,COMPLETE,8.6,0.1323,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0351_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),688,COMPLETE,8.6,0.1338,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0352_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),689,COMPLETE,8.8,0.1093,20.78,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0353_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),690,COMPLETE,8.6,0.1177,21.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0356_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),693,COMPLETE,7.3,0.1131,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0361_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),698,COMPLETE,7.5,0.1168,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0363_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),700,COMPLETE,7.4,0.1515,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0364_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),701,COMPLETE,7.3,0.1403,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0365_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),702,COMPLETE,7.5,0.1427,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0366_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),703,COMPLETE,7.4,0.1234,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0367_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),704,COMPLETE,7.5,0.1328,18.08,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0368_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),705,COMPLETE,7.2,0.1287,22.36,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0369_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),706,COMPLETE,9.0,0.1288,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0370_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),707,COMPLETE,8.8,0.1173,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0371_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),708,COMPLETE,8.8,0.1099,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0374_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),711,COMPLETE,9.2,0.1163,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0380_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),717,COMPLETE,8.6,0.1081,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0381_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),718,COMPLETE,8.8,0.1121,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0388_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),725,COMPLETE,8.8,0.1261,18.08,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0390_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),727,COMPLETE,8.7,0.1367,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0398_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),735,COMPLETE,8.9,0.1277,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0400_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),737,COMPLETE,8.6,0.1363,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0402_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),739,COMPLETE,8.8,0.1355,22.08,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0426_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),763,COMPLETE,8.7,0.12,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_H-L-L_c0431_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),768,COMPLETE,8.7,0.1941,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0023_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),792,COMPLETE,8.9,0.1091,19.07,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0044_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),812,COMPLETE,8.8,0.1033,22.29,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0045_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),813,COMPLETE,8.9,0.1173,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0048_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),816,COMPLETE,7.7,0.1255,21.48,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0049_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),817,COMPLETE,7.5,0.09982,22.19,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0057_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),825,COMPLETE,7.7,0.09017,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0058_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),826,COMPLETE,7.6,0.1228,22.2,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0059_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),827,COMPLETE,7.6,0.1151,22.42,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0074_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),840,COMPLETE,7.6,0.117,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0076_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),842,COMPLETE,7.6,0.1224,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0077_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),843,COMPLETE,7.7,0.1164,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0082_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),848,COMPLETE,7.8,0.09174,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0084_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),850,COMPLETE,7.7,0.09498,18.56,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0102_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),868,COMPLETE,7.6,0.1024,22.2,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0103_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),869,COMPLETE,7.4,0.09272,22.19,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0104_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),870,COMPLETE,7.5,0.1095,22.27,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0105_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),871,COMPLETE,7.8,0.1016,21.83,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0106_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),872,COMPLETE,7.5,0.1016,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0108_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),873,COMPLETE,7.4,0.1233,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0109_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),874,COMPLETE,9.0,0.1098,18.03,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0110_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),875,COMPLETE,8.9,0.1057,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0111_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),876,COMPLETE,8.9,0.1151,18.06,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0112_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),877,COMPLETE,8.9,0.1126,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0113_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),878,COMPLETE,9.0,0.1109,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0114_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),879,COMPLETE,8.8,0.09272,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0115_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),880,COMPLETE,9.1,0.1098,22.55,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0116_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),881,COMPLETE,8.9,0.1165,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0118_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),883,COMPLETE,8.9,0.1024,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0120_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),885,COMPLETE,8.8,0.1327,22.31,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0121_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),886,COMPLETE,8.9,0.104,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0122_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),887,COMPLETE,9.1,0.09266,21.7,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0123_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),888,COMPLETE,8.8,0.1169,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0124_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),889,COMPLETE,8.7,0.1069,22.19,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0125_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),890,COMPLETE,9.1,0.1158,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0126_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),891,COMPLETE,9.1,0.1051,22.22,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0127_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),892,COMPLETE,9.0,0.1405,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0128_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),893,COMPLETE,8.8,0.1038,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0129_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),894,COMPLETE,9.2,0.1118,19.04,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0130_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),895,COMPLETE,9.2,0.1241,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0132_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),896,COMPLETE,9.2,0.112,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0133_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),897,COMPLETE,8.9,0.108,22.21,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0134_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),898,COMPLETE,8.9,0.1104,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0136_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),900,COMPLETE,8.9,0.1108,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0139_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),902,COMPLETE,8.6,0.09359,22.18,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0141_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),904,COMPLETE,8.8,0.09802,22.83,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0144_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),906,COMPLETE,8.7,0.1185,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0145_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),907,COMPLETE,8.7,0.1189,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0150_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),912,COMPLETE,8.7,0.1052,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0152_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),914,COMPLETE,8.9,0.1128,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0153_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),915,COMPLETE,9.0,0.1188,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0154_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),916,COMPLETE,9.0,0.1028,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0155_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),917,COMPLETE,9.0,0.09978,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0156_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),918,COMPLETE,8.8,0.1207,22.32,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0157_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),919,COMPLETE,8.9,0.1083,22.32,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0158_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),920,COMPLETE,9.1,0.1046,22.6,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0159_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),921,COMPLETE,8.6,0.1201,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0160_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),922,COMPLETE,8.9,0.1137,22.26,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0161_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),923,COMPLETE,8.9,0.1109,22.25,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0164_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),926,COMPLETE,8.8,0.1185,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0165_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),927,COMPLETE,8.8,0.1042,18.14,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0166_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),928,COMPLETE,8.8,0.1075,17.6,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0167_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),929,COMPLETE,8.9,0.0989,22.23,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0168_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),930,COMPLETE,9.1,0.1138,17.69,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0169_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),931,COMPLETE,9.1,0.1194,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0170_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),932,COMPLETE,9.1,0.1224,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0171_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),933,COMPLETE,9.1,0.1147,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0174_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),936,COMPLETE,8.9,0.1099,22.5,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0176_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),938,COMPLETE,7.8,0.1057,18.0,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0177_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),939,COMPLETE,7.5,0.1087,22.44,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0179_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),940,COMPLETE,7.2,0.0812,21.53,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0000_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),941,COMPLETE,7.8,0.1086,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0001_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),942,COMPLETE,7.5,0.1297,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0002_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),943,COMPLETE,7.6,0.1159,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0003_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),944,COMPLETE,7.7,0.1121,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0004_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),945,COMPLETE,7.6,0.1081,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0005_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),946,COMPLETE,7.7,0.1056,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0006_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),947,COMPLETE,7.7,0.1217,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0007_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),948,COMPLETE,7.6,0.1321,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0008_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),949,COMPLETE,7.5,0.115,17.72,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0017_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),958,COMPLETE,7.8,0.1184,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0018_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),959,COMPLETE,7.8,0.1106,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0019_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),960,COMPLETE,7.9,0.1118,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0020_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),961,COMPLETE,8.0,0.107,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0021_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),962,COMPLETE,7.4,0.1144,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0022_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),963,COMPLETE,7.7,0.1014,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0023_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),964,COMPLETE,7.8,0.1391,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0024_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),965,COMPLETE,7.4,0.112,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0030_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),971,COMPLETE,7.6,0.1187,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0033_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),974,COMPLETE,7.6,0.1207,22.02,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0034_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),975,COMPLETE,7.6,0.1147,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0035_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),976,COMPLETE,7.5,0.1078,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0036_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),977,COMPLETE,7.6,0.1065,17.98,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0062_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1003,COMPLETE,7.1,0.1071,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0066_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1007,COMPLETE,6.9,0.114,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0069_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1010,COMPLETE,6.2,0.1161,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0070_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1011,COMPLETE,6.2,0.1031,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0071_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1012,COMPLETE,6.4,0.1122,21.54,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0072_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1013,COMPLETE,6.5,0.09725,17.68,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0078_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1019,COMPLETE,7.0,0.1019,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0079_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1020,COMPLETE,7.1,0.108,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0080_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1021,COMPLETE,7.1,0.09903,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0083_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1024,COMPLETE,7.1,0.09552,19.09,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0093_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1034,COMPLETE,6.3,0.1125,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0094_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1035,COMPLETE,6.2,0.1083,21.49,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0096_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1037,COMPLETE,6.3,0.1041,17.51,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0097_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1038,COMPLETE,6.4,0.09964,18.28,,,,2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0117_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),882,STOPPED,,,,,,"idle 8.8 h, stopped in pre-processing -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0119_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),884,STOPPED,,,,,,"idle 8.3 h, stopped in post-processing -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0135_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),899,STOPPED,,,,,,"idle 8.8 h, stopped in pre-processing -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0138_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),901,STOPPED,,,,,,"idle 8.4 h, stopped in post-processing -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0140_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),903,STOPPED,,,,,,"idle 8.4 h, stopped in post-processing -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0143_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),905,STOPPED,,,,,,"idle 8.4 h, stopped in post-processing -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0146_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),908,STOPPED,,,,,,"idle 8.2 h, stopped in post-processing -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0147_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),909,STOPPED,,,,,,"idle 8.2 h, stopped in post-processing -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0148_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),910,STOPPED,,,,,,"idle 8.4 h, stopped in post-processing -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0149_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),911,STOPPED,,,,,,"idle 8.2 h, stopped in post-processing -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0151_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),913,STOPPED,,,,,,"idle 8.2 h, stopped in post-processing -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0162_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),924,STOPPED,,,,,,"idle 8.2 h, stopped in post-processing -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0163_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),925,STOPPED,,,,,,"idle 8.3 h, stopped in post-processing -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0172_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),934,STOPPED,,,,,,"idle 8.8 h, stopped in pre-processing -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0173_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),935,STOPPED,,,,,,"idle 8.3 h, stopped in post-processing -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-H_c0175_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),937,STOPPED,,,,,,"idle 8.2 h, stopped in post-processing -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0009_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),950,STOPPED,,,,,,"idle 8.2 h, stopped HEC-RAS reached 01Feb2006 01:30 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0010_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),951,STOPPED,,,,,,"idle 8.2 h, stopped HEC-RAS reached 28Jan1991 18:45 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0011_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),952,STOPPED,,,,,,"idle 8.2 h, stopped HEC-RAS reached 28Jan1991 19:51 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0012_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),953,STOPPED,,,,,,"idle 8.2 h, stopped HEC-RAS reached 15Jan2010 10:25 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0013_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),954,STOPPED,,,,,,"idle 6.0 h, stopped HEC-RAS reached 07Jul2010 12:18 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0014_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),955,STOPPED,,,,,,"idle 6.0 h, stopped HEC-RAS reached 28Jan1992 21:13 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0015_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),956,STOPPED,,,,,,"idle 6.0 h, stopped HEC-RAS reached 12Jan1993 03:19 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0016_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),957,STOPPED,,,,,,"idle 6.0 h, stopped HEC-RAS reached 21Dec2022 02:02 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0025_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),966,STOPPED,,,,,,"idle 3.1 h, stopped HEC-RAS reached 23May1983 01:08 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0026_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),967,STOPPED,,,,,,"idle 3.1 h, stopped HEC-RAS reached 24Dec2022 12:11 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0027_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),968,STOPPED,,,,,,"idle 3.1 h, stopped HEC-RAS reached 15Jan1993 08:44 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0028_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),969,STOPPED,,,,,,"idle 3.1 h, stopped HEC-RAS reached 15Jan1993 00:55 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0029_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),970,POST-PROC,,,,1.0,0.0,"HEC-RAS done; extracting, QA/QC",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0031_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),972,POST-PROC,,,,1.0,0.0,"HEC-RAS done; extracting, QA/QC",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0032_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),973,POST-PROC,,,,1.0,0.0,"HEC-RAS done; extracting, QA/QC",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0037_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),978,STOPPED,,,,,,"idle 3.6 h, stopped HEC-RAS reached 20Jan1991 03:56 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0038_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),979,STOPPED,,,,,,"idle 3.6 h, stopped HEC-RAS reached 23Jan1980 03:18 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0039_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),980,STOPPED,,,,,,"idle 3.6 h, stopped HEC-RAS reached 20Nov1988 05:53 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0040_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),981,STOPPED,,,,,,"idle 3.6 h, stopped HEC-RAS reached 23Jan1999 12:10 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0041_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),982,RUNNING,8.1,,,0.7196932006633499,4.8,at 24Jan1980 20:39,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0042_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),983,RUNNING,8.1,,,0.7346185737976783,4.6,at 20Jan2020 23:39,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0043_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),984,RUNNING,8.1,,,0.7076285240464344,5.0,at 22Dec2022 12:14,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0044_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),985,RUNNING,8.1,,,0.7332504145936981,4.6,at 21May1983 14:23,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0045_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),986,STOPPED,,,,,,"idle 3.1 h, stopped HEC-RAS reached 12Jan1993 15:04 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0046_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),987,STOPPED,,,,,,"idle 3.1 h, stopped HEC-RAS reached 31Jan1991 04:14 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0047_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),988,STOPPED,,,,,,"idle 3.1 h, stopped HEC-RAS reached 02Feb1981 11:53 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0048_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),989,STOPPED,,,,,,"idle 3.1 h, stopped HEC-RAS reached 18Feb2022 05:28 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0049_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),990,STOPPED,,,,,,"idle 3.4 h, stopped HEC-RAS reached 29Mar2001 13:48 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0050_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),991,STOPPED,,,,,,"idle 3.4 h, stopped HEC-RAS reached 17Feb1983 09:17 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0051_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),992,STOPPED,,,,,,"idle 3.4 h, stopped HEC-RAS reached 27Feb1987 01:14 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0052_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),993,STOPPED,,,,,,"idle 3.4 h, stopped HEC-RAS reached 10Jan2020 20:03 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0057_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),998,STOPPED,,,,,,"idle 4.2 h, stopped HEC-RAS reached 20Dec2022 01:45 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0058_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),999,STOPPED,,,,,,"idle 4.2 h, stopped HEC-RAS reached 25Feb2013 14:14 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0059_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1000,STOPPED,,,,,,"idle 4.2 h, stopped HEC-RAS reached 28Feb1987 07:04 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0060_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1001,STOPPED,,,,,,"idle 4.2 h, stopped HEC-RAS reached 22Jan2002 22:15 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0061_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1002,PRE-PROC,,,,,," User requested to save ['Geometry', 'Plan Data', 'Results'] (HEC-RAS not started)",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0063_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1004,POST-PROC,,,,1.0,1.4,"HEC-RAS done; extracting, QA/QC",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0064_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1005,PRE-PROC,,,,,," User requested to save ['Geometry', 'Plan Data', 'Results'] (HEC-RAS not started)",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0065_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1006,POST-PROC,,,,1.0,1.2,"HEC-RAS done; extracting, QA/QC",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0067_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1008,POST-PROC,,,,1.0,1.4,"HEC-RAS done; extracting, QA/QC",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0068_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1009,POST-PROC,,,,1.0,1.2,"HEC-RAS done; extracting, QA/QC",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0073_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1014,STOPPED,,,,,,"idle 3.4 h, stopped HEC-RAS reached 24Mar1987 10:05 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0074_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1015,STOPPED,,,,,,"idle 3.4 h, stopped HEC-RAS reached 31Dec1981 14:39 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0075_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1016,STOPPED,,,,,,"idle 3.4 h, stopped HEC-RAS reached 13Jan1982 09:05 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0076_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1017,STOPPED,,,,,,"idle 3.4 h, stopped HEC-RAS reached 13Jan1982 00:54 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0077_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1018,POST-PROC,,,,1.0,1.2,"HEC-RAS done; extracting, QA/QC",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0081_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1022,POST-PROC,,,,1.0,1.5,"HEC-RAS done; extracting, QA/QC",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0082_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1023,POST-PROC,,,,1.0,1.2,"HEC-RAS done; extracting, QA/QC",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0084_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1025,POST-PROC,,,,1.0,1.2,"HEC-RAS done; extracting, QA/QC",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0085_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1026,POST-PROC,,,,1.0,1.2,"HEC-RAS done; extracting, QA/QC",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0086_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1027,POST-PROC,,,,1.0,1.2,"HEC-RAS done; extracting, QA/QC",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0087_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1028,POST-PROC,,,,1.0,1.3,"HEC-RAS done; extracting, QA/QC",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0088_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1029,PRE-PROC,,,,,," User requested to save ['Geometry', 'Plan Data', 'Results'] (HEC-RAS not started)",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0089_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1030,RUNNING,7.6,,,0.9514925373134329,2.0,at 25Mar1985 06:15,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0090_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1031,RUNNING,7.4,,,0.9515339966832503,2.0,at 04Apr1998 08:15,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0091_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1032,RUNNING,7.5,,,0.9586235489220564,1.9,at 21Mar1991 19:41,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0092_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1033,RUNNING,7.4,,,0.9482587064676616,2.0,at 03Feb2013 16:36,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0098_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1039,RUNNING,7.6,,,0.7506633499170812,4.1,at 22Feb2002 17:53,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0099_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1040,RUNNING,7.5,,,0.7255389718076286,4.4,at 29Nov1983 22:50,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0100_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1041,RUNNING,7.5,,,0.702653399668325,4.8,at 10Apr1993 23:14,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0101_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1042,RUNNING,7.5,,,0.7416252072968491,4.2,at 18Feb1990 00:04,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0102_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1043,RUNNING,7.4,,,0.8169568822553898,3.3,at 03May2017 10:12,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0103_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1044,RUNNING,7.4,,,0.8273217247097844,3.2,at 01Apr2001 07:17,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0104_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1045,RUNNING,7.4,,,0.8291873963515755,3.1,at 27Jan2010 14:40,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0105_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1046,RUNNING,7.4,,,0.7965588723051409,3.5,at 02Dec2001 11:06,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0106_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1047,RUNNING,7.4,,,0.6197346600331675,6.2,at 02Jan2003 01:34,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0107_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1048,RUNNING,7.4,,,0.6143034825870647,6.3,at 27Feb2013 06:28,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0108_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1049,RUNNING,7.4,,,0.6055555555555555,6.4,at 10Oct2018 18:43,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0109_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1050,RUNNING,7.4,,,0.6283582089552239,6.0,at 30Mar2001 15:18,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0110_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1051,RUNNING,7.4,,,0.6508291873963515,5.6,at 01Feb2013 04:49,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0111_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1052,RUNNING,7.4,,,0.6468490878938641,5.6,at 28Feb1982 14:01,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0112_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1053,RUNNING,7.4,,,0.6486318407960199,5.6,at 10Apr1993 12:22,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0113_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1054,RUNNING,7.3,,,0.6577529021558873,5.4,at 25Dec2015 05:12,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0114_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1055,RUNNING,7.4,,,0.6453980099502488,5.7,at 23May1991 00:43,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0115_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1056,RUNNING,7.4,,,0.6582918739635157,5.4,at 21Feb2019 20:19,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0116_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1057,RUNNING,7.4,,,0.6553897180762852,5.5,at 24Mar1979 22:44,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0117_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1058,RUNNING,7.5,,,0.6606135986733002,5.5,at 02Jan2003 09:47,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0118_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1059,RUNNING,7.4,,,0.8225953565505805,3.2,at 08Feb1992 08:20,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0119_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1060,RUNNING,7.4,,,0.8171641791044776,3.3,at 11Apr1993 22:15,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0120_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1061,RUNNING,7.4,,,0.8051409618573798,3.4,at 09Jul2010 18:50,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0121_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1062,RUNNING,7.4,,,0.8172885572139303,3.3,at 22Jan1988 17:16,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0122_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1063,STOPPED,,,,,,"idle 6.0 h, stopped HEC-RAS reached 22Dec1982 06:45 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0123_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1064,STOPPED,,,,,,"idle 6.0 h, stopped HEC-RAS reached 24Feb1982 09:07 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0124_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1065,STOPPED,,,,,,"idle 6.0 h, stopped HEC-RAS reached 23Feb2013 09:19 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0125_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1066,STOPPED,,,,,,"idle 6.0 h, stopped HEC-RAS reached 02Feb1992 16:55 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0126_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1067,RUNNING,7.3,,,0.6616500829187397,5.4,at 24Jan2002 22:59,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0127_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1068,RUNNING,7.3,,,0.6532752902155887,5.5,at 22Jan1981 07:18,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0128_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1069,RUNNING,7.4,,,0.6567164179104478,5.5,at 28Feb1987 08:00,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0129_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1070,RUNNING,7.3,,,0.6452321724709784,5.6,at 28Feb1987 05:41,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0130_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1071,STOPPED,,,,,,"idle 3.6 h, stopped HEC-RAS reached 26Feb1987 10:22 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0131_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1072,STOPPED,,,,,,"idle 3.6 h, stopped HEC-RAS reached 02Feb2006 05:31 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0132_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1073,STOPPED,,,,,,"idle 3.6 h, stopped HEC-RAS reached 07Jan2016 16:41 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0133_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1074,STOPPED,,,,,,"idle 3.6 h, stopped HEC-RAS reached 19Jan1988 08:27 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0134_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1075,RUNNING,7.3,,,0.7877694859038142,3.6,at 18Dec1982 08:20,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0135_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1076,RUNNING,7.3,,,0.7908374792703151,3.5,at 18Mar2001 00:57,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0136_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1077,RUNNING,7.3,,,0.7937396351575455,3.5,at 03Mar1987 08:32,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0137_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1078,RUNNING,7.3,,,0.805804311774461,3.4,at 24Feb1990 23:58,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0138_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1079,STOPPED,,,,,,"idle 6.0 h, stopped HEC-RAS reached 12Jan1989 00:23 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0139_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1080,STOPPED,,,,,,"idle 6.0 h, stopped HEC-RAS reached 26Mar2001 13:33 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0140_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1081,STOPPED,,,,,,"idle 6.0 h, stopped HEC-RAS reached 15Jan1984 18:56 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0141_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1082,STOPPED,,,,,,"idle 6.0 h, stopped HEC-RAS reached 07Jan1984 13:18 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0142_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1083,RUNNING,7.3,,,0.6382669983416251,5.7,at 03Feb1981 00:17,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0143_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1084,RUNNING,7.3,,,0.6472636815920397,5.6,at 06Feb1992 21:06,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0144_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1085,RUNNING,7.3,,,0.642910447761194,5.7,at 08Jul2010 10:13,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0145_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1086,RUNNING,7.3,,,0.6342039800995024,5.8,at 24Mar1979 18:28,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0146_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1087,STOPPED,,,,,,"idle 4.2 h, stopped HEC-RAS reached 01Feb2006 12:48 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0147_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1088,STOPPED,,,,,,"idle 4.2 h, stopped HEC-RAS reached 01Feb2022 06:53 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0148_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1089,STOPPED,,,,,,"idle 4.2 h, stopped HEC-RAS reached 18Jan1988 16:25 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0149_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1090,STOPPED,,,,,,"idle 4.2 h, stopped HEC-RAS reached 04Feb1992 10:36 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0150_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1091,RUNNING,7.3,,,0.7562189054726368,4.0,at 23Jan1981 04:00,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0151_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1092,RUNNING,7.3,,,0.7527777777777778,4.0,at 28Feb2013 10:18,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0152_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1093,RUNNING,7.2,,,0.7580431177446103,3.9,at 26Jan2019 07:22,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0153_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1094,RUNNING,7.2,,,0.740257048092869,4.2,at 26Jan2019 03:47,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0154_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1095,RUNNING,7.2,,,0.7975124378109454,3.5,at 28Feb2013 19:18,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0155_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1096,RUNNING,7.3,,,0.7975538971807629,3.5,at 02Feb2013 10:18,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0156_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1097,RUNNING,7.2,,,0.8211442786069653,3.2,at 23Jan1981 17:03,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0157_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1098,RUNNING,7.2,,,0.7983830845771144,3.4,at 02Feb1991 03:28,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0158_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1099,STOPPED,,,,,,"idle 3.6 h, stopped HEC-RAS reached 21Feb1990 16:56 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0159_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1100,STOPPED,,,,,,"idle 3.6 h, stopped HEC-RAS reached 21Feb1990 16:59 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0160_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1101,STOPPED,,,,,,"idle 3.6 h, stopped HEC-RAS reached 02Feb2006 00:59 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0161_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1102,STOPPED,,,,,,"idle 3.6 h, stopped HEC-RAS reached 10Jan2020 01:58 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0162_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1103,RUNNING,7.2,,,0.6038971807628525,6.4,at 11Jan2016 00:23,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0163_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1104,RUNNING,7.2,,,0.5906301824212272,6.6,at 11Jan1984 08:43,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0164_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1105,RUNNING,7.2,,,0.6143034825870647,6.2,at 10Oct2018 20:28,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0165_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1106,RUNNING,7.2,,,0.5999585406301824,6.4,at 08Feb2013 16:35,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0166_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1107,RUNNING,5.8,,,0.9200248756218906,2.1,at 06Feb2006 08:55,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0167_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1108,RUNNING,5.8,,,0.9321724709784411,2.0,at 27Jan2019 18:22,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0168_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1109,RUNNING,5.8,,,0.9201077943615257,2.1,at 22Jan2020 12:56,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0169_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1110,RUNNING,5.8,,,0.8688225538971808,2.5,at 27Mar1987 16:38,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0170_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1111,RUNNING,5.8,,,0.9509950248756219,1.9,at 25Mar1985 06:09,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0171_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1112,RUNNING,5.8,,,0.9190298507462686,2.1,at 14Jan2020 08:43,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0172_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1113,RUNNING,5.8,,,0.9174129353233831,2.1,at 24Mar1985 23:24,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0173_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1114,RUNNING,5.8,,,0.9268242122719734,2.1,at 14Jan2020 10:17,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0174_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1115,STOPPED,,,,,,"idle 2.9 h, stopped HEC-RAS reached 18Jan2020 03:23 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0175_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1116,STOPPED,,,,,,"idle 2.9 h, stopped HEC-RAS reached 23Mar1987 13:22 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0176_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1117,STOPPED,,,,,,"idle 2.9 h, stopped HEC-RAS reached 20Mar1985 12:23 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0177_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1118,STOPPED,,,,,,"idle 2.9 h, stopped HEC-RAS reached 20Mar1985 11:11 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0178_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1119,RUNNING,3.9,,,0.6282338308457712,3.9,at 22Mar1985 13:16,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0179_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1120,RUNNING,3.9,,,0.6347844112769486,3.9,at 25Jan2019 06:35,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0180_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1121,RUNNING,3.9,,,0.6264096185737976,4.0,at 01May2017 19:54,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0181_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1122,RUNNING,3.9,,,0.6519900497512439,3.7,at 26Dec1982 13:03,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0182_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1123,RUNNING,3.9,,,0.6207296849087894,4.0,at 02Jan2021 13:46,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0183_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1124,RUNNING,3.9,,,0.6295605306799337,3.9,at 17Dec1982 00:32,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0184_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1125,RUNNING,3.9,,,0.645771144278607,3.8,at 13Jan1993 02:48,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0185_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1126,RUNNING,3.9,,,0.6305970149253731,3.9,at 02Feb2007 15:45,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0186_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1127,STOPPED,,,,,,"idle 2.8 h, stopped HEC-RAS reached 12Feb2003 09:52 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0187_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1128,STOPPED,,,,,,"idle 2.8 h, stopped HEC-RAS reached 16Jan1988 14:01 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0188_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1129,STOPPED,,,,,,"idle 2.8 h, stopped HEC-RAS reached 27Jan2013 11:03 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0189_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1130,STOPPED,,,,,,"idle 2.8 h, stopped HEC-RAS reached 18Feb1997 08:10 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0190_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1131,RUNNING,3.3,,,0.34233001658374795,8.0,at 30Dec1981 11:48,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0191_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1132,RUNNING,3.3,,,0.32972636815920403,8.4,at 22Dec2015 11:16,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0192_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1133,RUNNING,3.4,,,0.33561359867330015,8.3,at 15Jan2010 20:27,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0193_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1134,RUNNING,3.3,,,0.33088723051409624,8.4,at 03Feb2018 04:30,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0194_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1135,RUNNING,3.4,,,0.3738391376451078,7.2,at 14Dec1982 21:08,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0195_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1136,RUNNING,3.4,,,0.3771144278606965,7.2,at 18Jan1991 14:48,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0196_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1137,RUNNING,3.4,,,0.3756633499170813,7.2,at 25Feb2013 06:30,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0197_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1138,RUNNING,3.3,,,0.37151741293532337,7.3,at 21Feb1998 22:40,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0198_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1139,STOPPED,,,,,,"idle 2.8 h, stopped HEC-RAS reached 04Jan2016 10:24 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0199_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1140,STOPPED,,,,,,"idle 2.8 h, stopped HEC-RAS reached 29Jan1981 01:38 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0200_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1141,STOPPED,,,,,,"idle 2.8 h, stopped HEC-RAS reached 10Dec2003 05:32 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0201_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1142,STOPPED,,,,,,"idle 2.8 h, stopped HEC-RAS reached 05Apr1993 11:31 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0202_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1143,STOPPED,,,,,,"idle 2.8 h, stopped HEC-RAS reached 28Dec1981 00:43 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0203_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1144,STOPPED,,,,,,"idle 2.8 h, stopped HEC-RAS reached 20Dec2015 02:23 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0204_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1145,STOPPED,,,,,,"idle 2.8 h, stopped HEC-RAS reached 04Jan2016 10:11 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0205_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1146,STOPPED,,,,,,"idle 2.8 h, stopped HEC-RAS reached 16Jan1988 06:47 -> rerun",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0206_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1147,RUNNING,2.8,,,0.2576699834162521,9.8,at 08Jan1984 13:47,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0207_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1148,RUNNING,2.8,,,0.2611525704809287,9.6,at 12Jan2005 00:29,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0208_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1149,RUNNING,2.8,,,0.25808457711442784,9.7,at 29Dec1981 18:52,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0209_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1150,RUNNING,2.8,,,0.2601160862354892,9.7,at 13Dec1982 22:17,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0210_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1151,RUNNING,2.8,,,0.3130182421227197,7.8,at 06Jan2016 15:55,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0211_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1152,RUNNING,2.8,,,0.3067578772802653,8.0,at 15Feb2020 04:39,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0212_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1153,RUNNING,2.8,,,0.30161691542288555,8.1,at 18Feb2002 23:37,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0213_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1154,RUNNING,2.8,,,0.30418739635157543,8.0,at 13Mar2001 23:08,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0214_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1155,RUNNING,2.6,,,0.35199004975124376,6.4,at 09Jan1984 08:45,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0215_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1156,RUNNING,2.6,,,0.358665008291874,6.3,at 20Mar1985 07:05,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0216_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1157,RUNNING,2.6,,,0.3460199004975124,6.6,at 06Jan2016 22:33,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0217_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1158,RUNNING,2.6,,,0.35082918739635155,6.5,at 24Dec1982 00:31,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0218_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1159,RUNNING,2.5,,,0.22885572139303484,10.0,at 09Feb1993 06:00,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0219_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1160,RUNNING,2.5,,,0.22155887230514096,10.4,at 13Mar2001 06:32,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0220_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1161,RUNNING,2.5,,,0.22989220563847432,10.0,at 03Apr1997 15:12,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0221_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1162,RUNNING,2.5,,,0.22346600331674957,10.3,at 03Feb1992 07:55,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0222_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1163,RUNNING,2.5,,,0.14112769485903814,16.8,at 28Mar1998 13:22,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0223_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1164,RUNNING,2.5,,,0.13980099502487564,17.0,at 21Mar1987 14:06,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0224_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1165,RUNNING,2.5,,,0.14004975124378108,16.9,at 24Feb1987 00:09,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0225_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1166,RUNNING,2.5,,,0.1449004975124378,16.4,at 24Feb1987 01:07,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0226_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1167,RUNNING,2.5,,,0.14162520729684908,16.7,at 28Dec1981 19:28,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0227_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1168,RUNNING,2.5,,,0.1395107794361526,16.9,at 02Feb1992 15:02,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0228_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1169,RUNNING,2.5,,,0.1367330016583748,17.3,at 20Jan2002 13:29,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0229_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1170,RUNNING,2.5,,,0.13855721393034826,17.1,at 10Jan2005 23:51,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0230_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1171,RUNNING,2.3,,,0.047553897180762854,9.9,at 19Mar1979 20:33,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0231_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1172,RUNNING,2.3,,,0.04958540630182421,9.9,at 19Mar1979 20:58,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0232_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1173,RUNNING,2.3,,,0.04871475953565506,9.9,at 28Dec1981 00:47,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0233_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1174,RUNNING,2.3,,,0.048631840796019905,9.9,at 15Jan1991 20:46,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0234_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1175,RUNNING,2.3,,,0.0480514096185738,9.9,at 06Oct2018 02:39,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0235_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1176,RUNNING,2.3,,,0.04701492537313433,9.9,at 20Mar1987 19:27,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0236_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1177,RUNNING,2.3,,,0.04701492537313433,9.9,at 18May1991 00:27,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0237_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1178,RUNNING,2.3,,,0.047678275290215594,9.9,at 01May1999 18:35,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0238_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1179,RUNNING,2.3,,,0.14660033167495853,14.9,at 17Dec2022 19:28,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0239_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1180,RUNNING,2.3,,,0.14933665008291874,14.6,at 06Apr1993 08:01,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0240_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1181,RUNNING,2.3,,,0.14481757877280266,15.1,at 28Mar1998 14:06,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0241_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1182,RUNNING,2.3,,,0.14680762852404644,14.9,at 01Feb2018 15:30,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0242_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1183,RUNNING,2.0,,,0.003441127694859038,10.3,at 19Jan2019 23:41,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0243_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1184,RUNNING,2.0,,,0.004187396351575456,10.3,at 28Jan1981 16:50,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0244_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1185,RUNNING,2.0,,,0.0033167495854063015,10.3,at 22Feb2013 03:40,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0245_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1186,RUNNING,2.0,,,0.0035240464344941957,10.3,at 05Apr1993 02:42,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0246_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1187,RUNNING,1.9,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0247_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1188,RUNNING,1.9,,,0.0002487562189054727,10.3,at 19Mar1979 11:03,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0248_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1189,RUNNING,1.9,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0249_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1190,RUNNING,1.9,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0250_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1191,RUNNING,1.9,,,0.08279436152570481,22.2,at 17Mar1985 23:38,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0251_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1192,RUNNING,1.9,,,0.08420398009950249,21.8,at 28Dec1981 07:55,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0252_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1193,RUNNING,1.9,,,0.08565505804311774,21.4,at 21Jan2010 09:13,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0253_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1194,RUNNING,1.9,,,0.08407960199004974,21.8,at 30Jan2022 02:54,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0254_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1195,RUNNING,1.5,,,0.17943615257048096,8.4,at 21Mar1987 22:04,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0255_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1196,RUNNING,1.5,,,0.18047263681592038,8.4,at 18Mar1985 19:16,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0256_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1197,RUNNING,1.5,,,0.17176616915422885,8.7,at 26Feb1987 03:31,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0257_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1198,RUNNING,1.5,,,0.17591210613598673,8.5,at 27Jan1991 22:21,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0258_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1199,RUNNING,1.5,,,0.041915422885572144,9.9,at 15Jan2020 04:25,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0259_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1200,RUNNING,1.5,,,0.04154228855721393,9.9,at 17Mar1985 15:21,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0260_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1201,RUNNING,1.5,,,0.043615257048092874,9.9,at 20Mar1987 18:46,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0261_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1202,RUNNING,1.5,,,0.03967661691542288,10.0,at 18Feb1990 13:58,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0262_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1203,RUNNING,1.5,,,0.04411276948590381,9.9,at 20Jan2019 07:52,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0263_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1204,RUNNING,1.5,,,0.047470978441127694,9.9,at 07Jan2020 01:32,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0264_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1205,RUNNING,1.5,,,0.04407131011608623,9.9,at 18Feb1983 07:51,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0265_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1206,RUNNING,1.6,,,0.05688225538971808,28.0,at 17Mar1985 18:26,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0266_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1207,RUNNING,1.5,,,0.04216417910447761,9.9,at 20Jan2019 07:28,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0267_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1208,RUNNING,1.5,,,0.040961857379767826,9.9,at 20Jan2019 07:14,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0268_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1209,RUNNING,1.5,,,0.04046434494195688,9.9,at 17Mar1985 15:08,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0269_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1210,RUNNING,1.5,,,0.041583747927031504,9.9,at 17Mar1985 15:21,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0270_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1211,RUNNING,1.5,,,0.041832504145936984,9.9,at 20Jul2020 14:24,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0271_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1212,RUNNING,1.5,,,0.04253731343283582,9.9,at 21Dec1982 10:33,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0272_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1213,RUNNING,1.5,,,0.04216417910447761,9.9,at 19Mar2022 08:28,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0273_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1214,RUNNING,1.6,,,0.0529436152570481,29.9,at 27Jan2013 04:38,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0274_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1215,RUNNING,1.5,,,0.11587893864013267,13.0,at 03Feb1979 21:17,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0275_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1216,RUNNING,1.5,,,0.1109452736318408,13.7,at 28Dec1981 13:18,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0276_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1217,RUNNING,1.5,,,0.11786898839137645,13.1,at 18Feb1983 22:41,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0277_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1218,RUNNING,1.5,,,0.11430348258706469,13.3,at 26Mar2001 07:58,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0278_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1219,RUNNING,1.5,,,0.10277777777777779,14.5,at 17Feb2002 07:39,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0279_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1220,RUNNING,1.5,,,0.10348258706467663,14.4,at 01Feb2018 06:48,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0280_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1221,RUNNING,1.5,,,0.10406301824212273,14.3,at 16Jan1991 07:55,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0281_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1222,RUNNING,1.5,,,0.1038971807628524,14.3,at 28Dec1981 11:53,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0282_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1223,RUNNING,1.5,,,0.04075456053067993,9.9,at 13Jan2010 09:11,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0283_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1224,RUNNING,1.5,,,0.041666666666666664,9.9,at 09Apr2020 13:22,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0284_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1225,RUNNING,1.5,,,0.04063018242122719,9.9,at 28Dec2002 05:10,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0285_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1226,RUNNING,1.5,,,0.039966832504145934,10.0,at 03Feb1979 06:02,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0286_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1227,RUNNING,1.6,,,0.11529850746268656,13.7,at 20Mar1979 10:10,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0287_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1228,RUNNING,1.5,,,0.11019900497512437,13.9,at 24Feb1982 02:09,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0288_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1229,RUNNING,1.5,,,0.10912106135986734,14.0,at 05Dec1987 07:56,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0289_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1230,RUNNING,1.5,,,0.10729684908789386,14.3,at 14Mar1991 16:34,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0290_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1231,RUNNING,1.5,,,0.04203980099502487,9.9,at 28Dec2020 17:27,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0291_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1232,RUNNING,1.5,,,0.04108623548922056,9.9,at 10Jan2005 04:15,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0292_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1233,RUNNING,1.5,,,0.039303482587064675,10.0,at 17Feb1997 23:54,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0293_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1234,RUNNING,1.5,,,0.03992537313432836,10.0,at 03Feb1979 06:01,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0294_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1235,RUNNING,1.5,,,0.04129353233830846,9.9,at 26Apr2017 22:18,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0295_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1236,RUNNING,1.5,,,0.04137645107794361,9.9,at 26Nov2001 03:19,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0296_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1237,RUNNING,1.5,,,0.04058872305140962,9.9,at 06Jan2016 07:09,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0297_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1238,RUNNING,1.5,,,0.041127694859038146,9.9,at 10Jan2005 04:16,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0298_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1239,RUNNING,1.5,,,0.1736318407960199,8.8,at 11Jan2005 06:54,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0299_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1240,RUNNING,1.5,,,0.1755804311774461,8.6,at 28Jan2013 05:17,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0300_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1241,RUNNING,1.5,,,0.175787728026534,8.7,at 05Jan2016 12:20,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0301_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1242,RUNNING,1.5,,,0.17964344941956883,8.5,at 17Jan1988 09:06,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0302_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1243,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0303_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1244,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0304_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1245,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0305_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1246,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0306_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1247,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0307_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1248,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0308_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1249,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0309_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1250,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0310_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1251,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0311_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1252,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0312_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1253,PRE-PROC,,,,,,override run-controller metadata (HEC-RAS not started),2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0313_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1254,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0314_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1255,RUNNING,1.0,,,0.16061359867330016,6.9,at 24Feb1982 12:17,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0315_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1256,RUNNING,1.0,,,0.16102819237147595,6.9,at 11Jan2005 04:22,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0316_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1257,RUNNING,1.0,,,0.16160862354892205,6.8,at 08Feb1993 16:29,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0317_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1258,RUNNING,1.0,,,0.1583747927031509,7.0,at 24Feb1987 03:50,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0318_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1259,RUNNING,0.8333333333333334,,,0.1343698175787728,6.9,at 08Apr1979 16:00,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0319_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1260,RUNNING,0.8166666666666667,,,0.13121890547263682,7.0,at 07Jan1984 12:22,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0320_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1261,RUNNING,0.8166666666666667,,,0.13200663349917083,7.0,at 08Mar2013 10:32,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0321_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1262,RUNNING,0.8166666666666667,,,0.1291044776119403,7.1,at 03Feb1979 23:57,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0322_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1263,RUNNING,0.8166666666666667,,,0.13130182421227196,7.0,at 17Feb2002 13:23,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0323_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1264,RUNNING,0.8166666666666667,,,0.12856550580431175,7.1,at 10Jan2005 21:50,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0324_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1265,RUNNING,0.8166666666666667,,,0.12902155887230515,7.1,at 06Oct2018 18:56,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0325_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1266,RUNNING,0.8166666666666667,,,0.12898009950248757,7.1,at 21Mar1987 11:55,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0326_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1267,RUNNING,0.8166666666666667,,,0.11339137645107795,8.0,at 12Mar2001 08:47,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0327_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1268,RUNNING,0.8166666666666667,,,0.10982587064676616,8.2,at 02Apr1997 15:04,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0328_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1269,RUNNING,0.8166666666666667,,,0.11401326699834163,7.9,at 23Feb2013 01:55,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0329_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1270,RUNNING,0.8166666666666667,,,0.11434494195688226,7.9,at 02Feb1992 09:59,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0330_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1271,RUNNING,0.8166666666666667,,,0.11811774461028193,7.7,at 06Oct2018 16:44,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0331_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1272,RUNNING,0.8166666666666667,,,0.11160862354892205,8.1,at 21Mar1987 08:26,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0332_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1273,RUNNING,0.8166666666666667,,,0.11471807628524047,7.9,at 14Jan2010 00:03,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0333_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1274,RUNNING,0.8166666666666667,,,0.11500829187396351,7.9,at 25Dec2015 14:07,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0334_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1275,RUNNING,0.8166666666666667,,,0.11322553897180762,8.0,at 23Feb1987 18:45,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0335_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1276,RUNNING,0.8166666666666667,,,0.1150497512437811,7.9,at 10Apr2020 04:07,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0336_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1277,RUNNING,0.8166666666666667,,,0.11658374792703151,7.8,at 01Feb2018 09:26,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0337_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1278,RUNNING,0.8166666666666667,,,0.11641791044776119,7.8,at 01Feb2018 09:24,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0438_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1379,RUNNING,0.8,,,0.1316334991708126,6.9,at 15Jan2020 22:27,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0439_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1380,RUNNING,0.8,,,0.13022388059701492,6.9,at 07Jan2020 18:10,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0440_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1381,RUNNING,0.8,,,0.12844112769485905,7.0,at 07Jan2020 17:49,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0441_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1382,RUNNING,0.8,,,0.12939469320066335,7.0,at 07Jan2020 18:00,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0442_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1383,RUNNING,0.8,,,0.12429519071310116,7.2,at 21Mar1987 10:59,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0443_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1384,RUNNING,0.7833333333333333,,,0.12827529021558873,6.9,at 18Mar1985 08:47,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0444_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1385,RUNNING,0.7833333333333333,,,0.1296849087893864,6.9,at 15Jan2020 22:04,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0445_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1386,RUNNING,0.7833333333333333,,,0.1284825870646766,7.0,at 18Mar1985 08:49,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0446_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1387,RUNNING,0.5833333333333334,,,0.04987562189054726,9.9,at 20Mar1987 20:01,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0447_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1388,RUNNING,0.5833333333333334,,,0.050165837479270316,12.5,at 20Jan2019 09:05,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0448_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1389,RUNNING,0.5833333333333334,,,0.05066334991708126,12.4,at 20Jan2019 09:11,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0449_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1390,RUNNING,0.5833333333333334,,,0.05,9.9,at 20Jan2019 09:03,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0450_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1391,RUNNING,0.36666666666666664,,,0.02437810945273632,10.1,at 05Oct2018 21:54,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0451_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1392,RUNNING,0.3,,,0.01517412935323383,10.2,at 09Apr2020 08:03,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0452_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1393,RUNNING,0.38333333333333336,,,0.027197346600331674,10.1,at 01Apr1997 22:28,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0453_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1394,RUNNING,0.3333333333333333,,,0.019402985074626865,10.1,at 17Feb1997 19:54,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0454_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1395,RUNNING,0.2833333333333333,,,0.03793532338308458,10.0,at 28Dec1984 19:37,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0455_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1396,RUNNING,0.3,,,0.03810116086235489,10.0,at 19Feb1998 03:39,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0456_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1397,RUNNING,0.38333333333333336,,,0.04929519071310116,9.9,at 11Jan1989 05:54,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0457_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1398,RUNNING,0.35,,,0.04407131011608623,9.9,at 29Jan2022 18:51,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0458_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1399,RUNNING,0.2833333333333333,,,0.019402985074626865,10.1,at 01Apr1997 20:54,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0459_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1400,RUNNING,0.3,,,0.020439469320066336,10.1,at 16Feb2002 15:06,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0460_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1401,RUNNING,0.3,,,0.020190713101160863,10.1,at 03Feb1979 02:03,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0461_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1402,RUNNING,0.36666666666666664,,,0.03150912106135986,10.0,at 17Feb1997 22:20,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0462_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1403,RUNNING,0.3,,,0.015671641791044775,10.2,at 11Feb2003 20:09,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0463_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1404,RUNNING,0.3,,,0.015671641791044775,10.2,at 09Jan2005 23:09,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0464_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1405,RUNNING,0.35,,,0.0236318407960199,10.1,at 28Jan1981 20:45,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0465_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1406,RUNNING,0.31666666666666665,,,0.01902985074626866,10.1,at 22Feb2013 06:49,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0466_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1407,RUNNING,0.2833333333333333,,,0.014427860696517412,10.2,at 01Apr1997 19:54,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0467_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1408,RUNNING,0.3,,,0.016666666666666666,10.2,at 21Dec1982 05:21,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0468_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1409,RUNNING,0.31666666666666665,,,0.01961028192371476,10.1,at 20Jul2020 09:56,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0469_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1410,RUNNING,0.2833333333333333,,,0.01517412935323383,10.2,at 19Mar1979 14:03,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0470_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1411,RUNNING,0.26666666666666666,,,0.011111111111111112,10.2,at 17Feb1997 18:14,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0471_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1412,RUNNING,0.2833333333333333,,,0.01148424543946932,10.2,at 22Feb1987 22:18,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0472_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1413,RUNNING,0.36666666666666664,,,0.022056384742951907,10.1,at 25Nov2001 23:26,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0473_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1414,RUNNING,0.2833333333333333,,,0.011650082918739636,10.2,at 06Jan1984 12:20,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0474_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1415,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0475_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1416,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0476_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1417,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0477_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1418,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0478_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1419,RUNNING,0.45,,,0.038432835820895524,10.0,at 27Jan2013 01:43,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0479_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1420,RUNNING,0.45,,,0.037023217247097846,10.0,at 17Feb1997 23:26,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0480_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1421,RUNNING,0.35,,,0.024170812603648426,10.1,at 03Jul2010 05:51,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0481_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1422,RUNNING,0.36666666666666664,,,0.024419568822553896,10.1,at 26Jan2020 01:54,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0482_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1423,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0483_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1424,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0484_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1425,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0485_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1426,RUNNING,,,,0.0,,"HEC-RAS starting (geometry, initial conditions)",2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0486_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1427,RUNNING,0.2833333333333333,,,0.015049751243781094,10.2,at 13Feb1983 07:01,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0487_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1428,RUNNING,0.31666666666666665,,,0.018739635157545606,10.1,at 28Jan1981 19:46,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0488_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1429,RUNNING,0.3,,,0.01575456053067993,10.2,at 24Feb1987 20:10,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0489_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1430,RUNNING,0.3,,,0.016044776119402984,10.2,at 28Dec2020 12:13,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0490_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1431,RUNNING,0.3,,,0.014427860696517412,10.2,at 24Dec2015 17:54,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0491_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1432,RUNNING,0.26666666666666666,,,0.010986733001658375,10.2,at 06Jan2020 18:12,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0492_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1433,RUNNING,0.36666666666666664,,,0.02230514096185738,10.1,at 04Jan2016 05:29,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0493_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1434,RUNNING,0.26666666666666666,,,0.010199004975124376,10.2,at 19Jan1999 03:03,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0494_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1435,RUNNING,0.3,,,0.016086235489220564,10.2,at 24Dec2015 18:14,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0495_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1436,RUNNING,0.2833333333333333,,,0.013681592039800995,10.2,at 01Feb1992 13:45,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0496_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1437,RUNNING,0.2833333333333333,,,0.013805970149253732,10.2,at 20Jan2010 18:46,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0497_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1438,RUNNING,0.2833333333333333,,,0.013391376451077944,10.2,at 17May1991 17:41,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0498_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1439,RUNNING,0.3,,,0.017371475953565505,10.2,at 19Jan2002 13:29,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0499_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1440,RUNNING,0.3,,,0.017951907131011607,10.1,at 22Feb1987 23:36,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0500_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1441,RUNNING,0.26666666666666666,,,0.011276948590381426,10.2,at 28Dec2020 11:16,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0501_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1442,RUNNING,0.3333333333333333,,,0.022139303482587067,10.1,at 18Feb1990 10:27,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0502_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1443,RUNNING,0.3,,,0.041791044776119404,9.9,at 03Feb1979 06:24,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0503_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1444,RUNNING,0.31666666666666665,,,0.046268656716417916,9.9,at 18Feb1990 15:18,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0504_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1445,RUNNING,0.36666666666666664,,,0.054270315091210615,8.1,at 21Jan2010 02:54,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0505_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1446,RUNNING,0.3,,,0.04311774461028192,9.9,at 10Jan2005 04:40,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0506_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1447,RUNNING,0.3,,,0.05116086235489221,7.1,at 10Dec2003 06:17,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0507_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1448,RUNNING,0.3,,,0.05364842454394693,6.8,at 29Jan1981 02:47,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0508_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1449,RUNNING,0.31666666666666665,,,0.05124378109452737,7.4,at 01Feb1992 21:18,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0509_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1450,RUNNING,0.3,,,0.051824212271973466,7.0,at 26Jan1991 21:25,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0510_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1451,RUNNING,0.35,,,0.04966832504145936,9.9,at 29Sep2017 11:59,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0511_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1452,RUNNING,0.2833333333333333,,,0.040961857379767826,9.9,at 20Mar1987 18:14,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0512_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1453,RUNNING,0.26666666666666666,,,0.040091210613598674,10.0,at 24Nov1983 05:03,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0513_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1454,RUNNING,0.25,,,0.03793532338308458,10.0,at 24Nov1983 04:37,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0514_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1455,RUNNING,0.23333333333333334,,,0.037728026533996685,10.0,at 20Dec2015 00:35,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0515_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1456,RUNNING,0.2,,,0.03076285240464345,10.0,at 17Mar1985 13:11,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0516_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1457,RUNNING,0.23333333333333334,,,0.03466003316749586,10.0,at 17Jan1981 02:58,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0517_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1458,RUNNING,0.2,,,0.03291873963515754,10.0,at 01May1999 15:37,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0518_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1459,RUNNING,0.21666666666666667,,,0.04029850746268657,10.0,at 17Jan1981 04:06,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0519_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1460,RUNNING,0.23333333333333334,,,0.04220563847429518,9.9,at 17Mar1985 15:29,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0520_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1461,RUNNING,0.21666666666666667,,,0.03963515754560531,10.0,at 20Jan2019 06:58,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0521_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1462,RUNNING,0.21666666666666667,,,0.038764510779436157,10.0,at 17Mar1985 14:47,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0522_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1463,RUNNING,0.21666666666666667,,,0.005555555555555556,10.3,at 05Oct2018 18:07,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0523_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1464,RUNNING,0.2,,,0.0038971807628524046,10.3,at 19Jan1999 01:47,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0524_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1465,RUNNING,0.21666666666666667,,,0.005514096185737977,10.3,at 03Feb2013 17:06,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0525_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1466,RUNNING,0.21666666666666667,,,0.0057628524046434496,10.3,at 26Jan1991 12:09,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0526_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1467,RUNNING,0.06666666666666667,,,0.012810945273631842,10.2,at 03Feb1979 00:34,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0527_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1468,RUNNING,0.06666666666666667,,,0.01384742951907131,10.2,at 23Feb1982 06:47,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0528_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1469,RUNNING,0.06666666666666667,,,0.01318407960199005,10.2,at 14Jan2020 22:39,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0529_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1470,RUNNING,0.06666666666666667,,,0.014096185737976783,10.2,at 17Mar1985 09:50,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0530_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1471,RUNNING,0.1,,,0.020854063018242122,10.1,at 06Jan2020 20:11,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0531_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1472,RUNNING,0.1,,,0.02276119402985075,10.1,at 06Jan2020 20:34,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0532_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1473,RUNNING,0.1,,,0.02160033167495854,10.1,at 18Feb1990 10:20,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0533_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1474,RUNNING,0.08333333333333333,,,0.021351575456053068,10.1,at 06Jan2020 20:17,2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0534_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1475,PRE-PROC,,,,,,Applying CRS & Sorting Forcing Files (HEC-RAS not started),2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0535_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1476,PRE-PROC,,,,,,Applying CRS & Sorting Forcing Files (HEC-RAS not started),2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0536_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1477,PRE-PROC,,,,,,Applying CRS & Sorting Forcing Files (HEC-RAS not started),2026-11-23 14:15
+syn_event_Northeast_L-H-L_c0537_SM3_BF1_Base,akhalid_twi,AWS2 (akhalid_twi),1478,PRE-PROC,,,,,,Applying CRS & Sorting Forcing Files (HEC-RAS not started),2026-11-23 14:15
