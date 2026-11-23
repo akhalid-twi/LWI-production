@@ -8,7 +8,7 @@ import streamlit as st
 
 ROOT_DIR = r"https://raw.githubusercontent.com/akhalid-twi/LWI-production/refs/heads/main/assets"
 SCENARIOS = {"nontc_synthetic_base": "Synthetic Non-TC - BASE - NO SLR"}
-ACTIVE = ["RUNNING", "PRE-PROC", "POST-PROC", "STOPPED", "FAILED"]
+ACTIVE = ["RUNNING", "PRE-PROC", "POST-PROC", "QUEUED", "STOPPED", "FAILED"]
 
 st.set_page_config(page_title="LWI Live Progress", layout="wide")
 st.title("Live progress")
@@ -35,6 +35,7 @@ st.caption(f"Last update from the clusters: {upd}  ·  refreshed about every hou
 c1, c2, c3, c4 = st.columns(4)
 c1.metric("Running", int((prog.Status == "RUNNING").sum()))
 c2.metric("Pre / post-processing", int(prog.Status.isin(["PRE-PROC", "POST-PROC"]).sum()))
+c5 = st.columns(1)[0]; c5.metric("Queued", int((prog.Status == "QUEUED").sum()))
 c3.metric("Stopped / failed", int(prog.Status.isin(["STOPPED", "FAILED"]).sum()))
 eta = prog.loc[prog.Status.isin(["RUNNING", "POST-PROC"]), "Done in (h)"].max()
 c4.metric("Last running storm done in", f"~{eta:.1f} h" if pd.notna(eta) else "-")
@@ -60,7 +61,7 @@ view["Region"] = region[view.index]
 view["Progress"] = view["Progress"] * 100                                  # 0-1 -> percent
 view["Storm"] = (view["Directory"].str.replace("syn_event_", "", regex=False)
                  .str.replace("_SM3_BF1_Base", "", regex=False))
-order = {"RUNNING": 0, "POST-PROC": 1, "PRE-PROC": 2, "STOPPED": 3, "FAILED": 4}
+order = {"RUNNING": 0, "POST-PROC": 1, "PRE-PROC": 2, "QUEUED": 3, "STOPPED": 4, "FAILED": 5}
 view = view.assign(_o=view.Status.map(order)).sort_values(["_o", "Done in (h)"], na_position="last").drop(columns="_o")
 
 def _stage(status, note):

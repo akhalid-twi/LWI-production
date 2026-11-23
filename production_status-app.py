@@ -331,7 +331,7 @@ with context_manager:
     try:
         _p = load_csv(f"{ROOT_DIR}/{scenario_key}_simulation_progress.csv")
         _status = {"COMPLETE": "SUCCESS", "RUNNING": "Running", "PRE-PROC": "Running", "POST-PROC": "Running",
-                   "FAILED": "Failed", "STOPPED": "Stopped"}
+                   "FAILED": "Failed", "STOPPED": "Stopped", "QUEUED": "Queued"}
         dfc = _p.assign(Status=_p.Status.map(_status))
     except Exception:
         dfc = df
@@ -339,6 +339,7 @@ with context_manager:
     df_completed = dfc[dfc.Status == 'SUCCESS']
     df_not_running = df[df.Status!='Running']
     running_on_psc = int(len(dfc[dfc.Status=='Running']))
+    queued_on_psc = int(len(dfc[dfc.Status=='Queued']))
 
     total_simulations = int(scenario_cfg.get("total_simulations", 10_000))
 
@@ -350,12 +351,14 @@ with context_manager:
 
     st.markdown("---")
     st.subheader("Simulation Count")
-    col1, col2, col3  = st.columns(3, gap="medium")
+    col1, col2, col3, col4 = st.columns(4, gap="medium")
     with col1:
         st.metric("Completed", f"{completed_simulations:,}")
     with col2:
         st.metric("Running", f"{running_on_psc:,}")
     with col3:
+        st.metric("Queued", f"{queued_on_psc:,}")
+    with col4:
         st.metric("Total", f"{total_simulations:,}")
 
     # storms per region in the non-TC production (dropped storms excluded); None = not generated yet
@@ -372,11 +375,12 @@ with context_manager:
             in_region = region_of == region
             done = int((in_region & (dfc.Status == "SUCCESS")).sum())
             running = int((in_region & (dfc.Status == "Running")).sum())
-            if not total or done + running == 0:
+            queued = int((in_region & (dfc.Status == "Queued")).sum())
+            if not total or done + running + queued == 0:
                 continue
             st.progress(min(done / total, 1.0),
                         text=f"{region}: {done:,} / {total:,} complete ({100 * done / total:.0f}%)"
-                             + (f", {running:,} running" if running else ""))
+                             + (f", {running:,} running" if running else "") + (f", {queued:,} queued" if queued else ""))
 
     # --- compact cards: name, main number, small detail line (no arrows, fits narrow columns) ---
     def _cards(title, items):
@@ -397,28 +401,28 @@ with context_manager:
         items = []
         for region, total in REGION_TOTALS.items():
             r = by_reg.loc[region] if region in by_reg.index else {}
-            done, running = int(r.get("SUCCESS", 0)), int(r.get("Running", 0))
-            if done + running == 0:
+            done, running, queued = int(r.get("SUCCESS", 0)), int(r.get("Running", 0)), int(r.get("Queued", 0))
+            if done + running + queued == 0:
                 items.append((region, "not started", f"{total:,} storms" if total else ""))
             else:
                 pct = f" ({100 * done / total:.0f}%)" if total else ""
                 items.append((region, f"{done:,} / {total:,}{pct}" if total else f"{done:,}",
-                              f"{running:,} running" if running else ""))
+                              ", ".join(x for x in [f"{running:,} running" if running else "", f"{queued:,} queued" if queued else ""] if x)))
         _cards("By Region", items)
 
     # --- Where the simulations run (Platform column: "Stampede3 (<user>)", "AWS") ---
     if "Platform" in df.columns:
-        by_plat = (dfc[dfc.Status.isin(["SUCCESS", "Running"]) & (dfc.Platform.fillna("-") != "-")]
+        by_plat = (dfc[dfc.Status.isin(["SUCCESS", "Running", "Queued"]) & (dfc.Platform.fillna("-") != "-")]
                    .groupby(["Platform", "Status"]).size().unstack(fill_value=0))
         if len(by_plat):
             # detail line: completed / running per region, e.g. "West 420 done · Northeast 12 done, 85 running"
-            by_pr = (dfc[dfc.Status.isin(["SUCCESS", "Running"]) & (dfc.Platform.fillna("-") != "-")]
+            by_pr = (dfc[dfc.Status.isin(["SUCCESS", "Running", "Queued"]) & (dfc.Platform.fillna("-") != "-")]
                      .assign(Region=region_of).groupby(["Platform", "Region", "Status"]).size().unstack(fill_value=0))
             def _detail(pl):
                 parts = []
                 for reg, r in by_pr.loc[pl].iterrows() if pl in by_pr.index.get_level_values(0) else []:
-                    d, run = int(r.get("SUCCESS", 0)), int(r.get("Running", 0))
-                    parts.append(f"{reg} {d:,} done" + (f", {run:,} running" if run else ""))
+                    d, run, qd = int(r.get("SUCCESS", 0)), int(r.get("Running", 0)), int(r.get("Queued", 0))
+                    parts.append(f"{reg} {d:,} done" + (f", {run:,} running" if run else "") + (f", {qd:,} queued" if qd else ""))
                 return " · ".join(parts) or f"{int(by_plat.loc[pl].get('SUCCESS', 0)):,} completed"
             _cards("By Platform", [(pl, f"{int(r.get('Running', 0)):,} running", _detail(pl))
                                    for pl, r in by_plat.sort_index().iterrows()])
