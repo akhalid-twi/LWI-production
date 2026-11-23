@@ -40,10 +40,11 @@ eta = prog.loc[prog.Status.isin(["RUNNING", "POST-PROC"]), "Done in (h)"].max()
 c4.metric("Last running storm done in", f"~{eta:.1f} h" if pd.notna(eta) else "-")
 
 # --- per platform ---
-by_plat = (prog[prog.Status.isin(ACTIVE)].groupby(["Platform", "Status"]).size()
+region = prog["Directory"].astype(str).str.extract(r"syn_event_([A-Za-z]+)_", expand=False).fillna("Other")
+by_plat = (prog[prog.Status.isin(ACTIVE)].assign(Region=region).groupby(["Platform", "Region", "Status"]).size()
            .unstack(fill_value=0).reindex(columns=ACTIVE, fill_value=0))
 if len(by_plat):
-    st.subheader("By platform")
+    st.subheader("By platform and region")
     st.dataframe(by_plat, use_container_width=True)
 
 # --- every active storm ---
@@ -52,10 +53,10 @@ f1, f2, f3 = st.columns(3)
 status_pick = f1.multiselect("Status", ACTIVE, default=ACTIVE)
 plats = sorted(prog.Platform.dropna().unique())
 plat_pick = f2.multiselect("Platform", plats, default=plats)
-region = prog["Directory"].astype(str).str.extract(r"syn_event_([A-Za-z]+)_", expand=False).fillna("Other")
 regs = sorted(region.unique())
 reg_pick = f3.multiselect("Region", regs, default=regs)
 view = prog[prog.Status.isin(status_pick) & prog.Platform.isin(plat_pick) & region.isin(reg_pick)].copy()
+view["Region"] = region[view.index]
 view["Progress"] = view["Progress"] * 100                                  # 0-1 -> percent
 view["Storm"] = (view["Directory"].str.replace("syn_event_", "", regex=False)
                  .str.replace("_SM3_BF1_Base", "", regex=False))
@@ -79,7 +80,7 @@ def _stage(status, note):
 
 
 view["Stage"] = [_stage(st_, n) for st_, n in zip(view["Status"], view["Note"])]
-cols = ["Platform", "Row", "Storm", "Status", "Progress", "Run (h)", "Done in (h)", "Stage"]
+cols = ["Platform", "Region", "Row", "Storm", "Status", "Progress", "Run (h)", "Done in (h)", "Stage"]
 try:
     st.dataframe(
         view[cols], hide_index=True, use_container_width=True, height=600,

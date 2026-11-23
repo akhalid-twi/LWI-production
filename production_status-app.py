@@ -411,8 +411,16 @@ with context_manager:
         by_plat = (dfc[dfc.Status.isin(["SUCCESS", "Running"]) & (dfc.Platform.fillna("-") != "-")]
                    .groupby(["Platform", "Status"]).size().unstack(fill_value=0))
         if len(by_plat):
-            _cards("By Platform", [(pl, f"{int(r.get('Running', 0)):,} running",
-                                    f"{int(r.get('SUCCESS', 0)):,} completed")
+            # detail line: completed / running per region, e.g. "West 420 done · Northeast 12 done, 85 running"
+            by_pr = (dfc[dfc.Status.isin(["SUCCESS", "Running"]) & (dfc.Platform.fillna("-") != "-")]
+                     .assign(Region=region_of).groupby(["Platform", "Region", "Status"]).size().unstack(fill_value=0))
+            def _detail(pl):
+                parts = []
+                for reg, r in by_pr.loc[pl].iterrows() if pl in by_pr.index.get_level_values(0) else []:
+                    d, run = int(r.get("SUCCESS", 0)), int(r.get("Running", 0))
+                    parts.append(f"{reg} {d:,} done" + (f", {run:,} running" if run else ""))
+                return " · ".join(parts) or f"{int(by_plat.loc[pl].get('SUCCESS', 0)):,} completed"
+            _cards("By Platform", [(pl, f"{int(r.get('Running', 0)):,} running", _detail(pl))
                                    for pl, r in by_plat.sort_index().iterrows()])
 
     # per-storm live view lives on its own page (pages/1_Live_progress.py)
