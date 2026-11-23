@@ -13,6 +13,7 @@ import plotly.graph_objects as go
 from datetime import datetime, timezone
 from time import sleep
 from stqdm import stqdm
+import re
 import requests
 from collections import defaultdict
 
