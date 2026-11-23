@@ -410,22 +410,35 @@ with context_manager:
                               ", ".join(x for x in [f"{running:,} running" if running else "", f"{queued:,} queued" if queued else ""] if x)))
         _cards("By Region", items)
 
-    # --- Where the simulations run (Platform column: "Stampede3 (<user>)", "AWS") ---
+    # --- Where the simulations run: grouped by system (AWS clusters, then Stampede3 accounts) ---
     if "Platform" in df.columns:
-        by_plat = (dfc[dfc.Status.isin(["SUCCESS", "Running", "Queued"]) & (dfc.Platform.fillna("-") != "-")]
-                   .groupby(["Platform", "Status"]).size().unstack(fill_value=0))
-        if len(by_plat):
-            # detail line: completed / running per region, e.g. "West 420 done · Northeast 12 done, 85 running"
-            by_pr = (dfc[dfc.Status.isin(["SUCCESS", "Running", "Queued"]) & (dfc.Platform.fillna("-") != "-")]
-                     .assign(Region=region_of).groupby(["Platform", "Region", "Status"]).size().unstack(fill_value=0))
-            def _detail(pl):
-                parts = []
-                for reg, r in by_pr.loc[pl].iterrows() if pl in by_pr.index.get_level_values(0) else []:
-                    d, run, qd = int(r.get("SUCCESS", 0)), int(r.get("Running", 0)), int(r.get("Queued", 0))
-                    parts.append(f"{reg} {d:,} done" + (f", {run:,} running" if run else "") + (f", {qd:,} queued" if qd else ""))
-                return " · ".join(parts) or f"{int(by_plat.loc[pl].get('SUCCESS', 0)):,} completed"
-            _cards("By Platform", [(pl, f"{int(r.get('Running', 0)):,} running", _detail(pl))
-                                   for pl, r in by_plat.sort_index().iterrows()])
+        def _place(pl):
+            """Platform label -> (system, card name). 'AWS' = cluster 1, 'AWS2 (<anything>)' = cluster 2,
+            'Stampede3 (<user>)' = one card per TACC account."""
+            pl = str(pl)
+            if pl.startswith("AWS2"):
+                return "AWS", "AWS2 (cluster 2, us-east-2c)"
+            if pl.startswith("AWS"):
+                return "AWS", "AWS1 (cluster 1, us-east-2a)"
+            m = re.match(r"Stampede3 \((.+)\)", pl)
+            return ("TACC Stampede3", m.group(1)) if m else ("Other", pl)
+        act = dfc[dfc.Status.isin(["SUCCESS", "Running", "Queued"]) & (dfc.Platform.fillna("-") != "-")].copy()
+        if len(act):
+            act[["System", "Card"]] = [list(_place(p)) for p in act.Platform]
+            act["Region"] = region_of[act.index]
+            for system in ["AWS", "TACC Stampede3", "Other"]:
+                g = act[act.System == system]
+                if not len(g):
+                    continue
+                items = []
+                for card, gc in g.groupby("Card", sort=True):
+                    run = int((gc.Status == "Running").sum())
+                    parts = []
+                    for reg, gr in gc.groupby("Region"):
+                        d, r, q = int((gr.Status == "SUCCESS").sum()), int((gr.Status == "Running").sum()), int((gr.Status == "Queued").sum())
+                        parts.append(f"{reg} {d:,} done" + (f", {r:,} running" if r else "") + (f", {q:,} queued" if q else ""))
+                    items.append((card, f"{run:,} running", " · ".join(parts)))
+                _cards(f"By Platform: {system}", items)
 
     # per-storm live view lives on its own page (pages/1_Live_progress.py)
     st.markdown("📡 [**Live progress**: every storm, by platform](./Live_progress)")
