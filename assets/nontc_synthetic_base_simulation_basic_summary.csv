@@ -271,7 +271,7 @@ syn_event_Northeast_L-L-H_c0467_SM3_BF1_Base,SUCCESS,10.13861111111111,2.75,,130
 syn_event_Northeast_L-L-H_c0468_SM3_BF1_Base,SUCCESS,6.402222222222223,1.75,,135506.0,0.1028,22.21,Mon Nov 23 05:01:38 AM CST 2026,Mon Nov 23 11:25:46 AM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
 syn_event_Northeast_L-L-H_c0469_SM3_BF1_Base,SUCCESS,6.0633333333333335,1.75,,133325.0,0.118,22.26,Mon Nov 23 05:05:19 AM CST 2026,Mon Nov 23 11:09:07 AM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
 syn_event_Northeast_L-L-H_c0470_SM3_BF1_Base,SUCCESS,6.206944444444445,1.75,,157352.0,0.1184,19.11,Mon Nov 23 05:05:20 AM CST 2026,Mon Nov 23 11:17:45 AM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
-syn_event_Northeast_L-L-H_c0472_SM3_BF1_Base,SUCCESS,10.317777777777778,2.75,post-proc incomplete,126564.0,0.1041,22.27,Mon Nov 23 05:05:25 AM CST 2026,Mon Nov 23 03:24:29 PM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
+syn_event_Northeast_L-L-H_c0472_SM3_BF1_Base,SUCCESS,10.317777777777778,2.75,,126564.0,0.1041,22.27,Mon Nov 23 05:05:25 AM CST 2026,Mon Nov 23 03:24:29 PM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
 syn_event_Northeast_L-L-H_c0473_SM3_BF1_Base,SUCCESS,6.175277777777778,1.75,,144283.0,0.1211,17.51,Mon Nov 23 05:05:40 AM CST 2026,Mon Nov 23 11:16:11 AM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
 syn_event_Northeast_L-L-H_c0474_SM3_BF1_Base,SUCCESS,6.1850000000000005,1.75,,132438.0,0.1096,17.51,Mon Nov 23 05:05:31 AM CST 2026,Mon Nov 23 11:16:37 AM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
 syn_event_Northeast_L-L-H_c0475_SM3_BF1_Base,SUCCESS,6.161666666666667,1.75,,133720.0,0.1185,17.51,Mon Nov 23 05:06:07 AM CST 2026,Mon Nov 23 11:15:49 AM CST 2026,,,,,,,,,,,Stampede3 (akhalid_twi)
