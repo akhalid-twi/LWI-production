@@ -6,13 +6,16 @@ Data: assets/<scenario>_simulation_progress.csv, written by update_dash on each 
 import pandas as pd
 import streamlit as st
 
+import ui
+
 ROOT_DIR = r"https://raw.githubusercontent.com/akhalid-twi/LWI-production/refs/heads/main/assets"
 SCENARIOS = {"nontc_synthetic_base": "Synthetic Non-TC - BASE - NO SLR"}
 ACTIVE = ["RUNNING", "PRE-PROC", "POST-PROC", "QUEUED", "STOPPED", "FAILED"]
 
-st.set_page_config(page_title="LWI Live Progress", layout="wide")
-st.title("Live progress")
-st.markdown("⬅️ [Back to the production summary](./)")
+st.set_page_config(page_title="LWI Live Progress", page_icon="📡", layout="wide")
+ui.inject()
+with st.sidebar:
+    st.page_link("production_status-app.py", label="Production summary", icon="⬅️")
 
 
 @st.cache_data(ttl=60)  # re-read from GitHub at most every 60 s
@@ -28,28 +31,32 @@ except Exception:
     st.stop()
 
 upd = prog["Updated"].dropna().max() if "Updated" in prog else "?"
-st.caption(f"Last update from the clusters: {upd}  ·  refreshed about every hour  ·  "
-           f"press R or use the menu to reload")
+ui.header("Live progress", "Every storm, right now", SCENARIOS[key],
+          pill=f"{ui.dot(ui.COLORS['complete'])}Cluster data from {ui.esc(upd)}")
 
 # --- headline numbers ---
-c1, c2, c3, c4 = st.columns(4)
-c1.metric("Running", int((prog.Status == "RUNNING").sum()))
-c2.metric("Pre / post-processing", int(prog.Status.isin(["PRE-PROC", "POST-PROC"]).sum()))
-c5 = st.columns(1)[0]; c5.metric("Queued", int((prog.Status == "QUEUED").sum()))
-c3.metric("Stopped / failed", int(prog.Status.isin(["STOPPED", "FAILED"]).sum()))
+C = ui.COLORS
 eta = prog.loc[prog.Status.isin(["RUNNING", "POST-PROC"]), "Done in (h)"].max()
-c4.metric("Last running storm done in", f"~{eta:.1f} h" if pd.notna(eta) else "-")
+ui.raw('<div class="lwi-card"><div class="lwi-kpis">' + "".join([
+    ui.kpi("Running", f'{int((prog.Status == "RUNNING").sum()):,}', "in HEC-RAS", C["running"]),
+    ui.kpi("Setup / wrap-up", f'{int(prog.Status.isin(["PRE-PROC", "POST-PROC"]).sum()):,}',
+           "pre- and post-processing", C["running"]),
+    ui.kpi("Queued", f'{int((prog.Status == "QUEUED").sum()):,}', "waiting for nodes", C["queued"]),
+    ui.kpi("Need a rerun", f'{int(prog.Status.isin(["STOPPED", "FAILED"]).sum()):,}', "stopped or failed",
+           C["failed"]),
+    ui.kpi("Last running storm", f"~{eta:.1f} h" if pd.notna(eta) else "–", "until it finishes"),
+]) + "</div></div>")
 
 # --- per platform ---
 region = prog["Directory"].astype(str).str.extract(r"syn_event_([A-Za-z]+)_", expand=False).fillna("Other")
 by_plat = (prog[prog.Status.isin(ACTIVE)].assign(Region=region).groupby(["Platform", "Region", "Status"]).size()
            .unstack(fill_value=0).reindex(columns=ACTIVE, fill_value=0))
 if len(by_plat):
-    st.subheader("By platform and region")
+    ui.section("By platform and region")
     st.dataframe(by_plat, use_container_width=True)
 
 # --- every active storm ---
-st.subheader("Storms")
+ui.section("Storms")
 f1, f2, f3 = st.columns(3)
 status_pick = f1.multiselect("Status", ACTIVE, default=ACTIVE)
 plats = sorted(prog.Platform.dropna().unique())

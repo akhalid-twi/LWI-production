@@ -17,6 +17,8 @@ import re
 import requests
 from collections import defaultdict
 
+import ui
+
 
 # =============================================================================
 # Helper functions
@@ -117,7 +119,7 @@ ROOT_DIR = r"https://raw.githubusercontent.com/akhalid-twi/LWI-production/refs/h
 
 
 
-st.set_page_config(page_title="LWI Production Dashboard", layout="centered")
+st.set_page_config(page_title="LWI Production", page_icon="🌊", layout="wide")
 
 # =============================================================================
 # Data loading helpers (cached)
@@ -216,118 +218,63 @@ def get_last_updated_dt(scenario_key: str):
     return modified_datetime
 
 
+
 # =============================================================================
 # App UI
 # =============================================================================
+ui.inject()
 
-st.title("LWI Production Dashboard")
-st.markdown("---")
-
-# 1. Initialize global states cleanly
+# --- sidebar: which scenario (category, then scenario) ---
 if "scenario_current" not in st.session_state:
     st.session_state.scenario_current = DEFAULT_SCENARIO_KEY
-if "scenario_changed" not in st.session_state:
-    st.session_state.scenario_changed = True
 
-# Get the category of whatever the current scenario is
-current_default_category = SCENARIOS[st.session_state.scenario_current].get("category", list(GROUPED_SCENARIOS.keys())[0])
+with st.sidebar:
+    st.markdown("### Scenario")
+    categories = list(GROUPED_SCENARIOS.keys())
+    current_category = SCENARIOS[st.session_state.scenario_current].get("category", categories[0])
+    selected_category = st.selectbox("Category", categories, index=categories.index(current_category))
+    scenarios_dict = GROUPED_SCENARIOS[selected_category]
+    keys = list(scenarios_dict)
+    default_idx = keys.index(st.session_state.scenario_current) if st.session_state.scenario_current in keys else 0
+    st.session_state.scenario_current = st.radio(
+        "Scenario", keys, index=default_idx, format_func=lambda k: SCENARIOS[k]["title"],
+        key="single_scenario_radio")
+    st.markdown("&nbsp;")
+    st.page_link("pages/1_Live_progress.py", label="Live progress: every storm", icon="📡")
 
-# 2. Dynamic Category Selection
-st.subheader("Scenario Configuration")
-
-categories = list(GROUPED_SCENARIOS.keys())
-selected_category = st.selectbox(
-    "Select Scenario Category",
-    options=categories,
-    index=categories.index(current_default_category)
-)
-
-# 3. Pull scenarios strictly for the active category
-scenarios_dict = GROUPED_SCENARIOS[selected_category]
-
-# Map friendly titles to technical configuration keys
-scenario_names = {key: cfg.get("title", key) for key, cfg in scenarios_dict.items()}
-display_to_key = {v: k for k, v in scenario_names.items()}
-display_list = list(display_to_key.keys())
-
-# Determine the default index for the radio button
-if st.session_state.scenario_current in scenarios_dict:
-    current_display = scenario_names[st.session_state.scenario_current]
-    default_idx = display_list.index(current_display)
-else:
-    default_idx = 0
-
-# 4. A single, safe Radio widget that never conflicts with other tabs
-selected_display = st.radio(
-    f"Available {selected_category} Scenarios",
-    options=display_list,
-    index=default_idx,
-    key="single_scenario_radio"
-)
-
-# 5. Process state updates cleanly downstream instead of via complex callbacks
-new_selection = display_to_key[selected_display]
-
-if st.session_state.scenario_current != new_selection:
-    st.session_state.scenario_current = new_selection
-    st.session_state.scenario_changed = True
-    try:
-        _load_df_cached.clear()
-    except Exception:
-        pass
-
-# Finalize active configuration details
 scenario_key = st.session_state.scenario_current
 scenario_cfg = SCENARIOS[scenario_key]
 
-st.markdown("---")
-st.caption(f"Selected Scenario: **{scenario_cfg['title']}** ({scenario_cfg['category']})")
-
-# ---------------------------------------------------------------------
-# Helpers: Last updated + cached loader
-# ---------------------------------------------------------------------
-@st.cache_data(show_spinner=False)
-def _load_df_cached(_scenario_key: str):
-    # Your heavy loader (I/O, compute, merges, etc.)
-    return load_merged_dataframe(_scenario_key)
 
 def _get_last_updated_safe(_scenario_key: str):
     try:
         return get_last_updated_dt(_scenario_key)
-    except Exception as e:
-        st.info(f"Could not determine last updated time for '{_scenario_key}': {e}")
+    except Exception:
         return None
 
-# ---------------------------------------------------------------------
-# Main block: one spinner that covers load + processing + plot
-# ---------------------------------------------------------------------
-# We show spinner when:
-#   - first paint (scenario_changed initialized True), or
-#   - user actually changed scenario (handled by callback)
-# Otherwise we render from cache quickly without spinner
-force_spinner = st.session_state.scenario_changed
 
-spinner_msg = f"Loading '{scenario_cfg.get('title', scenario_key)}' — fetching data and rendering…"
-context_manager = st.spinner(spinner_msg) if force_spinner else st.empty()
+def _ago(dt):
+    if not dt:
+        return "Update time unknown"
+    mins = int((datetime.now(timezone.utc) - dt).total_seconds() // 60)
+    if mins < 1:
+        return "Updated just now"
+    if mins < 60:
+        return f"Updated {mins} min ago"
+    if mins < 48 * 60:
+        return f"Updated {mins // 60} h {mins % 60:02d} min ago"
+    return f"Updated {dt:%d %b %Y}"
 
-with context_manager:
-    # --- Last Updated ---
+
+with st.spinner(f"Loading {scenario_cfg['title']}…"):
     modified_datetime = _get_last_updated_safe(scenario_key)
-    if modified_datetime:
-        st.caption(f"Last updated: {modified_datetime.strftime('%Y-%m-%d %H:%M UTC')}")
-    else:
-        st.caption("Last updated: Unknown (GitHub API limit or network issue)")
-
-    # --- Data Loading (cached, no inner spinner to avoid double spinner) ---
     try:
-        #df = _load_df_cached(scenario_key)
         df = load_merged_dataframe(scenario_key)
     except Exception as e:
         st.error(f"Failed to load data for scenario '{scenario_key}': {e}")
         st.stop()
 
-    # --- Derived metrics (your processing) ---
-    # --- counts from the live storm table (lwicheck on every platform), so this page, the Live
+    # counts from the live storm table (lwicheck on every platform), so this page, the Live
     # progress page and lwicheck agree; the older run summary (df) stays the source for the charts
     try:
         _p = load_csv(f"{ROOT_DIR}/{scenario_key}_simulation_progress.csv")
@@ -337,622 +284,277 @@ with context_manager:
     except Exception:
         dfc = df
 
-    df_completed = dfc[dfc.Status == 'SUCCESS']
-    df_not_running = df[df.Status!='Running']
-    running_on_psc = int(len(dfc[dfc.Status=='Running']))
-    queued_on_psc = int(len(dfc[dfc.Status=='Queued']))
+completed_simulations = int((dfc.Status == "SUCCESS").sum())
+running_now = int((dfc.Status == "Running").sum())
+queued_now = int((dfc.Status == "Queued").sum())
+total_simulations = int(scenario_cfg.get("total_simulations", 10_000))
+remaining = max(total_simulations - completed_simulations, 0)
+progress_percent = min(completed_simulations / total_simulations * 100, 100) if total_simulations else 0
 
-    total_simulations = int(scenario_cfg.get("total_simulations", 10_000))
+# storms per region in the non-TC production (dropped storms excluded)
+REGION_TOTALS = {"West": 2077, "Northeast": 2014, "Central": 3000, "Southeast": 3000}   # Central, Southeast: approximate until generated
+REGION_RE = r"syn_event_([A-Za-z]+)_"
+non_tc = scenario_cfg.get("category") == "Non-Tropical Cyclones" and "Directory" in dfc.columns
+region_of = (dfc["Directory"].astype(str).str.extract(REGION_RE, expand=False).fillna("Other")
+             if "Directory" in dfc.columns else None)
 
-    completed_simulations = int(len(df_completed)) #int(len(df_not_running) if df_not_running is not None else 0)
-    progress_percent = min(int((completed_simulations / total_simulations) * 100), 100)
+C = ui.COLORS
 
-    # --- Plotting (keep your plotting inside spinner so it covers render time) ---
-    # Example placeholders below; swap with your actual visualization code.
+# --- header ---
+fresh = ui.dot(C["complete"] if modified_datetime and
+               (datetime.now(timezone.utc) - modified_datetime).total_seconds() < 3 * 3600 else C["stopped"])
+ui.header("LWI Production", scenario_cfg["title"], scenario_cfg["category"],
+          pill=f"{fresh}{ui.esc(_ago(modified_datetime))}")
 
-    st.markdown("---")
-    st.subheader("Simulation Count")
-    col1, col2, col3, col4 = st.columns(4, gap="medium")
-    with col1:
-        st.metric("Completed", f"{completed_simulations:,}")
-    with col2:
-        st.metric("Running", f"{running_on_psc:,}")
-    with col3:
-        st.metric("Queued", f"{queued_on_psc:,}")
-    with col4:
-        st.metric("Total", f"{total_simulations:,}")
+# --- hero: overall ring + headline numbers + timeline ---
+now = datetime.now()
+target = scenario_cfg["completion_date_actual"]
+left = target - now
+if progress_percent >= 99.5:
+    timing, timing_color = "Complete", C["complete"]
+elif left.total_seconds() >= 0:
+    timing, timing_color = f"{left.days} days {left.seconds // 3600} h left", C["running"]
+else:
+    timing, timing_color = f"Overdue by {abs(left.days)} days", C["failed"]
 
-    # storms per region in the non-TC production (dropped storms excluded); None = not generated yet
-    REGION_TOTALS = {"West": 2077, "Northeast": 2014, "Central": 3000, "Southeast": 3000}   # Central, Southeast: approximate until generated
-    non_tc = scenario_cfg.get("category") == "Non-Tropical Cyclones" and "Directory" in dfc.columns
-    region_of = (dfc["Directory"].astype(str).str.extract(r"syn_event_([A-Za-z]+)_", expand=False).fillna("Other")
-                 if "Directory" in dfc.columns else None)
+ring = ui.ring([(completed_simulations, C["complete"]), (running_now, C["running"])], total_simulations,
+               size=176, width=18, center=f"{progress_percent:.0f}%", sub="complete")
+kpis = "".join([
+    ui.kpi("Completed", f"{completed_simulations:,}", f"of {total_simulations:,} storms", C["complete"]),
+    ui.kpi("Running", f"{running_now:,}", "on all platforms", C["running"]),
+    ui.kpi("Queued", f"{queued_now:,}", "waiting for nodes", C["queued"]),
+    ui.kpi("Remaining", f"{remaining:,}", "not yet complete"),
+])
+ui.raw(f'<div class="lwi-card"><div class="lwi-hero">{ring}<div class="lwi-kpis">{kpis}</div></div>'
+       f'<div class="lwi-chips" style="margin-top:18px">'
+       f'{ui.chip("Started " + scenario_cfg["start_date"].strftime("%d %b"))}'
+       f'{ui.chip("Target " + target.strftime("%d %b %Y"))}'
+       f'{ui.chip(timing, timing_color)}</div></div>')
 
-    label = "All regions: " if non_tc else ""
-    progress_text = (f"{label}{completed_simulations:,} / {total_simulations:,} complete ({progress_percent}%)")
-    st.progress(progress_percent, text=progress_text)
-    if non_tc:                                    # one bar per region that has started
-        for region, total in REGION_TOTALS.items():
-            in_region = region_of == region
-            done = int((in_region & (dfc.Status == "SUCCESS")).sum())
-            running = int((in_region & (dfc.Status == "Running")).sum())
-            queued = int((in_region & (dfc.Status == "Queued")).sum())
-            if not total or done + running + queued == 0:
-                continue
-            st.progress(min(done / total, 1.0),
-                        text=f"{region}: {done:,} / {total:,} complete ({100 * done / total:.0f}%)"
-                             + (f", {running:,} running" if running else "") + (f", {queued:,} queued" if queued else ""))
-
-    # --- compact cards: name, main number, small detail line (no arrows, fits narrow columns) ---
-    def _cards(title, items):
-        """items: list of (name, main, detail) -> one row of small cards."""
-        cards = "".join(
-            f'<div style="flex:1;min-width:140px;padding:8px 12px;border:1px solid rgba(128,128,128,.35);'
-            f'border-radius:8px"><div style="font-size:.8rem;opacity:.75">{n}</div>'
-            f'<div style="font-size:1.25rem;font-weight:600;white-space:nowrap">{m}</div>'
-            f'<div style="font-size:.75rem;opacity:.7">{d}</div></div>'
-            for n, m, d in items)
-        st.markdown(f"**{title}**", unsafe_allow_html=True)
-        st.markdown(f'<div style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:12px">{cards}</div>',
-                    unsafe_allow_html=True)
-
-    # --- By region (non-tropical only; from the storm name: syn_event_<Region>_...) ---
-    if non_tc:
-        by_reg = dfc.assign(Region=region_of).groupby(["Region", "Status"]).size().unstack(fill_value=0)
-        items = []
-        for region, total in REGION_TOTALS.items():
-            r = by_reg.loc[region] if region in by_reg.index else {}
-            done, running, queued = int(r.get("SUCCESS", 0)), int(r.get("Running", 0)), int(r.get("Queued", 0))
-            if done + running + queued == 0:
-                items.append((region, "not started", f"{total:,} storms" if total else ""))
-            else:
-                pct = f" ({100 * done / total:.0f}%)" if total else ""
-                items.append((region, f"{done:,} / {total:,}{pct}" if total else f"{done:,}",
-                              ", ".join(x for x in [f"{running:,} running" if running else "", f"{queued:,} queued" if queued else ""] if x)))
-        _cards("By Region", items)
-
-    # --- Where the simulations run: grouped by system (AWS clusters, then Stampede3 accounts) ---
-    if "Platform" in df.columns:
-        def _place(pl):
-            """Platform label -> (system, card name). 'AWS' = cluster 1, 'AWS2 (<anything>)' = cluster 2,
-            'Stampede3 (<user>)' = one card per TACC account."""
-            pl = str(pl)
-            if pl.startswith("AWS2"):
-                return "AWS", "AWS2 (cluster 2, us-east-2c)"
-            if pl.startswith("AWS"):
-                return "AWS", "AWS1 (cluster 1, us-east-2a)"
-            m = re.match(r"Stampede3 \((.+)\)", pl)
-            return ("TACC Stampede3", m.group(1)) if m else ("Other", pl)
-        act = dfc[dfc.Status.isin(["SUCCESS", "Running", "Queued"]) & (dfc.Platform.fillna("-") != "-")].copy()
-        if len(act):
-            act[["System", "Card"]] = [list(_place(p)) for p in act.Platform]
-            act["Region"] = region_of[act.index]
-            for system in ["AWS", "TACC Stampede3", "Other"]:
-                g = act[act.System == system]
-                if not len(g):
-                    continue
-                items = []
-                for card, gc in g.groupby("Card", sort=True):
-                    run = int((gc.Status == "Running").sum())
-                    parts = []
-                    for reg, gr in gc.groupby("Region"):
-                        d, r, q = int((gr.Status == "SUCCESS").sum()), int((gr.Status == "Running").sum()), int((gr.Status == "Queued").sum())
-                        parts.append(f"{reg} {d:,} done" + (f", {r:,} running" if r else "") + (f", {q:,} queued" if q else ""))
-                    items.append((card, f"{run:,} running", " · ".join(parts)))
-                _cards(f"By Platform: {system}", items)
-
-    # per-storm live view lives on its own page (pages/1_Live_progress.py)
-    st.markdown("📡 [**Live progress**: every storm, by platform](./Live_progress)")
-
-    # Example: If you have more heavy charts, render them here so spinner stays active.
-    # chart = make_big_chart(df)  # your function
-    # st.altair_chart(chart, use_container_width=True)
-
-    
-    # Status message
-    if progress_percent < 25:
-        st.info("🚧 Just getting started...")
-    elif progress_percent < 75:
-        st.warning("🔄 In progress...")
-    elif progress_percent < 99.5:
-        st.warning("🔄 Almost there...")
-    else:
-        st.success("✅ Completed!")
-    
-    # Timeline (scenario-specific)
-    start_date = scenario_cfg["start_date"]
-    completion_date_prj = scenario_cfg["completion_date_projected"]
-    completion_date_act = scenario_cfg["completion_date_actual"]
-    now = datetime.now()
-    
-    st.subheader("Timeline")
-    st.write(f"Production Started: {start_date.strftime('%d %b %Y')}")
-    st.write(f"Production Completion (projected): {completion_date_prj.strftime('%d %b %Y')}")
-    st.write(f"Production Completion (actual): {completion_date_act.strftime('%d %b %Y')}")   
-    
-    # Optional: remaining time
-    remaining_time = completion_date_act - now
-    
-    
-    # Countdown timer
-    days = remaining_time.days
-    hours, remainder = divmod(remaining_time.seconds, 3600)
-    minutes, seconds = divmod(remainder, 60)
-    
-    # Check if we are past the completion date
-    
-    # Check timeline status
-    remaining_seconds = remaining_time.total_seconds()
-    
-    if remaining_seconds >= 0:
-        # Countdown still active
-        st.info(f"Time Remaining: {days} days, {hours} hrs, {minutes} min")
-    
-    elif remaining_seconds < 0 and progress_percent < 99.5:
-        # Project overdue but not yet technically complete
-        st.error(f"Project overdue: {days} days, {hours} hrs, {minutes} min")
-    
-    elif remaining_seconds < 0 and progress_percent >= 99.5:
-        # Completed beyond target date
-        st.info(f"Completed {abs(days)} days ago")
-
-
-
-# For debugging/visibility
-#st.subheader(f"Selected scenario key: **{scenario_key}**")
-
-# =============================================================================
-# Region filter (non-tropical only): the overview above always shows every region;
-# the charts and tables below follow this pick
-# =============================================================================
+# --- regions: one ring per region ---
 if non_tc:
-    st.markdown("---")
-    regions = [r for r in REGION_TOTALS if (region_of == r).any()]
-    region_pick = st.selectbox("Region (charts below)", ["All regions"] + regions)
-    if region_pick != "All regions":
-        df = df[(region_of == region_pick).to_numpy()].copy()
-        total_simulations = REGION_TOTALS[region_pick] or len(df)
+    ui.section("Regions")
+    by_reg = dfc.assign(Region=region_of).groupby(["Region", "Status"]).size().unstack(fill_value=0)
+    cards = []
+    for region, total in REGION_TOTALS.items():
+        r = by_reg.loc[region] if region in by_reg.index else {}
+        done, run, que = int(r.get("SUCCESS", 0)), int(r.get("Running", 0)), int(r.get("Queued", 0))
+        bad = int(r.get("Failed", 0)) + int(r.get("Stopped", 0))
+        started = done + run + que > 0
+        pct = 100 * done / total if total else 0
+        chips = ("".join([ui.chip(f"{run:,} running", C["running"]) if run else "",
+                          ui.chip(f"{que:,} queued", C["queued"]) if que else "",
+                          ui.chip(f"{bad:,} to rerun", C["failed"]) if bad else ""])
+                 if started else ui.chip("Not started"))
+        cards.append(
+            f'<div class="lwi-card lwi-region">'
+            f'{ui.ring([(done, C["complete"]), (run, C["running"])], total, size=92, width=11, center=f"{pct:.0f}%")}'
+            f'<div><div class="lwi-region-name">{ui.esc(region)}</div>'
+            f'<div class="lwi-region-num">{done:,} of {total:,} storms</div>'
+            f'<div class="lwi-chips">{chips}</div></div></div>')
+    ui.raw(f'<div class="lwi-grid">{"".join(cards)}</div>')
 
+# --- where the storms run: grouped by system (AWS clusters, then Stampede3 accounts) ---
+if "Platform" in dfc.columns:
+    def _place(pl):
+        """Platform label -> (system, row name). 'AWS' = cluster 1, 'AWS2 (...)' = cluster 2,
+        'Stampede3 (<user>)' = one row per TACC account."""
+        pl = str(pl)
+        if pl.startswith("AWS2"):
+            return "AWS", "AWS2 · cluster 2, us-east-2c"
+        if pl.startswith("AWS"):
+            return "AWS", "AWS1 · cluster 1, us-east-2a"
+        m = re.match(r"Stampede3 \((.+)\)", pl)
+        return ("TACC Stampede3", m.group(1)) if m else ("Other", pl)
 
-# =============================================================================
-# Status Count
-# =============================================================================
-
-# Filter simulations by status
-success_df = df[df["Status"] == "SUCCESS"].copy()
-failed_df = df[df["Status"].str.contains("Failed", case=False, na=False)]
-running_df = df[df["Status"] == "Running"].copy()
-
-
-# Simulated counts
-completed_count = len(success_df) + len(failed_df)
-running_count = len(running_df)
-failed_count = len(failed_df)
-successful_count = len(success_df)
-
-
-waiting_count = total_simulations - (completed_count + running_count)
-waiting_count = max(0, waiting_count)
-
-
-#------------------------------
-# Horizontal stacked bar: Completed vs Running
-#------------------------------
-st.subheader("Completed vs Running Simulations (Stacked)")
-
-
-completed_count = len(success_df) + len(failed_df)
-running_count = len(running_df)
-waiting_count = total_simulations - (completed_count + running_count)
-waiting_count = max(waiting_count, 0)  # avoid negative
-
-fig_completion = go.Figure()
-
-fig_completion.add_trace(go.Bar(
-    y=["Simulations"],
-    x=[completed_count],
-    name="Completed",
-    orientation='h',
-    marker=dict(color='lightgreen')
-))
-
-fig_completion.add_trace(go.Bar(
-    y=["Simulations"],
-    x=[running_count],
-    name="Running",
-    orientation='h',
-    marker=dict(color='skyblue')
-))
-
-fig_completion.add_trace(go.Bar(
-    y=["Simulations"],
-    x=[waiting_count],
-    name="Waiting",
-    orientation='h',
-    marker=dict(color='lightgray')
-))
-
-fig_completion.update_layout(
-    barmode='stack',
-    xaxis_title="Count",
-    xaxis=dict(range=[0, total_simulations]),
-    height=225
-)
-
-st.plotly_chart(fig_completion)
-
-
-#------------------------------
-# Vertical Bar chart of status categories
-#------------------------------
-st.subheader("Simulation Status Distribution")
-
-# Get value counts
-status_counts = df["Status"].value_counts().reset_index()
-status_counts.columns = ["Status", "Count"]
-
-# Define custom colors for each status
-color_map = {
-    "SUCCESS": "#90EE90",
-    "Running": "skyblue",
-    "UNSTABLE-FAILED": "#FF7F7F",
-    "SLURM_TIMEOUT-FAILED": "#FFD700",
-    "DISK-FAILED": "#FFD700",
-    "HDF-FAILED": "#FFD700"
-}
-
-status_counts["Color"] = status_counts["Status"].map(color_map).fillna("orange")
-
-# Create Plotly bar chart
-fig_status = go.Figure()
-
-for _, row in status_counts.iterrows():
-    fig_status.add_trace(go.Bar(
-        x=[row["Status"]],
-        y=[row["Count"]],
-        name=row["Status"],
-        marker_color=row["Color"],
-        text=row["Count"],
-        textposition="outside"
-    ))
-
-fig_status.update_layout(
-    title="Status Type Counts",
-    xaxis_title="Status",
-    yaxis_title="Count",
-    showlegend=False,
-    height=500,
-    yaxis=dict(range=[0, 10000])  # Set y-axis range
-)
-
-st.plotly_chart(fig_status)
-
-#------------------------------
-# Pie chart of success vs failure
-#------------------------------
-status_counts = df["Status"].value_counts().reset_index()
-status_counts.columns = ["Status", "Count"]
-
-color_map = {
-    "SUCCESS": "#90EE90",        # Light Green (Success)
-    "Running": "skyblue",        # Light Blue (In Progress)
-    "UNSTABLE-FAILED": "#FF7F7F",# Soft Red (Unstable Failure)
-    "SLURM_TIMEOUT-FAILED": "#FFA500", # Orange (Timeout)
-    "DISK-FAILED": "#FFD700",    # Gold (Disk Issue)
-    "HDF-FAILED": "#FFD700",     # Gold (HDF Issue)
-    "FAILED": "#FF6347"          #
-}
-
-fig_pie = px.pie(
-    status_counts,
-    names="Status",
-    values="Count",
-    title="Failure vs Success Distribution",
-    color="Status",
-    color_discrete_map=color_map
-)
-#st.subheader("Simulation Status Distribution")
-st.plotly_chart(fig_pie)
-
+    act = dfc[dfc.Status.isin(["SUCCESS", "Running", "Queued"]) & (dfc.Platform.fillna("-") != "-")].copy()
+    if len(act):
+        ui.section("Where storms run")
+        act[["System", "Row"]] = [list(_place(p)) for p in act.Platform]
+        act["Region"] = region_of[act.index] if region_of is not None else "-"
+        lists = []
+        for system in ["AWS", "TACC Stampede3", "Other"]:
+            g = act[act.System == system]
+            if not len(g):
+                continue
+            rows = []
+            for name, gr in g.groupby("Row", sort=True):
+                regs = []
+                for reg, rr in gr.groupby("Region"):
+                    run, que = int((rr.Status == "Running").sum()), int((rr.Status == "Queued").sum())
+                    regs.append(reg + (f" · {run:,} running" if run else "") + (f" · {que:,} queued" if que else "")
+                                if (run or que) else f"{reg} · done")
+                rows.append((name, "   |   ".join(regs),
+                             (f'{int((gr.Status == "Running").sum()):,}', "running"),
+                             (f'{int((gr.Status == "SUCCESS").sum()):,}', "completed")))
+            lists.append(ui.grouped_list(system, rows))
+        ui.raw(f'<div class="lwi-grid" style="grid-template-columns:repeat(auto-fit,minmax(420px,1fr))">'
+               f'{"".join(lists)}</div>')
 
 # =============================================================================
-#  SU usage
+# Details: one region filter, then tabs instead of one long scroll
 # =============================================================================
+ui.section("Details", "charts and the full table")
 
-# Convert SUs to numeric
-success_df["SUs"] = pd.to_numeric(success_df["SUs"], errors='coerce')
-total_sus = success_df["SUs"].sum()
-
-# Create numeric storm numbering
-success_df = success_df.reset_index(drop=True)
-success_df["Storm Number"] = success_df.index + 1
-
-# SU usage plot
-st.subheader("Service Units (SUs) Used per Successful Simulation")
-st.markdown(f"**Total SUs Used:** {total_sus:,}")
-
-fig_su = px.bar(
-    success_df,
-    x="Storm Number",
-    y="SUs",
-    color="SUs",
-    title="SUs per Successful Run",
-    hover_data={
-        "Directory": True,
-        "Storm Number": False
-    }
-)
-
-fig_su.update_traces(
-    hovertemplate=
-    "<b>Storm:</b> %{customdata[0]}<br>" +
-    "<b>SUs:</b> %{y:,.0f}<extra></extra>"
-)
-
-fig_su.update_layout(
-    xaxis_title="Storm Number"
-)
-
-st.plotly_chart(fig_su, config={"responsive": True})
-
-# =============================================================================
-# Error plots for key metrics
-# =============================================================================
-
-st.subheader("Error plots for key metrics")
-
-# Convert columns to numeric
-df["Vol Error (AF)"] = pd.to_numeric(df["Vol Error (AF)"], errors='coerce')
-df["Vol Error (%)"] = pd.to_numeric(df["Vol Error (%)"], errors='coerce')
-df["Max WSEL Err"] = pd.to_numeric(df["Max WSEL Err"], errors='coerce')
+region_df = df["Directory"].astype(str).str.extract(REGION_RE, expand=False).fillna("Other")
+detail_total = total_simulations
+if non_tc:
+    regions = [r for r in REGION_TOTALS if (region_df == r).any()]
+    pick = st.segmented_control("Region", ["All regions"] + regions, default="All regions",
+                                label_visibility="collapsed") or "All regions"
+    if pick != "All regions":
+        df = df[(region_df == pick).to_numpy()].copy()
+        detail_total = REGION_TOTALS[pick] or len(df)
 
 
-def categorize_by_status(status):
-    status = str(status).strip().lower()
-
-    if status == "success":
-        return "Success"         # green
-    elif status == "running":
-        return "Running"         # cyan
-    elif "failed" in status:
-        return "Failed"          # red
-    else:
-        return "Other"           # orange
-
-# Apply to each metric
-df["Color Category WSEL"]  = df["Status"].apply(categorize_by_status)
-df["Color Category VolAF"] = df["Status"].apply(categorize_by_status)
-df["Color Category VolPct"] = df["Status"].apply(categorize_by_status)
-
-# Color map (simple)
-color_map = {
-    "Success": "green",
-    "Running": "cyan",
-    "Failed": "red",
-    "Other": "orange"
-}
+def _family(status):
+    s = str(status).strip().lower()
+    if s == "success":
+        return "Complete"
+    if s == "running":
+        return "Running"
+    if "fail" in s:
+        return "Failed"
+    if s == "not started":
+        return "Not started"
+    return "Other"
 
 
-df_sorted = df.sort_values(by='Directory')
-
-# Create numeric index for x-axis labels
-df_sorted = df_sorted.reset_index(drop=True)
-df_sorted["Storm Number"] = df_sorted.index + 1
-
-
-
-#------------------------------
-# Plot for Max WSEL Err
-#------------------------------
-
-fig_max_wsel_er = px.bar(
-    df_sorted,
-    x="Storm Number", #    x="Directory",
-    y="Max WSEL Err",
-    title="Max WSEL Error",
-    color="Color Category WSEL",
-    color_discrete_map=color_map,
-    hover_data={
-        "Directory": True,          # show full storm/scenario name on hover
-        "Storm Number": False        # don't repeat index in hover
-    }
-)
-fig_max_wsel_er.update_yaxes(range=[0, 20])
-
-st.plotly_chart(fig_max_wsel_er, config={"responsive": True})
-
-
-#------------------------------
-# Plot for Vol Error (AF)
-#------------------------------
-
-fig_vol_af = px.bar(
-    df_sorted,
-    x="Storm Number", #    x="Directory",
-    y="Vol Error (AF)",
-    title="Volume Error (AF)",
-    color="Color Category VolAF",
-    color_discrete_map=color_map,
-    hover_data={
-        "Directory": True,          # show full storm/scenario name on hover
-        "Storm Number": False        # don't repeat index in hover
-    }
-
-)
-fig_vol_af.update_yaxes(range=[0, 100000])
-st.plotly_chart(fig_vol_af, config={"responsive": True})
-
-
-#------------------------------
-# Plot for Vol Error (%)
-#------------------------------
-
-fig_vol_pct = px.bar(
-    df_sorted,
-    x="Storm Number", #    x="Directory",
-    y="Vol Error (%)",
-    title="Volume Error (%)",
-    color="Color Category VolPct",
-    color_discrete_map=color_map,
-    hover_data={
-        "Directory": True,          # show full storm/scenario name on hover
-        "Storm Number": False        # don't repeat index in hover
-    }
-
-)
-fig_vol_pct.update_yaxes(range=[0, 2])
-st.plotly_chart(fig_vol_pct, config={"responsive": True})
-
-
-
-# =============================================================================
-# Status Table
-# =============================================================================
-for cols in ['Color Category WSEL', 'Color Category VolAF','Color Category VolPct', 'Max Cum PRCP (inc)']:
-    if cols in df.columns:
-        del df[cols]
-
-df = df.rename(columns={
-    'Duration': 'CPU Runtime (hrs)',
-    'Max WSEL Err': 'WSEL Error Max (ft)',
-    'Start Time': 'CPU Start Time',
-    'End Time': 'CPU End Time'
-})
-
-
-# Status table
-styled_df = df.style.apply(highlight_status, axis=1)
-
-st.subheader("Status Table")
-st.dataframe(styled_df)
-
-
-#------------------------------
-# Hydrodynamic and forcing plots
-#------------------------------
-st.subheader("Hydrodynamic Model Outputs and Forcings")
-
-# Convert relevant columns to numeric
-for col in df.columns:
-    if col not in ['Directory','Status','Failure Reason','Start Time','End Time']:
-        df[col] = pd.to_numeric(df[col], errors='coerce')
-
-# Plot each metric with units in y-axis label
-metrics_with_units = {
-#    "Max WSE (ft)": "Maximum Water Surface Elevation (ft)",
-    "Max Depth (ft)": "Maximum Flood Depth (ft)",
-#    "Max Velocity": "Maximum Velocity (ft/s)",
-    "Max Volume (ft^3)": "Maximum Volume (ft³)",
-    "Max Flow Balance (ft^3/s)": "Maximum Flow Balance (ft³/s)",
-    "Max Stage BC (ft)": "Maximum Downstream Boundary Condition (ft)",
-    "Max Inflow BC (cfs)": "Maximum Inflow Boundary Condition (cfs)",
-    "Max Cum PRCP (in)": "Maximum Cumulative PRCP Depth (inc)",
-
-}
-
-
-# Create numeric index for plotting
+FAMILY_COLORS = {"Complete": C["complete"], "Running": C["running"], "Failed": C["failed"], "Other": C["stopped"],
+                 "Not started": C["queued"]}
 df = df.reset_index(drop=True)
 df["Storm Number"] = df.index + 1
-
-for col, title in metrics_with_units.items():
-
+df["Result"] = df["Status"].map(_family)
+for col in ["Vol Error (AF)", "Vol Error (%)", "Max WSEL Err", "SUs"]:
     if col in df.columns:
-
-        mean_val = round(df[col].quantile(0.95), 2)
-
-        colors = [
-            'purple' if val > mean_val else 'steelblue'
-            for val in df[col]
-        ]
-
-        fig = go.Figure()
-
-        # Main bars
-        fig.add_trace(go.Bar(
-            x=df["Storm Number"],
-            y=df[col],
-            marker_color=colors,
-            name=col,
-            customdata=df[["Directory"]],
-            hovertemplate=
-                "<b>Storm:</b> %{customdata[0]}<br>" +
-                f"<b>{title}:</b> %{{y}}<extra></extra>"
-        ))
-
-        # 95% threshold line
-        fig.add_trace(go.Scatter(
-            x=df["Storm Number"],
-            y=[mean_val] * len(df),
-            mode='lines',
-            line=dict(color='black', dash='dash'),
-            name='95%'
-        ))
-
-        # Dummy traces for legend
-        fig.add_trace(go.Bar(
-            x=[None],
-            y=[None],
-            marker_color='purple',
-            name='Above 95%'
-        ))
-
-        fig.add_trace(go.Bar(
-            x=[None],
-            y=[None],
-            marker_color='steelblue',
-            name='Below 95%'
-        ))
-
-        fig.update_layout(
-            title=title,
-            xaxis_title="Storm Number",
-            yaxis_title=title,
-            showlegend=True
-        )
-
-        ymax = mean_val * 1.5
-        fig.update_yaxes(range=[0, ymax])
-
-        if col == 'Max Cum PRCP (in)':
-            fig.update_yaxes(range=[0, 100])
-
-        elif col == 'Max Stage BC (ft)':
-            fig.update_yaxes(range=[0, 15])
-
-        st.plotly_chart(fig, config={"responsive": True})
+        df[col] = pd.to_numeric(df[col], errors="coerce")
 
 
-#--------------------------
-# correlation metrics
-#--------------------------
-
-success_df = df[df["Status"] == "SUCCESS"].copy()
-
-success_df_clean = success_df.copy()
-for cols in ['SUs','Max WSE (ft)','Failure Info','Failure Reason']:
-    if cols in success_df_clean.columns:
-        del success_df_clean[cols]
-
-st.subheader("Correlation Metrics")
-#print(success_df_clean.columns)
-
-
-# rearrange columns
-success_df_clean = success_df_clean[['Vol Error (%)','Vol Error (AF)','Max Depth (ft)',
-                                     'Max Volume (ft^3)',
-                                     'Max Flow Balance (ft^3/s)', 'Max Stage BC (ft)',
-                                     'Max Inflow BC (cfs)', 'Max Cum PRCP (in)']]
+def dots(data, y, title, yrange=None, ytitle=None, color_by="Result", colors=FAMILY_COLORS, extra=None):
+    """One dot per storm (readable at thousands of storms, unlike thousands of bars)."""
+    if y not in data.columns or not data[y].notna().any():
+        st.info(f"No {ytitle or y} values for this selection yet.")
+        return
+    fig = go.Figure()
+    for name, g in data.groupby(color_by, sort=False):
+        fig.add_trace(go.Scattergl(
+            x=g["Storm Number"], y=g[y], mode="markers", name=str(name),
+            marker=dict(size=6, color=colors.get(name, ui.INK_3), line=dict(width=0)),
+            customdata=g[["Directory"]],
+            hovertemplate="<b>%{customdata[0]}</b><br>" + f"{ytitle or y}: " + "%{y:,.3g}<extra></extra>"))
+    if extra:
+        extra(fig)
+    if yrange:
+        fig.update_yaxes(range=yrange)
+    ui.style_fig(fig, 320, title, ytitle or y, "Storm (sorted by name)")
+    st.plotly_chart(fig, config=ui.PLOT_CONFIG, use_container_width=True)
 
 
-corr_matrix = success_df_clean.select_dtypes(include='number').corr()
-fig_corr = go.Figure(data=go.Heatmap(
-     z=corr_matrix.values,
-     x=corr_matrix.columns,
-     y=corr_matrix.columns,
-     colorscale='Viridis'
- ))
-st.plotly_chart(fig_corr)
+tab_status, tab_quality, tab_outputs, tab_compute, tab_corr, tab_table = st.tabs(
+    ["Status", "Quality", "Model outputs", "Compute", "Correlation", "Table"])
 
-# We reached here without exception; clear the change flag so spinner doesnot reappear
-st.session_state.scenario_changed = False
+with tab_status:
+    ok = int((df.Result == "Complete").sum())
+    run = int((df.Result == "Running").sum())
+    fail = int((df.Result == "Failed").sum())
+    other = int((df.Result == "Other").sum())
+    waiting = max(detail_total - ok - run - fail - other, 0)
+    ui.raw(f'<div class="lwi-card"><div class="lwi-kpi-label" style="margin-bottom:10px">'
+           f'Run summary · {len(df):,} storms with a run folder, {detail_total:,} planned</div>'
+           + ui.stacked_bar([(ok, C["complete"], "Complete"), (run, C["running"], "Running"),
+                             (fail, C["failed"], "Failed"), (other, C["stopped"], "Other"),
+                             (waiting, C["remaining"], "Not started")], detail_total)
+           + "</div>")
+    counts = df["Status"].value_counts().sort_values()
+    fig = go.Figure(go.Bar(
+        x=counts.values, y=counts.index, orientation="h",
+        marker=dict(color=[FAMILY_COLORS[_family(s)] for s in counts.index], cornerradius=4),
+        text=[f"{v:,}" for v in counts.values], textposition="outside", cliponaxis=False,
+        hovertemplate="%{y}: %{x:,}<extra></extra>"))
+    ui.style_fig(fig, max(200, 46 * len(counts) + 60), "Storms by status")
+    fig.update_xaxes(showticklabels=False, showline=False)
+    fig.update_yaxes(showgrid=False)
+    st.plotly_chart(fig, config=ui.PLOT_CONFIG, use_container_width=True)
+
+with tab_quality:
+    ok_df = df[df.Result == "Complete"]
+    q1, q2, q3 = st.columns(3)
+    for col_, label, name, unit in [(q1, "Max WSEL Err", "Median max WSE error", "ft"),
+                                    (q2, "Vol Error (%)", "Median volume error", "%"),
+                                    (q3, "Vol Error (AF)", "Median volume error", "AF")]:
+        if label in ok_df.columns and ok_df[label].notna().any():
+            col_.metric(name,
+                        f"{ok_df[label].median():,.3g} {unit}",
+                        help=f"95th percentile {ok_df[label].quantile(.95):,.3g} {unit}, completed storms only")
+    dots(df, "Max WSEL Err", "Max water-surface error per storm", [0, 20], "Max WSE error (ft)")
+    dots(df, "Vol Error (%)", "Volume error per storm", [0, 2], "Volume error (%)")
+    dots(df, "Vol Error (AF)", "Volume error per storm, acre-feet", [0, 100000], "Volume error (AF)")
+
+with tab_outputs:
+    metrics_with_units = {
+        "Max Depth (ft)": "Maximum flood depth (ft)",
+        "Max Volume (ft^3)": "Maximum volume (ft³)",
+        "Max Flow Balance (ft^3/s)": "Maximum flow balance (ft³/s)",
+        "Max Stage BC (ft)": "Maximum downstream boundary stage (ft)",
+        "Max Inflow BC (cfs)": "Maximum inflow boundary (cfs)",
+        "Max Cum PRCP (in)": "Maximum cumulative precipitation (in)",
+    }
+    available = [c for c in metrics_with_units if c in df.columns]
+    if available:
+        metric = st.selectbox("Output", available, format_func=metrics_with_units.get)
+        vals = pd.to_numeric(df[metric], errors="coerce")
+        p95 = vals.quantile(0.95)
+        band = df.assign(**{metric: vals, "Band": ["Above 95th percentile" if v > p95 else "Within"
+                                                   for v in vals]})
+        ylim = {"Max Cum PRCP (in)": [0, 100], "Max Stage BC (ft)": [0, 15]}.get(
+            metric, [0, p95 * 1.5] if pd.notna(p95) and p95 > 0 else None)
+
+        def _p95_line(fig):
+            fig.add_hline(y=p95, line=dict(color=ui.INK_3, width=1.5, dash="dot"),
+                          annotation_text=f"95th percentile {p95:,.3g}", annotation_position="top left",
+                          annotation_font=dict(size=12, color=ui.INK_2))
+
+        dots(band, metric, metrics_with_units[metric], ylim, metrics_with_units[metric], color_by="Band",
+             colors={"Within": ui.SERIES[0], "Above 95th percentile": ui.SERIES[1]}, extra=_p95_line)
+    else:
+        st.info("No model-output summary for this selection yet.")
+
+with tab_compute:
+    su = df[(df.Result == "Complete") & df["SUs"].notna()] if "SUs" in df.columns else df.iloc[0:0]
+    c1, c2, c3 = st.columns(3)
+    c1.metric("Total SUs used", f"{su['SUs'].sum():,.0f}" if len(su) else "0")
+    c2.metric("Median SUs per storm", f"{su['SUs'].median():,.1f}" if len(su) else "-")
+    c3.metric("Storms counted", f"{len(su):,}", help="AWS runs report 0 SUs (billed in dollars, not SUs)")
+    if len(su):
+        dots(su.assign(Result="Complete"), "SUs", "Service units per completed storm", None, "SUs")
+
+with tab_corr:
+    cols = [c for c in ["Vol Error (%)", "Vol Error (AF)", "Max Depth (ft)", "Max Volume (ft^3)",
+                        "Max Flow Balance (ft^3/s)", "Max Stage BC (ft)", "Max Inflow BC (cfs)",
+                        "Max Cum PRCP (in)"] if c in df.columns]
+    ok_df = df[df.Result == "Complete"][cols].apply(pd.to_numeric, errors="coerce")
+    if len(ok_df) > 2 and len(cols) > 1:
+        corr = ok_df.corr()
+        fig = go.Figure(go.Heatmap(
+            z=corr.values, x=corr.columns, y=corr.columns, zmin=-1, zmax=1, zmid=0,
+            colorscale=[[0, "#2a78d6"], [0.5, "#f0efec"], [1, "#e34948"]],
+            text=[[f"{v:.2f}" for v in row] for row in corr.values], texttemplate="%{text}",
+            textfont=dict(size=12), xgap=2, ygap=2,
+            hovertemplate="%{y} vs %{x}: %{z:.2f}<extra></extra>",
+            colorbar=dict(thickness=10, outlinewidth=0, tickvals=[-1, 0, 1])))
+        ui.style_fig(fig, 520, "Correlation between outputs, completed storms")
+        fig.update_xaxes(tickangle=-35, showline=False)
+        fig.update_yaxes(showgrid=False, autorange="reversed")
+        st.plotly_chart(fig, config=ui.PLOT_CONFIG, use_container_width=True)
+    else:
+        st.info("Not enough completed storms for a correlation yet.")
+
+with tab_table:
+    table = df.drop(columns=[c for c in ["Max Cum PRCP (inc)", "Result", "Storm Number"] if c in df.columns]).rename(
+        columns={"Duration": "CPU Runtime (hrs)", "Max WSEL Err": "WSEL Error Max (ft)",
+                 "Start Time": "CPU Start Time", "End Time": "CPU End Time"})
+    q = st.text_input("Search storms", placeholder="e.g. Northeast_L-H-H_c0097")
+    if q:
+        table = table[table["Directory"].astype(str).str.contains(q, case=False, regex=False)]
+    st.dataframe(table, hide_index=True, use_container_width=True, height=560)
+    st.caption(f"{len(table):,} storms")
