@@ -292,7 +292,7 @@ remaining = max(total_simulations - completed_simulations, 0)
 progress_percent = min(completed_simulations / total_simulations * 100, 100) if total_simulations else 0
 
 # storms per region in the non-TC production (dropped storms excluded)
-REGION_TOTALS = {"West": 2077, "Northeast": 2014, "Central": 3000, "Southeast": 3000}   # Central, Southeast: approximate until generated
+REGION_TOTALS = {"West": 2077, "Northeast": 2014, "Central": 3005, "Southeast": 3000}   # Southeast: approximate until generated
 REGION_RE = r"syn_event_([A-Za-z]+)_"
 non_tc = scenario_cfg.get("category") == "Non-Tropical Cyclones" and "Directory" in dfc.columns
 region_of = (dfc["Directory"].astype(str).str.extract(REGION_RE, expand=False).fillna("Other")
