@@ -138,16 +138,20 @@ def ring(parts, total, size=150, width=16, center="", sub=""):
     """Activity-style ring. parts: [(value, color)] drawn clockwise from 12 o'clock on a gray track."""
     r = (size - width) / 2
     c = 2 * 3.141592653589793 * r
-    arcs, start = [], 0.0
-    for value, color in parts:
-        frac = max(0.0, min(value / total, 1.0 - start)) if total else 0.0
-        if frac > 0:
+    # butt ends + a 2px gap between segments (round caps poke past each segment's end and overlap the next);
+    # a non-zero part is drawn at least `width` long so a small running count stays visible
+    gap = 2.0
+    lengths = [max(min(v / total, 1.0) * c, width) if total and v > 0 else 0.0 for v, _ in parts]
+    arcs, pos = [], 0.0
+    for (value, color), length in zip(parts, lengths):
+        length = min(length, c - pos)
+        if length > gap:
             arcs.append(f'<circle cx="{size/2}" cy="{size/2}" r="{r}" fill="none" stroke="{color}" '
-                        f'stroke-width="{width}" stroke-linecap="round" '
-                        f'stroke-dasharray="{max(frac * c - 2, 0.1):.2f} {c:.2f}" '
-                        f'stroke-dashoffset="{-start * c:.2f}" '
+                        f'stroke-width="{width}" stroke-linecap="butt" '
+                        f'stroke-dasharray="{length - gap:.2f} {c:.2f}" '
+                        f'stroke-dashoffset="{-pos:.2f}" '
                         f'transform="rotate(-90 {size/2} {size/2})"/>')
-            start += frac
+            pos += length
     fs = size * 0.2
     return (f'<svg width="{size}" height="{size}" viewBox="0 0 {size} {size}" role="img" '
             f'aria-label="{esc(center)} {esc(sub)}" style="flex:none">'
