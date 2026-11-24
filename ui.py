@@ -67,11 +67,12 @@ hr {{ display: none; }}
 .lwi-kpi-note {{ font-size: 13px; color: {INK_2}; margin-top: 1px; }}
 .lwi-grid {{ display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; }}
 .lwi-region {{ display: flex; align-items: center; gap: 18px; margin: 0; }}
+.lwi-region > div {{ min-width: 0; flex: 1; }}
 .lwi-region-name {{ font-size: 17px; font-weight: 600; color: {INK}; }}
 .lwi-region-num {{ font-size: 15px; color: {INK_2}; font-variant-numeric: tabular-nums; margin-top: 2px; }}
 .lwi-chips {{ display: flex; gap: 6px; flex-wrap: wrap; margin-top: 8px; }}
 .lwi-chip {{ display: inline-flex; align-items: center; gap: 5px; font-size: 12px; font-weight: 600;
-  padding: 3px 9px; border-radius: 999px; background: #f2f2f7; color: {INK_2}; }}
+  padding: 3px 9px; border-radius: 999px; background: #f2f2f7; color: {INK_2}; white-space: nowrap; }}
 .lwi-list {{ background: {SURFACE}; border-radius: 16px; overflow: hidden; margin-bottom: 16px;
   box-shadow: 0 1px 2px rgba(0,0,0,.04), 0 6px 24px rgba(0,0,0,.05); }}
 .lwi-list-head {{ font-size: 13px; font-weight: 600; color: {INK_3}; text-transform: uppercase;

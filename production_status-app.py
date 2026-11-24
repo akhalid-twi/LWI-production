@@ -317,7 +317,8 @@ elif left.total_seconds() >= 0:
 else:
     timing, timing_color = f"Overdue by {abs(left.days)} days", C["failed"]
 
-ring = ui.ring([(completed_simulations, C["complete"]), (running_now, C["running"])], total_simulations,
+ring = ui.ring([(completed_simulations, C["complete"]), (running_now, C["running"]), (queued_now, C["queued"])],
+               total_simulations,
                size=176, width=18, center=f"{progress_percent:.0f}%", sub="complete")
 kpis = "".join([
     ui.kpi("Completed", f"{completed_simulations:,}", f"of {total_simulations:,} storms", C["complete"]),
@@ -348,7 +349,7 @@ if non_tc:
                  if started else ui.chip("Not started"))
         cards.append(
             f'<div class="lwi-card lwi-region">'
-            f'{ui.ring([(done, C["complete"]), (run, C["running"])], total, size=92, width=11, center=f"{pct:.0f}%")}'
+            f'{ui.ring([(done, C["complete"]), (run, C["running"]), (que, C["queued"])], total, size=92, width=11, center=f"{pct:.0f}%")}'
             f'<div><div class="lwi-region-name">{ui.esc(region)}</div>'
             f'<div class="lwi-region-num">{done:,} of {total:,} storms</div>'
             f'<div class="lwi-chips">{chips}</div></div></div>')
