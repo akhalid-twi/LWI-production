@@ -317,7 +317,7 @@ syn_event_Northeast_L-H-L_c0152_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 23
 syn_event_Northeast_L-H-L_c0153_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 23 17:35,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS2 (akhalid_twi)
 syn_event_Northeast_L-H-L_c0154_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 24 09:13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS2 (akhalid_twi)
 syn_event_Northeast_L-H-L_c0155_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 24 09:13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS2 (akhalid_twi)
-syn_event_Northeast_L-H-L_c0156_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 24 09:13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS2 (akhalid_twi)
+syn_event_Northeast_L-H-L_c0156_SM3_BF1_Base,SUCCESS,6.148611111111111,0.0,post-proc incomplete,136909.,0.1202,17.51,Nov 24 09:17,Nov 24 15:26,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS2 (akhalid_twi)
 syn_event_Northeast_L-H-L_c0157_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 24 09:13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS2 (akhalid_twi)
 syn_event_Northeast_L-H-L_c0158_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 24 09:18,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS2 (akhalid_twi)
 syn_event_Northeast_L-H-L_c0159_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 24 09:18,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS2 (akhalid_twi)
