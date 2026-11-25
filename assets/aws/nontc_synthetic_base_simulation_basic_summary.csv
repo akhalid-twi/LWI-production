@@ -35,7 +35,7 @@ syn_event_Central_H-H-H-H_c0073_SM3_BF1_Base,Failed,N/A,0.0,Disk quota / HDF wri
 syn_event_Central_H-H-H-H_c0075_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,Nov 24 22:10,Nov 25 07:14,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_H-H-H-H_c0076_SM3_BF1_Base,Failed,N/A,0.0,Disk quota / HDF write error,N/A,N/A,N/A,Nov 24 22:10,Nov 25 07:14,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_H-H-H-H_c0079_SM3_BF1_Base,Failed,N/A,0.0,Disk quota / HDF write error,N/A,N/A,N/A,Nov 24 22:10,Nov 25 07:14,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
-syn_event_Central_H-H-H-H_c0080_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 24 21:56,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
+syn_event_Central_H-H-H-H_c0080_SM3_BF1_Base,SUCCESS,15.562222222222223,0.0,,292276.,0.1213,19.03,Nov 24 22:07,Nov 25 13:41,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_H-H-H-L_c0048_SM3_BF1_Base,Not started,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,-
 syn_event_Central_H-H-L-H_c0003_SM3_BF1_Base,Not started,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,-
 syn_event_Central_H-H-L-H_c0005_SM3_BF1_Base,Not started,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,-
@@ -68,9 +68,9 @@ syn_event_Central_H-L-H-H_c0012_SM3_BF1_Base,Failed,N/A,0.0,Disk quota / HDF wri
 syn_event_Central_H-L-H-H_c0019_SM3_BF1_Base,SUCCESS,7.788055555555555,0.0,,145909.,0.1033,20.80,Nov 24 22:29,Nov 25 06:16,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_H-L-H-H_c0023_SM3_BF1_Base,SUCCESS,7.9825,0.0,,144566.,0.1012,21.83,Nov 24 22:29,Nov 25 06:28,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_H-L-H-H_c0024_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,Nov 24 22:32,Nov 25 07:13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
-syn_event_Central_H-L-H-H_c0026_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 24 22:34,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
-syn_event_Central_H-L-H-H_c0027_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 24 22:34,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
-syn_event_Central_H-L-H-H_c0030_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 24 22:34,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
+syn_event_Central_H-L-H-H_c0026_SM3_BF1_Base,SUCCESS,15.2825,0.0,post-proc incomplete,253360.,0.1180,17.51,Nov 24 22:42,Nov 25 13:59,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
+syn_event_Central_H-L-H-H_c0027_SM3_BF1_Base,SUCCESS,14.92861111111111,0.0,,257495.,0.1211,22.37,Nov 24 22:43,Nov 25 13:38,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
+syn_event_Central_H-L-H-H_c0030_SM3_BF1_Base,SUCCESS,14.890833333333333,0.0,,258154.,0.1220,22.22,Nov 24 22:43,Nov 25 13:36,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_H-L-H-H_c0035_SM3_BF1_Base,Not started,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,-
 syn_event_Central_H-L-H-H_c0040_SM3_BF1_Base,Not started,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,-
 syn_event_Central_H-L-H-H_c0041_SM3_BF1_Base,SUCCESS,8.47888888888889,0.0,,146330.,0.1030,21.77,Nov 24 22:32,Nov 25 07:01,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
@@ -102,14 +102,14 @@ syn_event_Central_L-H-L-H_c0078_SM3_BF1_Base,Failed,N/A,0.0,Disk quota / HDF wri
 syn_event_Central_L-H-L-H_c0083_SM3_BF1_Base,Failed,N/A,0.0,Disk quota / HDF write error,N/A,N/A,N/A,Nov 25 07:10,Nov 25 07:10,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_L-H-L-H_c0084_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 25 07:03,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_L-H-L-H_c0085_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 25 07:04,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
-syn_event_Central_L-H-L-H_c0086_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 24 22:17,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
+syn_event_Central_L-H-L-H_c0086_SM3_BF1_Base,SUCCESS,14.906944444444445,0.0,,279049.,0.1273,22.24,Nov 24 22:27,Nov 25 13:21,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_L-H-L-H_c0090_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,Nov 24 22:27,Nov 25 11:25,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
-syn_event_Central_L-H-L-H_c0095_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 24 22:17,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
+syn_event_Central_L-H-L-H_c0095_SM3_BF1_Base,SUCCESS,14.919444444444444,0.0,,263238.,0.1215,17.51,Nov 24 22:26,Nov 25 13:21,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_L-H-L-H_c0096_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,Nov 24 22:27,Nov 25 11:25,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_L-H-L-H_c0100_SM3_BF1_Base,Failed,N/A,0.0,Disk quota / HDF write error,N/A,N/A,N/A,Nov 24 22:27,Nov 25 11:26,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_L-H-L-H_c0104_SM3_BF1_Base,Failed,N/A,0.0,Disk quota / HDF write error,N/A,N/A,N/A,Nov 24 22:26,Nov 25 07:15,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
-syn_event_Central_L-H-L-H_c0109_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 24 22:17,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
-syn_event_Central_L-H-L-H_c0116_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 24 22:17,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
+syn_event_Central_L-H-L-H_c0109_SM3_BF1_Base,SUCCESS,15.117222222222223,0.0,,258720.,0.1131,18.05,Nov 24 22:27,Nov 25 13:34,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
+syn_event_Central_L-H-L-H_c0116_SM3_BF1_Base,SUCCESS,15.163611111111111,0.0,,260406.,0.1153,17.51,Nov 24 22:26,Nov 25 13:36,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_L-H-L-H_c0125_SM3_BF1_Base,Not started,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,-
 syn_event_Central_L-H-L-H_c0126_SM3_BF1_Base,Not started,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,-
 syn_event_Central_L-H-L-H_c0127_SM3_BF1_Base,Not started,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,-
@@ -127,18 +127,18 @@ syn_event_Central_L-H-L-H_c0157_SM3_BF1_Base,Not started,N/A,0.0,,N/A,N/A,N/A,N/
 syn_event_Central_L-H-L-H_c0158_SM3_BF1_Base,Not started,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,-
 syn_event_Central_L-H-L-H_c0159_SM3_BF1_Base,Not started,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,-
 syn_event_Central_L-H-L-H_c0160_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,Nov 24 22:54,Nov 25 07:16,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
-syn_event_Central_L-H-L-H_c0161_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 24 22:37,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
+syn_event_Central_L-H-L-H_c0161_SM3_BF1_Base,SUCCESS,14.41638888888889,0.0,,254153.,0.1187,17.51,Nov 24 22:55,Nov 25 13:20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_L-H-L-H_c0162_SM3_BF1_Base,Failed,N/A,0.0,Disk quota / HDF write error,N/A,N/A,N/A,Nov 24 22:55,Nov 25 07:16,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_L-H-L-H_c0164_SM3_BF1_Base,Failed,N/A,0.0,Disk quota / HDF write error,N/A,N/A,N/A,Nov 24 22:55,Nov 25 07:16,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_L-H-L-H_c0170_SM3_BF1_Base,Failed,N/A,0.0,Disk quota / HDF write error,N/A,N/A,N/A,Nov 24 22:48,Nov 25 07:16,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_L-H-L-H_c0171_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,Nov 24 22:51,Nov 25 07:16,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
-syn_event_Central_L-H-L-H_c0174_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 24 22:36,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
+syn_event_Central_L-H-L-H_c0174_SM3_BF1_Base,SUCCESS,14.67361111111111,0.0,,273042.,0.1230,22.32,Nov 24 22:50,Nov 25 13:30,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_L-H-L-H_c0175_SM3_BF1_Base,Failed,N/A,0.0,Disk quota / HDF write error,N/A,N/A,N/A,Nov 24 22:48,Nov 25 07:16,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_L-H-L-H_c0178_SM3_BF1_Base,Failed,N/A,0.0,Disk quota / HDF write error,N/A,N/A,N/A,Nov 24 22:54,Nov 25 11:25,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_L-H-L-H_c0181_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,Nov 24 22:55,Nov 25 11:25,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
-syn_event_Central_L-H-L-H_c0184_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 24 22:37,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
-syn_event_Central_L-H-L-H_c0185_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 24 22:37,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
-syn_event_Central_L-H-L-H_c0188_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 24 22:36,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
+syn_event_Central_L-H-L-H_c0184_SM3_BF1_Base,SUCCESS,14.940833333333334,0.0,,260531.,0.1145,19.02,Nov 24 22:54,Nov 25 13:50,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
+syn_event_Central_L-H-L-H_c0185_SM3_BF1_Base,SUCCESS,15.07861111111111,0.0,post-proc incomplete,274572.,0.1227,22.19,Nov 24 22:55,Nov 25 14:00,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
+syn_event_Central_L-H-L-H_c0188_SM3_BF1_Base,SUCCESS,15.061111111111112,0.0,,259374.,0.1137,17.51,Nov 24 22:52,Nov 25 13:55,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_L-H-L-H_c0190_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,Nov 24 22:52,Nov 25 11:25,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_L-H-L-H_c0191_SM3_BF1_Base,Failed,N/A,0.0,Disk quota / HDF write error,N/A,N/A,N/A,Nov 24 22:52,Nov 25 11:25,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_L-H-L-H_c0195_SM3_BF1_Base,Failed,N/A,0.0,Disk quota / HDF write error,N/A,N/A,N/A,Nov 24 22:51,Nov 25 11:26,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
@@ -248,10 +248,10 @@ syn_event_Central_L-L-L-H_c0072_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N
 syn_event_Central_L-L-L-H_c0073_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,Nov 24 22:30,Nov 25 11:25,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_L-L-L-H_c0074_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,Nov 24 22:29,Nov 25 11:26,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_L-L-L-H_c0075_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,Nov 24 22:30,Nov 25 11:26,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
-syn_event_Central_L-L-L-H_c0076_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 24 22:20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
-syn_event_Central_L-L-L-H_c0077_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 24 22:20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
-syn_event_Central_L-L-L-H_c0078_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 24 22:20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
-syn_event_Central_L-L-L-H_c0079_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 24 22:20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
+syn_event_Central_L-L-L-H_c0076_SM3_BF1_Base,SUCCESS,15.290277777777778,0.0,,250044.,0.1104,17.58,Nov 24 22:32,Nov 25 13:49,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
+syn_event_Central_L-L-L-H_c0077_SM3_BF1_Base,SUCCESS,15.280000000000001,0.0,,253278.,0.1232,17.51,Nov 24 22:32,Nov 25 13:49,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
+syn_event_Central_L-L-L-H_c0078_SM3_BF1_Base,SUCCESS,15.055555555555557,0.0,,251206.,0.1308,17.51,Nov 24 22:32,Nov 25 13:35,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
+syn_event_Central_L-L-L-H_c0079_SM3_BF1_Base,SUCCESS,15.316666666666666,0.0,,252477.,0.1231,22.19,Nov 24 22:32,Nov 25 13:51,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_L-L-L-H_c0088_SM3_BF1_Base,Not started,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,-
 syn_event_Central_L-L-L-H_c0089_SM3_BF1_Base,Not started,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,-
 syn_event_Central_L-L-L-H_c0098_SM3_BF1_Base,Failed,N/A,0.0,Disk quota / HDF write error,N/A,N/A,N/A,Nov 24 23:09,Nov 25 11:24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
@@ -265,7 +265,7 @@ syn_event_Central_L-L-L-H_c0112_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N
 syn_event_Central_L-L-L-H_c0113_SM3_BF1_Base,Failed,N/A,0.0,Disk quota / HDF write error,N/A,N/A,N/A,Nov 24 22:02,Nov 25 11:25,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_L-L-L-H_c0114_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,Nov 24 23:09,Nov 25 07:16,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_L-L-L-H_c0115_SM3_BF1_Base,Failed,N/A,0.0,Disk quota / HDF write error,N/A,N/A,N/A,Nov 24 22:01,Nov 25 11:26,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
-syn_event_Central_L-L-L-H_c0116_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 24 21:53,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
+syn_event_Central_L-L-L-H_c0116_SM3_BF1_Base,SUCCESS,15.415000000000001,0.0,,266108.,0.1249,17.51,Nov 24 22:02,Nov 25 13:27,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_L-L-L-H_c0117_SM3_BF1_Base,Failed,N/A,0.0,Disk quota / HDF write error,N/A,N/A,N/A,Nov 24 22:02,Nov 25 11:25,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_L-L-L-H_c0118_SM3_BF1_Base,Failed,N/A,0.0,Disk quota / HDF write error,N/A,N/A,N/A,Nov 24 22:02,Nov 25 11:42,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_L-L-L-H_c0121_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,Nov 24 23:09,Nov 25 11:25,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
@@ -279,8 +279,8 @@ syn_event_Central_L-L-L-H_c0134_SM3_BF1_Base,Not started,N/A,0.0,,N/A,N/A,N/A,N/
 syn_event_Central_L-L-L-H_c0135_SM3_BF1_Base,Not started,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,-
 syn_event_Central_L-L-L-H_c0137_SM3_BF1_Base,Not started,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,-
 syn_event_Central_L-L-L-H_c0138_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,Nov 24 22:55,Nov 25 11:25,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
-syn_event_Central_L-L-L-H_c0140_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 24 22:43,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
-syn_event_Central_L-L-L-H_c0141_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 24 22:43,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
+syn_event_Central_L-L-L-H_c0140_SM3_BF1_Base,SUCCESS,15.043333333333333,0.0,,253356.,0.1301,17.51,Nov 24 22:55,Nov 25 13:58,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
+syn_event_Central_L-L-L-H_c0141_SM3_BF1_Base,SUCCESS,15.073888888888888,0.0,post-proc incomplete,298462.,0.1293,17.51,Nov 24 22:55,Nov 25 14:00,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_L-L-L-H_c0142_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 24 22:55,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_L-L-L-H_c0143_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,Nov 24 22:56,Nov 25 11:26,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_L-L-L-H_c0144_SM3_BF1_Base,Not started,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,-
@@ -352,8 +352,8 @@ syn_event_Central_L-L-L-H_c0218_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N
 syn_event_Central_L-L-L-H_c0219_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,Nov 24 23:09,Nov 25 07:14,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_L-L-L-H_c0220_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_L-L-L-H_c0221_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,Nov 24 23:08,Nov 25 07:23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
-syn_event_Central_L-L-L-H_c0223_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 24 22:55,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
-syn_event_Central_L-L-L-H_c0224_SM3_BF1_Base,SUCCESS,14.771111111111113,0.0,post-proc incomplete,288258.,0.1262,22.50,Nov 24 22:17,Nov 25 13:03,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
+syn_event_Central_L-L-L-H_c0223_SM3_BF1_Base,SUCCESS,14.745833333333332,0.0,,266865.,0.1316,21.48,Nov 24 23:08,Nov 25 13:53,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
+syn_event_Central_L-L-L-H_c0224_SM3_BF1_Base,SUCCESS,14.771111111111113,0.0,,288258.,0.1262,22.50,Nov 24 22:17,Nov 25 13:03,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_L-L-L-H_c0225_SM3_BF1_Base,Failed,N/A,0.0,Disk quota / HDF write error,N/A,N/A,N/A,Nov 24 22:17,Nov 25 11:26,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_L-L-L-H_c0226_SM3_BF1_Base,Failed,N/A,0.0,Disk quota / HDF write error,N/A,N/A,N/A,Nov 25 06:35,Nov 25 06:35,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_L-L-L-H_c0227_SM3_BF1_Base,Failed,N/A,0.0,Disk quota / HDF write error,N/A,N/A,N/A,Nov 24 22:17,Nov 25 11:25,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
@@ -363,7 +363,7 @@ syn_event_Central_L-L-L-H_c0233_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 24
 syn_event_Central_L-L-L-H_c0235_SM3_BF1_Base,Not started,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,-
 syn_event_Central_L-L-L-H_c0236_SM3_BF1_Base,Incomplete Model run,N/A,0.0,,N/A,N/A,N/A,Nov 24 23:03,Nov 25 11:25,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_L-L-L-H_c0237_SM3_BF1_Base,Failed,N/A,0.0,Disk quota / HDF write error,N/A,N/A,N/A,Nov 24 23:04,Nov 25 11:25,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
-syn_event_Central_L-L-L-H_c0238_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 24 22:54,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
+syn_event_Central_L-L-L-H_c0238_SM3_BF1_Base,SUCCESS,14.230277777777777,0.0,,267271.,0.1422,22.04,Nov 24 23:02,Nov 25 13:16,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_L-L-L-H_c0239_SM3_BF1_Base,Failed,N/A,0.0,Disk quota / HDF write error,N/A,N/A,N/A,Nov 24 23:04,Nov 25 11:25,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
 syn_event_Central_L-L-L-H_c0240_SM3_BF1_Base,Not started,N/A,0.0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,-
 syn_event_Central_L-L-L-H_c0241_SM3_BF1_Base,Running,N/A,0.0,,N/A,N/A,N/A,Nov 24 22:54,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,N/A,AWS
