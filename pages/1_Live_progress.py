@@ -6,6 +6,7 @@ Data: assets/<scenario>_simulation_progress.csv, written by update_dash on each 
 import pandas as pd
 import streamlit as st
 
+import data
 import ui
 
 ROOT_DIR = r"https://raw.githubusercontent.com/akhalid-twi/LWI-production/refs/heads/main/assets"
@@ -20,7 +21,7 @@ with st.sidebar:
 
 @st.cache_data(ttl=60)  # re-read from GitHub at most every 60 s
 def load(scenario_key: str) -> pd.DataFrame:
-    return pd.read_csv(f"{ROOT_DIR}/{scenario_key}_simulation_progress.csv")
+    return data.progress(scenario_key)      # every HPC's copy, merged at load
 
 
 key = st.selectbox("Scenario", list(SCENARIOS), format_func=SCENARIOS.get)

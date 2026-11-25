@@ -17,6 +17,7 @@ import re
 import requests
 from collections import defaultdict
 
+import data
 import ui
 
 
@@ -150,13 +151,13 @@ def load_merged_dataframe(scenario_key: str) -> pd.DataFrame:
     csv_basic, csv_hdf, url_basic, url_hdf = build_paths(scenario_key)
 
     # Load basic summary
-    df_basic = load_csv(url_basic)
+    df_basic = data.basic(scenario_key)   # every HPC's copy, merged at load
     # Standardize index
     df_basic["_index"] = df_basic["Directory"]
     df_basic = df_basic.set_index("_index")
 
     # Load HDF summary (uses 'folder' as index)
-    df_hdf = load_csv_with_index(url_hdf, index_col="folder")
+    df_hdf = data.hdf(scenario_key)
 
     # Merge HDF-derived metrics into df_basic
     # We assign by aligned index; ensure the indices match logically
@@ -267,7 +268,8 @@ def _ago(dt):
 
 
 with st.spinner(f"Loading {scenario_cfg['title']}…"):
-    modified_datetime = _get_last_updated_safe(scenario_key)
+    pushes = data.push_times()                       # last push per HPC
+    modified_datetime = max(pushes.values()) if pushes else _get_last_updated_safe(scenario_key)
     try:
         df = load_merged_dataframe(scenario_key)
     except Exception as e:
@@ -277,7 +279,7 @@ with st.spinner(f"Loading {scenario_cfg['title']}…"):
     # counts from the live storm table (lwicheck on every platform), so this page, the Live
     # progress page and lwicheck agree; the older run summary (df) stays the source for the charts
     try:
-        _p = load_csv(f"{ROOT_DIR}/{scenario_key}_simulation_progress.csv")
+        _p = data.progress(scenario_key)
         _status = {"COMPLETE": "SUCCESS", "RUNNING": "Running", "PRE-PROC": "Running", "POST-PROC": "Running",
                    "FAILED": "Failed", "STOPPED": "Stopped", "QUEUED": "Queued"}
         dfc = _p.assign(Status=_p.Status.map(_status))
@@ -374,6 +376,7 @@ if "Platform" in dfc.columns:
         act[["System", "Row"]] = [list(_place(p)) for p in act.Platform]
         act["Region"] = region_of[act.index] if region_of is not None else "-"
         lists = []
+        pushed = lambda who: _ago(pushes.get(who)).replace("Updated", "updated") if pushes.get(who) else ""
         for system in ["AWS", "TACC Stampede3", "Other"]:
             g = act[act.System == system]
             if not len(g):
@@ -385,10 +388,13 @@ if "Platform" in dfc.columns:
                     run, que = int((rr.Status == "Running").sum()), int((rr.Status == "Queued").sum())
                     regs.append(reg + (f" · {run:,} running" if run else "") + (f" · {que:,} queued" if que else "")
                                 if (run or que) else f"{reg} · done")
-                rows.append((name, "   |   ".join(regs),
+                who = "AWS2" if name.startswith("AWS2") else "AWS" if name.startswith("AWS1") else None
+                sub = "   |   ".join(regs) + (f"   ·   {pushed(who)}" if who and pushed(who) else "")
+                rows.append((name, sub,
                              (f'{int((gr.Status == "Running").sum()):,}', "running"),
                              (f'{int((gr.Status == "SUCCESS").sum()):,}', "completed")))
-            lists.append(ui.grouped_list(system, rows))
+            title = system + (f" · {pushed('Stampede3')}" if system == "TACC Stampede3" and pushed("Stampede3") else "")
+            lists.append(ui.grouped_list(title, rows))
         ui.raw(f'<div class="lwi-grid" style="grid-template-columns:repeat(auto-fit,minmax(420px,1fr))">'
                f'{"".join(lists)}</div>')
 
