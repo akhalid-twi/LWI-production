@@ -160,15 +160,15 @@ syn_event_Central_L-H-L-H_c0066_SM3_BF1_Base,Running,,0.0,,,,,Nov 25 21:35,,,,,,
 syn_event_Central_L-H-L-H_c0068_SM3_BF1_Base,Running,,0.0,,,,,Nov 25 21:35,,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0078_SM3_BF1_Base,Failed,,0.0,Disk quota / HDF write error,,,,Nov 25 07:05,Nov 25 07:05,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0080_SM3_BF1_Base,Running,,0.0,,,,,Nov 25 21:35,,,,,,,,,,,,AWS
-syn_event_Central_L-H-L-H_c0081_SM3_BF1_Base,Running,,0.0,,,,,Nov 25 21:35,,,,,,,,,,,,AWS
-syn_event_Central_L-H-L-H_c0082_SM3_BF1_Base,Running,,0.0,,,,,Nov 25 21:35,,,,,,,,,,,,AWS
+syn_event_Central_L-H-L-H_c0081_SM3_BF1_Base,SUCCESS,5.286111111111111,0.0,,123334.0,0.1016,21.87,Nov 25 21:50,Nov 26 03:08,,,,,,,,,,,AWS
+syn_event_Central_L-H-L-H_c0082_SM3_BF1_Base,SUCCESS,5.356944444444444,0.0,,113498.0,0.106,17.51,Nov 25 21:45,Nov 26 03:06,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0083_SM3_BF1_Base,Failed,,0.0,Disk quota / HDF write error,,,,Nov 25 07:10,Nov 25 07:10,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0084_SM3_BF1_Base,Running,,0.0,,,,,Nov 25 07:03,,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0085_SM3_BF1_Base,Running,,0.0,,,,,Nov 25 07:04,,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0086_SM3_BF1_Base,SUCCESS,14.906944444444443,0.0,,279049.0,0.1273,22.24,Nov 24 22:27,Nov 25 13:21,,,,,,,,,,,AWS
-syn_event_Central_L-H-L-H_c0087_SM3_BF1_Base,Running,,0.0,,,,,Nov 25 21:35,,,,,,,,,,,,AWS
+syn_event_Central_L-H-L-H_c0087_SM3_BF1_Base,SUCCESS,5.5119444444444445,0.0,post-proc incomplete,116470.0,0.1012,18.07,Nov 25 21:50,Nov 26 03:20,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0088_SM3_BF1_Base,Running,,0.0,,,,,Nov 25 21:35,,,,,,,,,,,,AWS
-syn_event_Central_L-H-L-H_c0089_SM3_BF1_Base,Running,,0.0,,,,,Nov 25 21:35,,,,,,,,,,,,AWS
+syn_event_Central_L-H-L-H_c0089_SM3_BF1_Base,SUCCESS,5.610555555555555,0.0,post-proc incomplete,133873.0,0.1255,17.51,Nov 25 21:44,Nov 26 03:20,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0090_SM3_BF1_Base,Incomplete Model run,,0.0,,,,,Nov 24 22:27,Nov 25 11:25,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0091_SM3_BF1_Base,Running,,0.0,,,,,Nov 25 21:35,,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0092_SM3_BF1_Base,Running,,0.0,,,,,Nov 25 21:35,,,,,,,,,,,,AWS
