@@ -273,7 +273,7 @@ syn_event_Central_L-H-L-H_c0093_SM3_BF1_Base,Running,,0.0,,,,,Nov 26 18:07,,,,,,
 syn_event_Central_L-H-L-H_c0094_SM3_BF1_Base,Running,,0.0,,,,,Nov 26 18:07,,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0095_SM3_BF1_Base,SUCCESS,14.919444444444444,0.0,,263238.0,0.1215,17.51,Nov 24 22:26,Nov 25 13:21,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0096_SM3_BF1_Base,Incomplete Model run,,0.0,,,,,Nov 24 22:27,Nov 25 11:25,,,,,,,,,,,AWS
-syn_event_Central_L-H-L-H_c0097_SM3_BF1_Base,Running,,0.0,,,,,Nov 26 18:07,,,,,,,,,,,,AWS
+syn_event_Central_L-H-L-H_c0097_SM3_BF1_Base,SUCCESS,6.285,0.0,post-proc incomplete,122372.0,0.1079,17.51,Nov 26 18:11,Nov 27 00:28,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0098_SM3_BF1_Base,Running,,0.0,,,,,Nov 26 18:07,,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0099_SM3_BF1_Base,Running,,0.0,,,,,Nov 26 18:14,,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0100_SM3_BF1_Base,SUCCESS,14.660833333333334,0.0,,259471.0,0.118,19.29,Nov 25 21:53,Nov 26 12:33,,,,,,,,,,,AWS
@@ -295,7 +295,7 @@ syn_event_Central_L-H-L-H_c0126_SM3_BF1_Base,SUCCESS,14.759166666666667,0.0,,256
 syn_event_Central_L-H-L-H_c0127_SM3_BF1_Base,SUCCESS,16.220555555555553,0.0,,249587.0,0.1121,17.51,Nov 25 21:51,Nov 26 14:04,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0128_SM3_BF1_Base,SUCCESS,15.845,0.0,,256965.0,0.1122,17.51,Nov 25 21:52,Nov 26 13:43,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0129_SM3_BF1_Base,SUCCESS,15.83888888888889,0.0,,278364.0,0.1221,17.51,Nov 25 21:49,Nov 26 13:39,,,,,,,,,,,AWS
-syn_event_Central_L-H-L-H_c0130_SM3_BF1_Base,Running,,0.0,,,,,Nov 26 18:15,,,,,,,,,,,,AWS
+syn_event_Central_L-H-L-H_c0130_SM3_BF1_Base,SUCCESS,6.166111111111111,0.0,post-proc incomplete,116942.0,0.111,17.51,Nov 26 18:19,Nov 27 00:28,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0131_SM3_BF1_Base,Running,,0.0,,,,,Nov 26 18:24,,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0133_SM3_BF1_Base,Running,,0.0,,,,,Nov 26 18:24,,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0134_SM3_BF1_Base,SUCCESS,15.995,0.0,,253154.0,0.1099,17.51,Nov 25 21:49,Nov 26 13:49,,,,,,,,,,,AWS
