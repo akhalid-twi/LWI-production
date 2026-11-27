@@ -254,6 +254,7 @@ syn_event_Central_L-H-L-H_c0042_SM3_BF1_Base,SUCCESS,5.556111111111111,0.0,,1214
 syn_event_Central_L-H-L-H_c0046_SM3_BF1_Base,SUCCESS,6.8225,0.0,,110194.0,0.09214,17.51,Nov 25 21:50,Nov 26 04:40,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0047_SM3_BF1_Base,SUCCESS,6.7725,0.0,,117495.0,0.1019,17.51,Nov 25 21:51,Nov 26 04:38,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0048_SM3_BF1_Base,SUCCESS,6.838611111111111,0.0,,121748.0,0.1059,17.51,Nov 25 21:52,Nov 26 04:42,,,,,,,,,,,AWS
+syn_event_Central_L-H-L-H_c0049_SM3_BF1_Base,Running,,0.0,,,,,Nov 27 19:52,,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0050_SM3_BF1_Base,SUCCESS,6.601944444444444,0.0,,122292.0,0.1121,21.82,Nov 25 21:50,Nov 26 04:26,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0057_SM3_BF1_Base,SUCCESS,6.4013888888888895,0.0,,112051.0,0.1001,18.1,Nov 25 21:49,Nov 26 04:13,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0059_SM3_BF1_Base,SUCCESS,6.281944444444444,0.0,,121207.0,0.1142,17.51,Nov 25 21:50,Nov 26 04:07,,,,,,,,,,,AWS
@@ -263,6 +264,7 @@ syn_event_Central_L-H-L-H_c0063_SM3_BF1_Base,SUCCESS,5.745833333333334,0.0,,1194
 syn_event_Central_L-H-L-H_c0065_SM3_BF1_Base,SUCCESS,5.626944444444445,0.0,,114874.0,0.1075,17.51,Nov 25 21:44,Nov 26 03:21,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0066_SM3_BF1_Base,SUCCESS,5.683055555555556,0.0,,115057.0,0.09921,17.51,Nov 25 21:46,Nov 26 03:27,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0068_SM3_BF1_Base,SUCCESS,5.695833333333334,0.0,,114848.0,0.104,17.51,Nov 25 21:50,Nov 26 03:31,,,,,,,,,,,AWS
+syn_event_Central_L-H-L-H_c0070_SM3_BF1_Base,Running,,0.0,,,,,Nov 27 19:52,,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0078_SM3_BF1_Base,Failed,,0.0,Disk quota / HDF write error,,,,Nov 25 07:05,Nov 25 07:05,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0080_SM3_BF1_Base,SUCCESS,5.539166666666667,0.0,,120839.0,0.1066,17.51,Nov 25 21:50,Nov 26 03:22,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0081_SM3_BF1_Base,SUCCESS,5.286111111111111,0.0,,123334.0,0.1016,21.87,Nov 25 21:50,Nov 26 03:08,,,,,,,,,,,AWS
@@ -293,9 +295,11 @@ syn_event_Central_L-H-L-H_c0109_SM3_BF1_Base,SUCCESS,15.117222222222225,0.0,,258
 syn_event_Central_L-H-L-H_c0110_SM3_BF1_Base,SUCCESS,6.752777777777778,0.0,,122708.0,0.1056,17.9,Nov 26 18:18,Nov 27 01:03,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0111_SM3_BF1_Base,SUCCESS,6.486944444444444,0.0,,112161.0,0.1001,22.32,Nov 26 18:18,Nov 27 00:47,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0112_SM3_BF1_Base,SUCCESS,6.429444444444445,0.0,,115385.0,0.09778,22.41,Nov 26 18:18,Nov 27 00:44,,,,,,,,,,,AWS
+syn_event_Central_L-H-L-H_c0115_SM3_BF1_Base,Running,,0.0,,,,,Nov 27 19:52,,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0116_SM3_BF1_Base,SUCCESS,15.163611111111113,0.0,,260406.0,0.1153,17.51,Nov 24 22:26,Nov 25 13:36,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0117_SM3_BF1_Base,SUCCESS,6.341944444444444,0.0,,113142.0,0.09661,17.51,Nov 26 18:18,Nov 27 00:39,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0119_SM3_BF1_Base,SUCCESS,6.495833333333334,0.0,,116882.0,0.1015,17.51,Nov 26 18:18,Nov 27 00:48,,,,,,,,,,,AWS
+syn_event_Central_L-H-L-H_c0120_SM3_BF1_Base,Running,,0.0,,,,,Nov 27 19:52,,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0121_SM3_BF1_Base,SUCCESS,6.495555555555556,0.0,,117980.0,0.1024,17.51,Nov 26 18:18,Nov 27 00:48,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0122_SM3_BF1_Base,SUCCESS,6.4719444444444445,0.0,,119170.0,0.1098,18.11,Nov 26 18:18,Nov 27 00:47,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0125_SM3_BF1_Base,SUCCESS,14.663611111111113,0.0,,268354.0,0.119,17.51,Nov 25 21:52,Nov 26 12:32,,,,,,,,,,,AWS
@@ -310,6 +314,7 @@ syn_event_Central_L-H-L-H_c0134_SM3_BF1_Base,SUCCESS,15.995,0.0,,253154.0,0.1099
 syn_event_Central_L-H-L-H_c0136_SM3_BF1_Base,SUCCESS,16.785,0.0,,253164.0,0.1084,17.51,Nov 25 21:52,Nov 26 14:39,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0137_SM3_BF1_Base,SUCCESS,16.70611111111111,0.0,,252958.0,0.1076,17.51,Nov 25 21:53,Nov 26 14:35,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0138_SM3_BF1_Base,SUCCESS,16.559722222222224,0.0,,259210.0,0.1099,17.51,Nov 25 21:46,Nov 26 14:19,,,,,,,,,,,AWS
+syn_event_Central_L-H-L-H_c0140_SM3_BF1_Base,Running,,0.0,,,,,Nov 27 20:11,,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0141_SM3_BF1_Base,SUCCESS,6.596111111111111,0.0,,119054.0,0.1031,17.51,Nov 26 18:28,Nov 27 01:04,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0142_SM3_BF1_Base,SUCCESS,16.75111111111111,0.0,,264745.0,0.1127,19.9,Nov 25 21:50,Nov 26 14:35,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0145_SM3_BF1_Base,SUCCESS,16.059722222222224,0.0,,268382.0,0.1168,22.19,Nov 25 21:49,Nov 26 13:53,,,,,,,,,,,AWS
@@ -318,6 +323,7 @@ syn_event_Central_L-H-L-H_c0150_SM3_BF1_Base,SUCCESS,6.544444444444444,0.0,,1146
 syn_event_Central_L-H-L-H_c0151_SM3_BF1_Base,SUCCESS,6.416111111111111,0.0,,120818.0,0.1054,17.51,Nov 26 18:30,Nov 27 00:55,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0152_SM3_BF1_Base,SUCCESS,6.4077777777777785,0.0,,129086.0,0.1182,23.09,Nov 26 18:30,Nov 27 00:54,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0153_SM3_BF1_Base,SUCCESS,6.39638888888889,0.0,,115107.0,0.09726,17.51,Nov 26 18:30,Nov 27 00:54,,,,,,,,,,,AWS
+syn_event_Central_L-H-L-H_c0154_SM3_BF1_Base,Running,,0.0,,,,,Nov 27 20:11,,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0155_SM3_BF1_Base,SUCCESS,16.38888888888889,0.0,,267388.0,0.1245,17.51,Nov 25 21:52,Nov 26 14:15,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0156_SM3_BF1_Base,SUCCESS,16.099722222222223,0.0,,254609.0,0.1228,17.51,Nov 25 21:50,Nov 26 13:56,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0157_SM3_BF1_Base,SUCCESS,16.76222222222222,0.0,,258358.0,0.119,22.51,Nov 25 21:53,Nov 26 14:39,,,,,,,,,,,AWS
@@ -331,6 +337,7 @@ syn_event_Central_L-H-L-H_c0164_SM3_BF1_Base,SUCCESS,17.911666666666665,0.0,,255
 syn_event_Central_L-H-L-H_c0165_SM3_BF1_Base,SUCCESS,6.383611111111112,0.0,,115991.0,0.1072,17.51,Nov 26 18:38,Nov 27 01:01,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0166_SM3_BF1_Base,SUCCESS,6.469166666666667,0.0,,113755.0,0.0994,17.51,Nov 26 18:38,Nov 27 01:06,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0167_SM3_BF1_Base,SUCCESS,6.294722222222222,0.0,,118368.0,0.1097,17.51,Nov 26 18:38,Nov 27 00:56,,,,,,,,,,,AWS
+syn_event_Central_L-H-L-H_c0168_SM3_BF1_Base,Running,,0.0,,,,,Nov 27 20:11,,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0169_SM3_BF1_Base,SUCCESS,6.617500000000001,0.0,,112896.0,0.09868,17.51,Nov 26 18:46,Nov 27 01:23,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0170_SM3_BF1_Base,SUCCESS,17.546666666666667,0.0,,264170.0,0.1211,18.06,Nov 25 21:50,Nov 26 15:23,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0171_SM3_BF1_Base,SUCCESS,17.65583333333333,0.0,,254223.0,0.1162,17.51,Nov 25 21:53,Nov 26 15:32,,,,,,,,,,,AWS
@@ -354,6 +361,7 @@ syn_event_Central_L-H-L-H_c0190_SM3_BF1_Base,SUCCESS,16.154722222222222,0.0,,273
 syn_event_Central_L-H-L-H_c0191_SM3_BF1_Base,SUCCESS,16.41444444444444,0.0,,267589.0,0.119,17.51,Nov 25 21:49,Nov 26 14:14,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0194_SM3_BF1_Base,SUCCESS,7.2619444444444445,0.0,,118633.0,0.1043,17.51,Nov 26 18:57,Nov 27 02:13,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0195_SM3_BF1_Base,SUCCESS,17.68888888888889,0.0,,253925.0,0.1114,22.27,Nov 25 21:53,Nov 26 15:34,,,,,,,,,,,AWS
+syn_event_Central_L-H-L-H_c0196_SM3_BF1_Base,Running,,0.0,,,,,Nov 27 20:11,,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0200_SM3_BF1_Base,SUCCESS,7.130277777777778,0.0,,120470.0,0.1041,17.51,Nov 26 18:57,Nov 27 02:05,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0201_SM3_BF1_Base,SUCCESS,15.130555555555556,0.0,,254166.0,0.11,17.51,Nov 25 06:47,Nov 25 21:55,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-H_c0205_SM3_BF1_Base,SUCCESS,6.848055555555555,0.0,,137054.0,0.1296,17.51,Nov 26 19:33,Nov 27 02:24,,,,,,,,,,,AWS
@@ -572,7 +580,7 @@ syn_event_Central_L-H-L-L_c0294_SM3_BF1_Base,Running,,0.0,,,,,Nov 27 14:53,,,,,,
 syn_event_Central_L-H-L-L_c0295_SM3_BF1_Base,Running,,0.0,,,,,Nov 27 14:53,,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-L_c0298_SM3_BF1_Base,Running,,0.0,,,,,Nov 27 14:53,,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-L_c0306_SM3_BF1_Base,Running,,0.0,,,,,Nov 27 15:12,,,,,,,,,,,,AWS
-syn_event_Central_L-H-L-L_c0307_SM3_BF1_Base,Running,,0.0,,,,,Nov 27 15:12,,,,,,,,,,,,AWS
+syn_event_Central_L-H-L-L_c0307_SM3_BF1_Base,SUCCESS,5.464444444444444,0.0,post-proc incomplete,115116.0,0.1092,22.41,Nov 27 15:15,Nov 27 20:43,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-L_c0309_SM3_BF1_Base,Running,,0.0,,,,,Nov 27 15:12,,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-L_c0311_SM3_BF1_Base,Running,,0.0,,,,,Nov 27 15:12,,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-L_c0312_SM3_BF1_Base,Running,,0.0,,,,,Nov 27 15:18,,,,,,,,,,,,AWS
@@ -913,7 +921,7 @@ syn_event_Central_L-L-L-H_c0211_SM3_BF1_Base,SUCCESS,15.804722222222225,0.0,,265
 syn_event_Central_L-L-L-H_c0212_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_Central_L-L-L-H_c0213_SM3_BF1_Base,SUCCESS,15.36361111111111,0.0,,283015.0,0.1421,22.16,Nov 26 23:18,Nov 27 14:40,,,,,,,,,,,AWS
 syn_event_Central_L-L-L-H_c0214_SM3_BF1_Base,Running,,0.0,,,,,Nov 27 15:24,,,,,,,,,,,,AWS
-syn_event_Central_L-L-L-H_c0215_SM3_BF1_Base,SUCCESS,14.816944444444443,0.0,post-proc incomplete,261735.0,0.1275,22.36,Nov 27 04:38,Nov 27 19:27,,,,,,,,,,,AWS
+syn_event_Central_L-L-L-H_c0215_SM3_BF1_Base,SUCCESS,14.816944444444443,0.0,,261735.0,0.1275,22.36,Nov 27 04:38,Nov 27 19:27,,,,,,,,,,,AWS
 syn_event_Central_L-L-L-H_c0217_SM3_BF1_Base,SUCCESS,14.814722222222224,0.0,,259532.0,0.1249,17.51,Nov 27 04:37,Nov 27 19:26,,,,,,,,,,,AWS
 syn_event_Central_L-L-L-H_c0218_SM3_BF1_Base,Running,,0.0,,,,,Nov 27 08:44,,,,,,,,,,,,AWS
 syn_event_Central_L-L-L-H_c0219_SM3_BF1_Base,Running,,0.0,,,,,Nov 27 07:46,,,,,,,,,,,,AWS
@@ -922,13 +930,13 @@ syn_event_Central_L-L-L-H_c0221_SM3_BF1_Base,Running,,0.0,,,,,Nov 27 07:46,,,,,,
 syn_event_Central_L-L-L-H_c0222_SM3_BF1_Base,SUCCESS,14.81388888888889,0.0,,274712.0,0.1286,22.2,Nov 27 04:38,Nov 27 19:26,,,,,,,,,,,AWS
 syn_event_Central_L-L-L-H_c0223_SM3_BF1_Base,SUCCESS,14.745833333333332,0.0,,266865.0,0.1316,21.48,Nov 24 23:08,Nov 25 13:53,,,,,,,,,,,AWS
 syn_event_Central_L-L-L-H_c0224_SM3_BF1_Base,SUCCESS,14.771111111111113,0.0,,288258.0,0.1262,22.5,Nov 24 22:17,Nov 25 13:03,,,,,,,,,,,AWS
-syn_event_Central_L-L-L-H_c0225_SM3_BF1_Base,SUCCESS,14.928333333333333,0.0,post-proc incomplete,278880.0,0.1405,22.35,Nov 27 04:38,Nov 27 19:33,,,,,,,,,,,AWS
+syn_event_Central_L-L-L-H_c0225_SM3_BF1_Base,SUCCESS,14.928333333333333,0.0,,278880.0,0.1405,22.35,Nov 27 04:38,Nov 27 19:33,,,,,,,,,,,AWS
 syn_event_Central_L-L-L-H_c0226_SM3_BF1_Base,Running,,0.0,,,,,Nov 27 15:24,,,,,,,,,,,,AWS
-syn_event_Central_L-L-L-H_c0227_SM3_BF1_Base,SUCCESS,14.675277777777778,0.0,post-proc incomplete,259459.0,0.1207,22.35,Nov 27 04:50,Nov 27 19:31,,,,,,,,,,,AWS
+syn_event_Central_L-L-L-H_c0227_SM3_BF1_Base,SUCCESS,14.675277777777778,0.0,,259459.0,0.1207,22.35,Nov 27 04:50,Nov 27 19:31,,,,,,,,,,,AWS
 syn_event_Central_L-L-L-H_c0228_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
-syn_event_Central_L-L-L-H_c0229_SM3_BF1_Base,SUCCESS,14.695277777777775,0.0,post-proc incomplete,266097.0,0.126,17.51,Nov 27 04:51,Nov 27 19:32,,,,,,,,,,,AWS
-syn_event_Central_L-L-L-H_c0230_SM3_BF1_Base,Running,,0.0,,,,,Nov 27 04:42,,,,,,,,,,,,AWS
-syn_event_Central_L-L-L-H_c0231_SM3_BF1_Base,SUCCESS,14.688611111111111,0.0,post-proc incomplete,257966.0,0.1193,17.51,Nov 27 04:51,Nov 27 19:32,,,,,,,,,,,AWS
+syn_event_Central_L-L-L-H_c0229_SM3_BF1_Base,SUCCESS,14.695277777777775,0.0,,266097.0,0.126,17.51,Nov 27 04:51,Nov 27 19:32,,,,,,,,,,,AWS
+syn_event_Central_L-L-L-H_c0230_SM3_BF1_Base,SUCCESS,15.008333333333333,0.0,,260249.0,0.1285,17.51,Nov 27 04:50,Nov 27 19:51,,,,,,,,,,,AWS
+syn_event_Central_L-L-L-H_c0231_SM3_BF1_Base,SUCCESS,14.688611111111111,0.0,,257966.0,0.1193,17.51,Nov 27 04:51,Nov 27 19:32,,,,,,,,,,,AWS
 syn_event_Central_L-L-L-H_c0232_SM3_BF1_Base,Running,,0.0,,,,,Nov 27 06:52,,,,,,,,,,,,AWS
 syn_event_Central_L-L-L-H_c0233_SM3_BF1_Base,SUCCESS,15.621111111111112,0.0,,262987.0,0.1294,22.38,Nov 24 23:09,Nov 25 14:46,,,,,,,,,,,AWS
 syn_event_Central_L-L-L-H_c0234_SM3_BF1_Base,Running,,0.0,,,,,Nov 27 06:52,,,,,,,,,,,,AWS
