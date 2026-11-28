@@ -47,7 +47,7 @@ syn_event_Central_H-H-L-H_c0011_SM3_BF1_Base,Running,,0.0,,,,,Nov 28 05:05,,,,,,
 syn_event_Central_H-H-L-H_c0015_SM3_BF1_Base,Running,,0.0,,,,,Nov 28 05:05,,,,,,,,,,,,AWS
 syn_event_Central_H-H-L-H_c0020_SM3_BF1_Base,Running,,0.0,,,,,Nov 27 10:15,,,,,,,,,,,,AWS
 syn_event_Central_H-H-L-H_c0022_SM3_BF1_Base,SUCCESS,16.89388888888889,0.0,,371283.0,0.156,17.51,Nov 24 23:08,Nov 25 16:02,,,,,,,,,,,AWS
-syn_event_Central_H-H-L-H_c0024_SM3_BF1_Base,Running,,0.0,,,,,Nov 27 10:15,,,,,,,,,,,,AWS
+syn_event_Central_H-H-L-H_c0024_SM3_BF1_Base,SUCCESS,19.389722222222225,0.0,post-proc incomplete,355793.0,0.1485,17.51,Nov 27 10:25,Nov 28 05:48,,,,,,,,,,,AWS
 syn_event_Central_H-H-L-H_c0028_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_Central_H-H-L-H_c0029_SM3_BF1_Base,Not started,,0.0,,,,,,,,,,,,,,,,,-
 syn_event_Central_H-H-L-H_c0031_SM3_BF1_Base,SUCCESS,19.192222222222224,0.0,post-proc incomplete,345996.0,0.1392,17.51,Nov 27 10:25,Nov 28 05:37,,,,,,,,,,,AWS
@@ -737,7 +737,7 @@ syn_event_Central_L-H-L-L_c0431_SM3_BF1_Base,SUCCESS,6.462777777777778,0.0,,1147
 syn_event_Central_L-H-L-L_c0432_SM3_BF1_Base,SUCCESS,6.523611111111111,0.0,,116481.0,0.0982,17.51,Nov 27 21:45,Nov 28 04:17,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-L_c0433_SM3_BF1_Base,SUCCESS,6.44,0.0,,115303.0,0.09978,17.51,Nov 27 21:46,Nov 28 04:12,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-L_c0435_SM3_BF1_Base,SUCCESS,6.491944444444444,0.0,,134270.0,0.1209,17.51,Nov 27 21:45,Nov 28 04:15,,,,,,,,,,,AWS
-syn_event_Central_L-H-L-L_c0436_SM3_BF1_Base,Running,,0.0,,,,,Nov 27 22:09,,,,,,,,,,,,AWS
+syn_event_Central_L-H-L-L_c0436_SM3_BF1_Base,SUCCESS,7.598333333333333,0.0,post-proc incomplete,126036.0,0.116,18.11,Nov 27 22:13,Nov 28 05:49,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-L_c0439_SM3_BF1_Base,Failed,,0.0,Disk quota / HDF write error,,,,Nov 27 22:13,Nov 28 04:32,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-L_c0440_SM3_BF1_Base,Incomplete Model run,,0.0,,,,,Nov 27 22:13,Nov 28 04:32,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-L_c0443_SM3_BF1_Base,SUCCESS,7.3677777777777775,0.0,,130524.0,0.1157,17.51,Nov 27 22:13,Nov 28 05:35,,,,,,,,,,,AWS
