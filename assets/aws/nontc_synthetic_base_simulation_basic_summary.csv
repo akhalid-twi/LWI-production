@@ -634,7 +634,7 @@ syn_event_Central_L-H-L-L_c0377_SM3_BF1_Base,SUCCESS,5.420277777777778,0.0,,1148
 syn_event_Central_L-H-L-L_c0384_SM3_BF1_Base,SUCCESS,6.403055555555556,0.0,post-proc incomplete,113586.0,0.1001,17.51,Nov 27 21:17,Nov 28 03:41,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-L_c0385_SM3_BF1_Base,SUCCESS,6.246944444444445,0.0,,125941.0,0.1236,17.51,Nov 27 21:17,Nov 28 03:32,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-L_c0386_SM3_BF1_Base,SUCCESS,6.4175,0.0,post-proc incomplete,120628.0,0.105,17.51,Nov 27 21:17,Nov 28 03:42,,,,,,,,,,,AWS
-syn_event_Central_L-H-L-L_c0387_SM3_BF1_Base,Running,,0.0,,,,,Nov 27 21:13,,,,,,,,,,,,AWS
+syn_event_Central_L-H-L-L_c0387_SM3_BF1_Base,SUCCESS,6.515833333333333,0.0,post-proc incomplete,117610.0,0.1085,22.2,Nov 27 21:17,Nov 28 03:48,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-L_c0388_SM3_BF1_Base,Running,,0.0,,,,,Nov 27 21:23,,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-L_c0389_SM3_BF1_Base,Running,,0.0,,,,,Nov 27 21:23,,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-L_c0390_SM3_BF1_Base,Running,,0.0,,,,,Nov 27 21:23,,,,,,,,,,,,AWS
@@ -648,7 +648,7 @@ syn_event_Central_L-H-L-L_c0401_SM3_BF1_Base,SUCCESS,5.697222222222223,0.0,,1116
 syn_event_Central_L-H-L-L_c0402_SM3_BF1_Base,SUCCESS,5.612222222222222,0.0,,128952.0,0.1203,17.51,Nov 26 03:43,Nov 26 09:20,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-L_c0406_SM3_BF1_Base,SUCCESS,5.6338888888888885,0.0,,120354.0,0.1066,17.51,Nov 26 03:43,Nov 26 09:21,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-L_c0418_SM3_BF1_Base,Running,,0.0,,,,,Nov 27 21:30,,,,,,,,,,,,AWS
-syn_event_Central_L-H-L-L_c0419_SM3_BF1_Base,Running,,0.0,,,,,Nov 27 21:30,,,,,,,,,,,,AWS
+syn_event_Central_L-H-L-L_c0419_SM3_BF1_Base,SUCCESS,6.2425,0.0,post-proc incomplete,121256.0,0.1024,17.51,Nov 27 21:34,Nov 28 03:48,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-L_c0420_SM3_BF1_Base,Running,,0.0,,,,,Nov 27 21:30,,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-L_c0421_SM3_BF1_Base,Running,,0.0,,,,,Nov 27 21:30,,,,,,,,,,,,AWS
 syn_event_Central_L-H-L-L_c0422_SM3_BF1_Base,Running,,0.0,,,,,Nov 27 21:31,,,,,,,,,,,,AWS
